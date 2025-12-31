@@ -1,0 +1,742 @@
+{
+  "milliyet": {
+    "Koç": {
+      "genel": "Arka planda işler hızlanıyor. Beklemede kalmak daha doğru. Hazırlık süreci. Enerji dalgalı. Aşk & İçinize dönmek isteyebilirsiniz. 👉 Bugün dinlenmek güç kazandırır.",
+      "aşk": "İçinize dönmek isteyebilirsiniz.",
+      "para": "Beklemede kalmak daha doğru.",
+      "sağlık": "Enerji dalgalı."
+    },
+    "Boğa": {
+      "genel": "Sosyal çevreden destek. Küçük kazançlar. Ekip çalışması. Boğaz-boyun. Aşk & Dostluk teması. 👉 Paylaşmak iyi gelir.",
+      "aşk": "Dostluk teması.",
+      "para": "Küçük kazançlar.",
+      "sağlık": "Boğaz-boyun."
+    },
+    "İkizler": {
+      "genel": "Eğitim, yazı, konuşma. Küçük ama faydalı gelişmeler. Yeni bakış açısı. Zihinsel yorgunluk. Aşk & Uzaklardan gelen duygular. 👉 Her duyduğunuza inanmayın.",
+      "aşk": "Uzaklardan gelen duygular.",
+      "para": "Küçük ama faydalı gelişmeler.",
+      "sağlık": "Zihinsel yorgunluk."
+    },
+    "Yengeç": {
+      "genel": "Ortaklı konular gündemde. Paylaşılan para başlıkları. Kontrol ihtiyacı. Mide hassas. Aşk & Güven sınavı. 👉 Netlik istemekte haklısınız.",
+      "aşk": "Güven sınavı.",
+      "para": "Paylaşılan para başlıkları.",
+      "sağlık": "Mide hassas."
+    },
+    "Aslan": {
+      "genel": "İkili iş görüşmeleri. Ortak kazançlar. Karşılıklı anlaşmalar. Kalp-dolaşım. Aşk & İdealizasyon riski. 👉 Gerçekleri görmekten kaçmayın.",
+      "aşk": "İdealizasyon riski.",
+      "para": "Ortak kazançlar.",
+      "sağlık": "Kalp-dolaşım."
+    },
+    "Başak": {
+      "genel": "Günlük düzen, sorumluluk. Detaylara dikkat. Disiplin kazandırır. Sinir sistemi. Aşk & Küçük kırgınlıklar. 👉 Her şeyi çözmek zorunda değilsiniz.",
+      "aşk": "Küçük kırgınlıklar.",
+      "para": "Detaylara dikkat.",
+      "sağlık": "Sinir sistemi."
+    },
+    "Terazi": {
+      "genel": "Yaratıcılık ön planda. Keyfi harcamalara dikkat. Sahne sizin. Bel-böbrek. Aşk & Hayal–gerçek çatışması. 👉 Kalbinizi koruyun.",
+      "aşk": "Hayal–gerçek çatışması.",
+      "para": "Keyfi harcamalara dikkat.",
+      "sağlık": "Bel-böbrek."
+    },
+    "Akrep": {
+      "genel": "Ev ve aile temaları. Evle ilgili masraflar. İçsel sorgulama. Duygusal yorgunluk. Aşk & Geçmiş konular tetiklenebilir. 👉 Akşam saatleri daha net.",
+      "aşk": "Geçmiş konular tetiklenebilir.",
+      "para": "Evle ilgili masraflar.",
+      "sağlık": "Duygusal yorgunluk."
+    },
+    "Yay": {
+      "genel": "Yoğun iletişim. Küçük kazançlar. Yeni bağlantılar. Omuz-kol. Aşk & Yanlış anlaşılmalara dikkat. 👉 Açık ve net konuşun.",
+      "aşk": "Yanlış anlaşılmalara dikkat.",
+      "para": "Küçük kazançlar.",
+      "sağlık": "Omuz-kol."
+    },
+    "Oğlak": {
+      "genel": "Venüs burcunuza geçiyor: ciddiyet. Uzun vadeli planlar. Saygınlık artışı. Kemik-diz. Aşk & Netlik ihtiyacı. 👉 Artık “mış gibi” ilişkiler bitiyor.",
+      "aşk": "Netlik ihtiyacı.",
+      "para": "Uzun vadeli planlar.",
+      "sağlık": "Kemik-diz."
+    },
+    "Kova": {
+      "genel": "Ay burcunuzda; zihin aktif. Ani fikirler kazandırabilir. Yeni yön. Sinir sistemi. Aşk & Mesafe ihtiyacı. 👉 Duyguları akılla dengeleyin.",
+      "aşk": "Mesafe ihtiyacı.",
+      "para": "Ani fikirler kazandırabilir.",
+      "sağlık": "Sinir sistemi."
+    },
+    "Balık": {
+      "genel": "Arka planda işler. Belirsizlik hissi. Henüz görünmeyen fırsatlar. Enerji düşüklüğü. Aşk & Hayal kırıklığına açık. 👉 Kendinizi koruyun.",
+      "aşk": "Hayal kırıklığına açık.",
+      "para": "Belirsizlik hissi.",
+      "sağlık": "Enerji düşüklüğü."
+    }
+  },
+  "hurriyet": {
+    "Koç": {
+      "genel": "İş hayatınızda veya sosyal ilişkilerinizde laubaliliğe tahammül edemeyebilir, herkesle aranıza kalın bir saygı duvarı örmek isteyebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Yurt dışı planları, eğitim veya vizyon gerektiren işlerde sadece somut getirisi olan, garantili projelere odaklanma eğilimindesiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Eşinizin harcamaları veya ortak borçlar konusunda ciddiyet bekleyebilir, en ufak bir sorumsuzluğa sert tepki gösterebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Evliliğinizde veya ortaklığınızda romantizmden çok \"geleceğimizi nasıl kurarız, borçları nasıl öderiz\" gibi konulara odaklanabilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Çalışma ortamınızda disiplinsizliğe, gecikmelere veya işini ciddiye almayan insanlara karşı tahammülünüz kalmayabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Aşk hayatınızda geçici hevesler veya flörtöz oyunlar yerine, statüsü olan ve ne istediğini bilen birini arayışına girebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Evinizde eski gelenekleri yaşatmak, aile büyüklerine hizmet etmek ve köklü bir düzen kurmak için çaba sarf edebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Yakın çevrenizle veya kardeşlerinizle sadece gerekli ve önemli konuları konuşup, havadan sudan sohbetleri kesmek isteyebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Maddi konularda harcamalarınızı kısıp birikim yapmaya, paranızı kalıcı değerlere (altın, toprak vb.) yatırmaya yönelebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Dış görünüşünüze, giyiminize ve imajınıza her zamankinden daha fazla özen göstererek, çevrenize \"ben güçlüyüm\" mesajı verebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Geçmiş ilişkilerinizi, hatalarınızı ve pişmanlıklarınızı yalnız başınıza analiz edip, ilişkilerden ne beklediğinizi netleştirebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Arkadaş çevrenizde size statü katacak, olgun, başarılı ve güvenilir insanları seçip, diğerlerini elemek isteyebilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "haberturk": {
+    "Koç": {
+      "genel": "Sevgili Koç, bugün, para ve iş konularında sezgilerine kulak vermek için güçlü bir gün. Kendini oldukça pratik uğraşlara ve fikirlere odaklanmış bulabilirsin. Aynı zamanda çalışırken keyif almak ve bu süreçte yeni bir şeyler öğrenmek için de uygun bir zaman. Zihinsel enerjin şu anda güçlü ve bir fikir doğrultusunda harekete geçmeye ya da daha fazla bilgi edinmeye yönelmiş hissedebilirsin. Sorunlu alanlarla yüzleşmeye ve ardından ilerlemeye hazırsın. Bazen biraz aceleci olmak senin lehine çalışabilir! Yeniyi benimsiyor, sonuçları iyi ya da kötü olsun, sonradan ele alıyorsun. Alışılmış rutinden çıkmanı sağlayacak heyecan verici fikirleri keşfedebilir ve zihnini ve ruhunu meşgul eden aktiviteler bulabilirsin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Sevgili Boğa, bugün Ay duygularını yoğunlaştırıyor ve seni daha görünür kılıyor. Zihinsel keskinlik için mükemmel bir gün. Bir durumun tüm katmanlarını görebiliyorsun. Araştırmalar ve ciddi zihinsel çaba gerektiren işler destekleniyor; ancak bu çabanın mutlaka uzun süreli olması gerekmiyor. Motivesin, fakat ayrıntılarla uğraşmaktan çok bir şeyleri başlatmakla ilgileniyorsun. Bir fikir konusunda özellikle heyecan duyabilir ve bazı zihinsel atılımlar yaşayabilirsin. Ayrıca biriyle yaşanan bir anlaşmazlığı çözmek için de iyi bir gün olabilir. Açık iletişim sayesinde ilişkiler güçleniyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": ", bugün Ay gizlilik alanında ilerlerken dünyadan biraz geri çekilmek doğal olabilir. Biraz içe dönüş ve dinlenme zamanı. Yine de belirli bir projeyi sürdürme konusunda heyecan duyabilirsin ve özellikle ilişkilerle ilgili fikir alışverişleri için önemli bir gün. Tartışmalar canlı ve coşkulu olabilir. Bir kişi, bir fikir ya da bir duygu konusunda özellikle heyecanlı hissedebilirsin. Şu anki enerjiler ilişkiler için destekleyici. Başkalarıyla iş birliği yapmak ve parlak fikirler ya da çözümler üretmek odakta olabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Sevgili Yengeç, bugün ilişkiler oldukça hareketli olabilir. Sorunların özüne inebilirsin. Başkalarıyla yapılan aktiviteler canlı ve olumlu geçebilir. Konuşmalar son derece faydalı olabilir; işe yarar bir şeyler öğrenmek ya da rahatlatıcı veya heyecan verici haberler duymak ön planda olabilir. Oldukça motive hissediyorsun ve somut, iddialı bir şey başarmaya hazırsın. Pratik zekân öne çıkıyor ve koşulları en iyi şekilde değerlendiriyorsun. Hayatının daha sorunsuz akması için problemleri çözmeye ve detaylarla ilgilenmeye hazırsın. Bir projeye tüm enerjinle dalmak ve kontrolü ele almak istiyorsun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Sevgili Aslan, bugün işleri yoluna koymak ve günlük rutinlerini iyileştirmeye yönelik çabalara başlamak için güçlü bir gün. Bununla birlikte kendini ifade etmek, oyunlar, fiziksel aktiviteler, aşk ve yaratıcılık için de oldukça uygun; ayrıca fazla enerjini yönlendirebileceğin tatmin edici çıkış yolları bulabilirsin. Özellikle duygularını ifade etme konusunda bugün kendini oldukça cesur hissedebilirsin. Bir fikir hakkında fazlasıyla heyecan duyabilir ve hatta bazı zihinsel atılımlar yaşayabilirsin. Hem duygusal hem de zihinsel enerji yüksek seyrediyor ve geçmişte ertelediğin projelere ya da sorumluluklara sarılmak için harika bir motivasyon hissedebilirsin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Sevgili Başak, bugün Ay ruh alanında ilerlerken daha geniş bir bakış açısına sahip olabiliyor ve bunun sonucunda hayatında neşe bulmakta daha başarılı oluyorsun. Öğrenme, öğretme ve paylaşma için enerjiler güçlü. Konuşmalarında oldukça fazla heyecan olabilir ve yeni fikirlere karşı hevesli hissedebilirsin. Başkaları senin hızına ayak uyduramıyor gibi görünebilir; ancak hedeflerinin peşinden bağımsız şekilde gidebilirsen çok şey başarabilirsin. Yine de seni motive eden ve sana ilham veren rekabetçi bir duygudan besleniyor olabilirsin. Aile, ev hayatı ya da bir aşk ilişkisiyle ilgili bir konuda sorun çözmek ya da net adımlar atmak için oldukça elverişli bir konumdasın.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": ", bugün bir etkinliği paylaşırken ya da ortak bir hedefin peşinden giderken daha kolay uyum sağlama eğilimindesin. Ev hayatını iyileştirmeye ekstra zaman ayırmak ve güvenlik ile konfor duygunu artırmanın yollarını düşünmek isteyebilirsin. Bir proje ya da fikir üzerinde çalışmak ve onu harekete geçirmek için motive olabilirsin; ayrıca sevdiğin bir şeye ya da yolundan çıkarman gereken bir işe kendini tamamen vermek için de mükemmel bir zaman. Oldukça hevesli olabilir, ilerleme kaydetmeye ve sorunları çözmeye hazır hissedebilirsin. Başkaları katkılarını her zamankinden daha fazla takdir edebilir, hatta belki de kendi performanslarını artırmak için ilham alabilirler. Zekâ ve hız destekleniyor, ancak bunu aşırıya kaçırmamaya dikkat etmek önemli.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Sevgili Akrep, bugün ruh hâlin geleceğe dönük, enerjini rutin işlerden ziyade keyifli bir şeye yönlendirmek sana iyi gelebilir. İşine ve günlük yaşamına taze fikirler katıyorsun. Normalden biraz daha hırslısın ve bu da motivasyonunu besliyor. Projeleri değiştirmek, inşa etmek ya da yeniden düzenlemek konusunda heyecan duyabilirsin. Doğal bir şekilde liderliği üstleniyor ve başkalarının ne istediğine dair güçlü bir sezgiye sahipsin. Zihinsel olarak iyi bir formdasın; iş ve liderlik becerilerin her zamankinden daha gelişmiş görünüyor. Para ya da işle ilgili güzel haberler sana ulaşabilir. Gelir getirici bir uğraşla ilgili heyecan verici bir konuşma ya da düşünceler gündeme gelebilir ve fikirleri harekete geçirme isteği duyabilirsin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Sevgili Yay, bugün etkileşimlerini daha derin bir düzeyde ele alırsan, ilişkilerin aracılığıyla kendinin gizli yönlerini keşfedebilirsin. Kaynaklarını geliştirme isteğin güçlü. İş ve eğlence arasında hoş bir denge kurmak için iyi bir konumdasın ve pratik bir konuda harekete geçersen kendinle gurur duyabilirsin. Bugün işe yarar bir sonuca varabilir ya da değerli bir şey öğrenebilirsin. Bilgini uygulamak ön planda. Zihinsel enerjin ve fikirlerini ifade etme cesaretin her zamankinden fazla. Bu dönem kişisel çekicilik ve doğal cazibe için harika bir zaman.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Sevgili Oğlak, bugün bağlantılar kurmak ve iletişim için iyi enerjiler seninle. Yaratıcı düşünce ve kalp meseleleri için güçlü bir gün. Sorumluluklarını yerine getirmek şu anda sana özellikle iyi hissettirecek. İnsanlar seni kendi hâline bırakma eğiliminde ve bu da ruh hâlini ciddi şekilde iyileştiriyor. Merkür ve Mars bugün paralel bir açıyla güçlerini birleştiriyor; bu da seni geçmişte kalmış ya da tamamlanmamış bir konuyu analiz etmeye odaklanmaya itebilir. Olumsuz duygusal enerjiyi bırakma konusunda somut ya da sembolik bir şey yapmak istiyorsun. Arınma ve sadeleşme temaları üzerinde düşün; çünkü bunu yapmak için harika bir enerjiye sahipsin. Şu anda daha derin bir öz farkındalık ile içsel güç ve kararlılık hissi var. Herkes seninle aynı hızda çalışmıyor olabilir, ancak şimdilik onay ya da yardıma ihtiyaç duymuyor gibisin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Sevgili Kova, bugün Ay ev ve aile alanında ilerliyor ve bu da içe dönüşü teşvik ediyor. Aileyle ya da özel bir konuyla ilgili harekete geçmek için çok iyi bir konumdasın. Fikirlerini ve yakın zamanda öğrendiklerini uygulamak ön planda olabilir. Şu anda iletişimi canlı ve enerjik tutmak fazla çaba gerektirmiyor. Dostluklar güçlü bir öncelik gibi görünüyor ve bu sana özel ödüller getirebilir; ya da belirli bir projeye ya da mutluluk hedefine tutkuyla bağlı olabilirsin. Kendine, fikirlerine ve yaptığın işe inanmaya hazırsın. Uzmanlığını ifade edebileceğin fırsatları ara; bununla birlikte tek başına ya da perde arkasında oldukça disiplinli bir şekilde çalışabilir ve bundan memnuniyet de duyabilirsin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Sevgili Balık, bugün biriyle aranızdaki \"havayı temizleme\" konusunda güçlü bir istek hissedebilirsin. Bunun yerine geleceğinle ilgili heyecan verici planlar da yapabilirsin. Bugün paylaşımda bulunmak ve arkadaşlarla bağlantı kurmak için oldukça elverişli; konulara daha inançlı ve olumlu bir bakış açısıyla yaklaşmaya eğilimlisin. Zaman zaman aşırı heyecan anları yaşanabilse de üretken bir gün olabilir. Kariyer planlamasıyla ilgili çabalar şu anda değerli; hedeflerine ulaşmak için zaman ayırmaya hazırsın, ancak bu gün pek de sabırlı sayılmaz. Özellikle uzun vadeli hedefler konusunda keşiflere açıksın. Pek çok açıdan girişimci ve kendi kendini harekete geçiren bir gün.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "elele": {
+    "Koç": {
+      "genel": "Yılın son gününde enerjiniz tavan! Sosyal çevrenizle birlikte yapacağınız planlar size büyük keyif verecek. Gece yarısına doğru alacağınız sürpriz bir telefon, 2026’nın ilk müjdesi olabilir. Aşk hayatınızda heyecan verici bir başlangıca hazır olun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Siz bu yılbaşı gecesinde huzuru ve kaliteyi ön planda tutuyorsunuz. Belki lüks bir akşam yemeği, belki de sevdiklerinizle evde samimi bir kutlama... Kariyerinizdeki belirsizliklerin bugün itibarıyla netleşmesi, yeni yıla kafanız rahat girmenizi sağlayacak.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "İletişim gezegeninizin desteğiyle gecenin yıldızı sizsiniz! Esprileriniz ve enerjinizle girdiğiniz her ortamı neşelendireceksiniz. Uzun süredir görmediğiniz bir dostunuzla karşılaşmak size nostaljik anlar yaşatabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Duygusal derinliğinizin arttığı bir gün. Yılı uğurlarken sevdiklerinize olan bağınızı güçlendirecek konuşmalar yapabilirsiniz. Maddi konularda beklenmedik bir rahatlama, yılın son saatlerinde yüzünüzü güldürebilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Spot ışıkları üzerinizde! Yılbaşı gecesinde şıklığınızla ve auranızla herkesi büyüleyeceksiniz. Ortaklı işler veya ikili ilişkilerde \"tamam mı devam mı\" kararı verdiğiniz bir süreci huzurla kapatıyorsunuz. 2026 size liderlik vaat ediyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Yılın son gününü biraz planlı ve düzenli geçirmek isteyebilirsiniz. Ancak akşam saatlerinde akışa bırakmayı denemelisiniz. Sağlık ve rutinlerinizle ilgili verdiğiniz yeni yıl kararları, bu gece itibarıyla disiplinle hayata geçmeye başlıyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Aşk ve eğlence sizin için ön planda! Eğer yalnızsanız, bu gece yeni biriyle tanışma ihtimaliniz çok yüksek. Yaratıcı projeleriniz için ilham perilerinin sizi ziyaret edeceği, oldukça estetik ve keyifli bir yılbaşı gecesi sizi bekliyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Bu geceyi daha çok aile bağlarınızı güçlendirerek geçirmek isteyebilirsiniz. Köklerinize dönmek ve evinizde sevdiklerinizi ağırlamak size iyi gelecek. Gayrimenkul veya ailevi meselelerde beklediğiniz o nihai karar bugün netleşiyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Kısa bir yolculuk veya yakın çevrenizle yapacağınız bir organizasyon gecenize renk katacak. Zihniniz o kadar hızlı ki, 2026 için şimdiden onlarca plan yaptınız bile. Sözlerinizin büyülü olduğu bir gün, dileklerinizi dile getirirken dikkatli olun!",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Doğum günü döneminizde olmanın verdiği güçle, maddi hedeflerinize odaklanmış durumdasınız. Yılın son günü alacağınız bir ödeme veya finansal haber, yeni yıla çok daha özgüvenli girmenizi sağlayacak. Kendinize bir ödül vermeyi unutmayın.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Ay sizin burcunuzda ilerlerken, yılın son gecesinde kendinizi çok daha özgür ve yenilenmiş hissedeceksiniz. Kişisel hedefleriniz için radikal kararlar alabilirsiniz. Etrafınızdaki insanlara ilham vereceğiniz, sıra dışı bir kutlama sizi bekliyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Ruhsal dünyanızda muazzam bir temizlik yapıyorsunuz. Geçmişin yüklerini bu gece arkada bırakıyorsunuz. Meditatif bir enerjiyle yıla veda etmek, rüyalarınızın rehberliğine güvenmek size 2026’nın anahtarını sunacak.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "onedio": {
+    "Koç": {
+      "genel": "bugün kariyer hayatında yıl boyunca verdiğin emeklerin meyvelerini toplamanın huzurunu yaşayabilirsin. Ciddi işlerin büyük kısmı geride kaldı ve şimdi 'son hamlelerin' tam zamanı. Sanki bir maratonun son metrelerini koşuyorsun ve bu süreçte başarıyla çıktığın zorlu yolların tatminini hissedebilirsin. Bugün ayrıca, resmi meselelerden ziyade gelecek planlarına odaklanmak, yeni hedefler belirlemek ve bunları kafanda şekillendirmek senin için daha cazip. Tam da bu noktada belki de bir fikri ortaya koymak, bir hayali dillendirmek ya da 2026 yılı için cesur bir niyet belirlemek seni destekliyor. Acele etmene gerek yok; önemli olan heyecanını koruyabilmek. Üstelik bu heyecan, seni yeni yıla güçlü bir şekilde taşıyacak enerji ile dolu! Peki ya aşk? Aşk hayatında ise yılın son gününde adeta bir sahne ışığı yanıyor üzerinde... Flörtler canlanıyor, tutkulu mesajlar, beklenmedik buluşmalar ya da 'hadi bu yılı güzel kapatalım' diyen bir an başını döndürüyor! Tabii bu durumda kalbin kıpır kıpır ve aşk bugün ciddiyet değil, keyif istiyor. Bu yüzden kendini aşkın keyifli akışına bırak ve bu yılın son günlerini dolu dolu yaşa. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün romantik bir hikayenin başrolüne adım atıyorsun! Yılın son gününde, aşk hayatında adeta bir spot ışık seni aydınlatıyor. Flörtlerin yeniden canlanıyor, tutkulu mesajlarla telefonun durmaksızın çalıyor, beklenmedik buluşmalar ve 'hadi bu yılı güzel kapatalım' diyen bir an başını döndürüyor. İşte bu durumda kalbin adeta bir kuş gibi cıvıldaşıyor ve aşk bugün ciddiyet değil, keyif arıyor. Bu yüzden kendini aşkın keyifli akışına bırak, kendini bu romantik hikayenin kahramanı gibi hisset ve bu yılın son günlerini dolu dolu yaşa. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün tüm yıl boyunca kariyerinde gösterdiğin çaba ve emeğin karşılığını alma günün olabilir. İş hayatındaki ciddi sorumlulukların büyük bir kısmını başarıyla geride bıraktın ve şimdi son hamlelerini yapma zamanı geldi. Bir maraton koşucusunun son metrelerini tamamlarken hissettiği tatmin duygusu ile dolabilirsin. Çünkü, zorlu yolları başarıyla geçerek buraya kadar geldin. Bugün, resmi işlerden ziyade, geleceğe dair planlarını yapmak, yeni hedefler belirlemek ve bunları kafanda net bir şekilde görmek daha cazip gelebilir. Bu noktada, belki de bir fikri ortaya atmak, bir hayali dillendirmek ya da 2026 yılı için cesur bir hedef belirlemek, seni destekleyecektir. Hızlı hareket etmek zorunda değilsin; asıl önemli olan, heyecanını ve motivasyonunu koruyabilmektir. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "yılın son gününde enerjini zirvede tutmak için en önemli konulardan biri olan uyku düzenini masaya yatırmak istiyoruz. Yeni yılda daha zinde ve sağlıklı bir yaşam için hayatında değişiklik yapman şart. Uyku düzenini korumak ise hayat kaliteni artırmak için atacağın en önemli adımlardan biri. Ancak burada kastettiğimiz, erken yatıp geç kalkmak değil. Asıl önemli olan, kendi ritmini bulmak. Yani, bedeninin ve zihninin ihtiyaç duyduğu saatlerde uyumak ve uyanmak. Bu ritmi bulmak, sadece enerjini yükseltmekle kalmayacak, aynı zamanda genel sağlık durumuna da olumlu etkileri olacak. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Boğa": {
+      "genel": "bugünün enerjisi kariyerinde belki biraz düşük seyredecek. Ancak bu durum içsel tatminini yükseltme fırsatı olarak karşına çıkıyor. İşten daha çok, 'Bu yıl neler başardım?' sorusu üzerine düşünmek için mükemmel bir gün. Artık maddi ya da manevi anlamda gururlandıracak bir farkındalığa ulaşabilirsin. Kendine küçük bir kutlama yapmayı da düşün deriz. Çünkü bunu hem hak ettin hem de motivasyonunu artırmanın harika bir yolu olabilir. Öte yandan artık gelecek planların bugün daha net ve daha gerçekçi hale gelebilir. Büyük adımlar atmanın zorunlu olduğunu düşünmektense vazgeçme zamanı. Aksine sağlam niyetler ve seni tatmin edecek hedeflerinin olması yeterli. Yılın son günü, sana güven veriyor ve önündeki yıla enerjik bir başlangıç yapman için seni hazırlıyor. Peki ya aşk? Aşk hayatında ise bugün, sıcak, keyifli ve tensel bir enerji hakim. Belki romantik bir akşam yemeği, samimi bir sohbet veya romantik dokunuşlarla yeni yıla girmek sana düşündüğünden çok daha iyi gelebilir. Zira aşk, bugün büyük sözlerden değil, paylaşılan anlardan besleniyor. Kalbinin huzurlu olduğunu hissedeceksin. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında sıcacık, keyif dolu ve dokunuşlarla dolu bir enerji seni bekliyor. Belki romantik bir akşam yemeği, belki de samimi bir sohbetle yeni yıla merhaba demek, düşündüğünden çok daha fazla zevk verebilir. Unutma, aşk bugün büyük laflardan çok, paylaşılan özel anlardan besleniyor. Kalbinin huzurlu olduğunu hissedeceğin bir güne hazır mısın? Yıl bitmeden aşk hayatın ve duyguların zirveye ulaşıyor... İşte tam da bu yüzden bir de gelecek yılı düşün! Hayat senin için anbean güzelleşecek gibi görünüyor. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugünün enerjisi kariyerini ilgilendiren konularda belki biraz düşük seyredecek. Ancak bu durum, içsel tatminini yükseltme fırsatı olarak karşına çıkıyor. İş hayatındaki yoğunluk ve telaştan biraz uzaklaşıp 'Bu yıl ben neler başardım?' sorusu üzerine düşünmek için mükemmel bir gün. Maddi ya da manevi anlamda gurur duyacağın bir farkındalığa ulaşma şansın var. Kendini biraz şımartmayı, belki küçük bir kutlama yapmayı da düşünebilirsin. Çünkü bunu hem hak ettin hem de motivasyonunu artırmanın harika bir yolu olabilir. Öte yandan, gelecek planların bugün daha net ve daha gerçekçi bir şekilde şekillenebilir. Büyük adımlar atmanın zorunlu olduğunu düşünmekten vazgeçme zamanı geldi. Aksine, sağlam niyetler ve seni tatmin edecek hedefler belirlemen yeterli olacak. Görünen o ki yılın son günü, sana güven veriyor ve önündeki yıla enerjik bir başlangıç yapman için seni hazırlıyor. Sen de bu enerjiyle yeni yıla girerken, hayallerini gerçekleştirecek adımları atmanın keyfini çıkar! Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugünkü sağlık hedefin: Aktif bir yaşam tarzını benimsemek ve sporu günlük rutinine eklemek! Yılın son günü ile birlikte sağlığın için bu konuda karar almalı ve aksiyom almak için bir plan da yapmalısın. Zira şimdi hareket etme ve enerjini yükseltme zamanı. Ancak burada önemli olan nokta, spor salonuna gitmek zorunda olmadığın. Tabii spor salonları harika bir seçenek olabilir ama evde veya dışarıda yapabileceğin birçok aktivite var. Yürüyüşe çıkabilir, dans edebilir, pilates yapabilir veya sevdiğin başka bir hareketi tercih edebilirsin. Önemli olan, sevdiğin bir hareketi seçip onu hayatının bir parçası yapmak. Unutma, beden hareket ettikçe, ruhun da genişler ve canlanır. Dolayısıyla, sadece fiziksel sağlığını değil, ruhsal sağlığını da iyileştirecek bir aktivite seç. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "İkizler": {
+      "genel": "yılın son gününde de bolca hareket seni bekliyor. Özellikle kariyer hayatında bugün, resmi işlerin dışında, yaratıcı fikirlerin ve yeni projelerin ön plana çıktığını göreceksin. 2026 yılına dair planlarını yaparken, kapanış konuşmaları ve gelecek hedeflerinin heyecanıyla dolup taşacaksın. İşte bu yüzden, bugün kendini ilham dolu hissedecek ve yerinde duramayacaksın. Tam da bu noktada, çalışma hayatının stresinden bir kenara çekmelisin. Düşünmek, yazmak ve hayal kurmak sana oldukça iyi gelecektir. Yılın son gününde zihninin zincirlerini kırıp özgür bırakman, yeni yıla girerken motivasyonunu artıracaktır. Şimdi 2026'nın heyecanına odaklan. Peki ya aşk? Aşk hayatına gelirsek, bugün renklerin, hareketin ve neşenin hüküm sürdüğü bir gün olacak. Ani mesajlar, sürpriz planlar ve kahkahalar seni cezbedecek gibi görünüyor. Bugün aşk, biraz oyun, biraz heyecan ve biraz da 'İyi ki varım' hissi taşıyacak. Kalbin gençleşecek ve aşkın tatlı heyecanını doyasıya yaşayacaksın. Tabii eğer bekarsan, her an onu bulabilir yeni yıla aşkla girebilirsin bizden söylemesi! Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında renklerin, hareketin ve neşenin hüküm sürdüğü bir gün olacak. Gün boyu sürekli gelen mesajlar, beklenmedik anda yapılan sürpriz planlar ve kahkahalarla dolu anlar, kalbini hızlandıracak ve seni büyüleyecek. Bugün aşk, biraz oyun, biraz heyecan ve biraz da 'İyi ki varım' hissi taşıyacak. Sıkı dur, kalbin gençleşecek, aşkın tatlı heyecanını doyasıya yaşayacak ve hayatın ne kadar güzel olduğunu fark edeceksin. Bugün aşk hayatında her şey senin istediğin gibi olacak ve bu durum seni oldukça mutlu edecek. Tabii eğer bekarsan, bugün aşkı bulma ihtimalin de oldukça yüksek. Belki de yeni yıla aşkla gireceksin, kim bilir? Yarın görüşmek üzere, aşkla kal…",
+      "para": "yılın son gününde bile enerjini dizginlemek pek kolay olmayacak. Özellikle kariyer hayatında bugün, resmi işlerin ve rutin görevlerin ötesinde, yaratıcı fikirlerin ve yeni projelerin öne çıkacak. Ve bu durum, seni hem heyecanlandıracak hem de motive edecek. Tam da bu noktada 2026 yılına dair planlarını yaparken, yılın kapanış konuşmaları ve gelecek hedeflerinin heyecanıyla dolup taşacaksın. Böylelikle kendini ilham dolu hissedeceksin, enerjin tavan yapacak ve adeta yerinde duramayacaksın. Ancak burada önemli bir noktayı unutmamalısın: Çalışma hayatının stresinden bir kenara çekilmek ve kendine biraz zaman ayırmak seni daha da güçlendirecektir. Düşünmek, yazmak ve hayal kurmak sadece sana iyi gelmekle kalmayacak, aynı zamanda zihninin zincirlerini kırarak özgür bırakmanı da sağlayacak. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "yılın son günü ile birlikte hayatında bazı şeyleri değiştirmen sağlığın açısından bir hayli önemli. Mesela, ekran detoksu gelişen teknolojiye rağmen 2026 için harika bir hedef. Zira bu detoks, zihninin ve bedeninin ihtiyaç duyduğu ferahlığı sağlamak için harika bir adım. Ekran ışıklarından uzaklaşmaksa hem gözlerini hem de zihnini rahatlatacaktır. Günde en az bir saat süresince 'telefonsuz zaman' ilan etmek, bu hedefe ulaşmanı sağlayacak bir yöntem. Bu süre zarfında cep telefonunu, bilgisayarını ya da televizyonunu bir kenara bırakıp tamamen kendine zaman ayırmanı öneriyoruz. Bu saatlerde belki bir kitap okuyabilir, belki de favori müziklerini dinleyebilirsin. Hatta sadece pencereden dışarıyı izlemek bile, zihninin ve gözlerinin dinlenmesine yardımcı olacaktır. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Yengeç": {
+      "genel": "bugün iş hayatın sakin geçecek! Fakat bu sakinlik içerisinde, yıl boyunca göstermiş olduğun çabanın, emeğin karşılığını hissedeceğin bir tatmin duygusu seni saracak. İşteki başarılarından çok, kendini ne kadar geliştirdiğin, ne kadar ilerlediğin konusunda içten içe bir gurur duygusu hissedeceksin. Zaten odaklanman gereken de tam da bu! Zira, başarı içinde yaşadığın güzel değişimin ta kendisi. Tam da bu noktada, uzun zamandır aklında olan hedeflerini netleştirebilirsin. '2026 yılında ne yapmak istiyorum?' sorusunun cevabını bulmak üzeresin. İç sesini dinle, çünkü bugün sana çok doğru yönlendirmelerde bulunacak. Mevcut düzeninin dışında kendi işini ve hayatını yönetmeyi hayal etmeyi, hedeflerini bu yönde belirlemeyi de unutma deriz! Peki ya aşk? Aşk hayatına geldiğimizde ise duygusal bir yoğunluk seni bekliyor olacak. Belki de eski bir anı, belki de beklenmedik bir mesaj ya da geçmişten gelen bir dostun yüzü ve sıcak sarılması ile güçlenecek. Bugün aşk hayatında nostalji rüzgarları eserken, romantizm de eksik olmayacak tabii! Yılın son gününde içtenlikle yaşayacağın tüm bu duygular, sana keyifli anlar yaşatacaktır elbette. Ama sana bu yıl için son tavsiyemiz, attık önüne bakmak olacak. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün seni romantik bir hikayenin başrolü olmaya davet ediyoruz. Aşk hayatında duygusal bir yoğunluk seni bekliyor; kalbin hızla atacak, duygularınla baş başa kalacağın anlar yaşayacaksın. Bu yoğunluk belki eski bir anıyı hatırlamandan, belki beklenmedik bir mesaj almandan ya da geçmişten gelen bir dostun sıcak sarılmasından kaynaklanacak. Yılın son gününde, nostalji rüzgarları eserken, aşk hayatında romantizmin de eksik olmayacağını söyleyebiliriz. Belki bir çift göz, belki bir gülümseme, belki de bir dokunuş... Kim bilir, belki de geçmişten gelen bir aşkın yeniden canlanması... Bugün, romantizmin ve nostaljinin birleştiği bir gün olacak. Ancak sana bu yıl için son tavsiyemiz, geçmişe takılıp kalmamak ve attığın adımlarla geleceğe bakmak olacak. Geçmişte yaşadığın duygusal deneyimler, senin bugünkü ve gelecekteki seçimlerini şekillendirecek. Ancak unutma, hayat ileriye doğru yaşanır! Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün iş hayatında adeta bir göl gibi sakin bir gün seni bekliyor. Ancak bu sakinliğin ardında, bir yıl boyunca gösterdiğin çaba ve emeğin tatlı meyvelerini toplama zamanın geldiğini hissedeceksin. İşteki başarılarının yanı sıra, kişisel gelişimine ve ilerlemene dair bir gurur dalgası seni saracak. Bu, tamamen içten gelen, kalbinden doğan bir gurur olacak. İşte bu yüzden, bugün odaklanman gereken şey tam da bu. Çünkü başarı, yaşadığın bu güzel değişimin ta kendisi. Bu noktada, belki de uzun zamandır aklının bir köşesinde duran hedeflerini netleştirebilirsin. '2026 yılında ne yapmak istiyorum?' sorusunun cevabını bulma yolunda önemli bir adım atabilirsin. İç sesine kulak ver. Çünkü bugün sana çok doğru yönlendirmeler yapacak. Belki de bugüne kadar alıştığın düzenin dışına çıkmayı, kendi işini kurmayı ve hayatını kendi yönetimine almayı hayal ediyorsun. Eğer öyleyse, hedeflerini bu yönde belirlemeyi ihmal etme. Unutma, hayaller gerçek olabilme potansiyeline sahip olan düşlerdir. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugün seninle biraz sağlık hedeflerinden bahsetmek istiyorum. Senin yılın son günündeki öncelikli hedefin: Beslenme saatlerini düzene sokmak olmalı. Biliyoruz ki, bedenimiz düzeni ve ritmi sever. Bu nedenle, öğün saatlerini sabitlemek, yemeklerini yavaş yavaş, keyif alarak yemek senin yeni yıl hedefin olmalı. Bu hedefe ulaşmak için, öğün saatlerini belirleyip bu saatlere sadık kalmak, yemeklerini yavaşça ve tadını çıkararak yemek oldukça önemli. Düşünsene, sofran artık sadece bir yemek yeme yeri değil, aynı zamanda keyif aldığın, huzur bulduğun bir alan olacak. Bu düzeni sağladıkça, huzurunun arttığını ve kendini daha iyi hissettiğini fark edeceksin. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Aslan": {
+      "genel": "bugün rengarenk sahne ışıkları ve eğlenceli bir iş atmosferi seni bekliyor. Evet, belki çalışmak zorunda olabilirsin ama motivasyonun tavan yapmış durumda. Çünkü yılın son gününde, bugüne dek ulaştığın hedefler için ödüllendirilebilirsin. İş yerinde takdir görmenin, güzel sözler duymanın verdiği mutlulukla, moralin oldukça yüksek! Üstelik bugün promosyon, ödül, prim ya da zamla da ödüllendirilebilirsin. Öte yandan bugün, 2026 yılına dair hayallerini kurmak da sana öylesine yakışıyor ki! Cesaretin yerinde, enerjin yüksek ve hayallerini gerçekleştirme konusunda oldukça isteklisin. Gördüğün takdir ve elde ettiğin saygınlık da üzerine eklendiğinde artık yeni yıla hazırsın. Yeni başarılar ve gururlar seni bekliyor. Peki ya aşk? Aşk hayatına gelirsek, bugün adeta bir yılbaşı filmi sahnesindeymişsin gibi hissedebilirsin. Işıklar, sürprizler, flört etmek ve romantik bir buluşma... Bugün aşk, fark edilmek, beğenilmek ve keyif almak olarak bile tanımlanabilir. Ancak dikkatli ol kalbini bu denli attıran ve seni heyecanlandıran şey yasak bir aşk olabilir. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında adeta bir yılbaşı filmi sahnesindeymiş gibi hissedebilirsin. Belki de hafif kar yağışı eşliğinde, ışıl ışıl yılbaşı ışıklarının altında, biraz flört, biraz romantizm... Kim bilir belki de bir sürprizle karşılaşabilirsin. Bugün aşk, belki de bir bakışta fark edilmek, belki de bir gülüşte beğenilmek olabilir. Ya da belki de sadece birlikte geçirilen keyifli anlardan ibarettir. Ancak dikkatli olmalısın, çünkü kalbini hızla çarptıran ve seni heyecanlandıran bu duygular, yasak bir aşka işaret ediyor olabilir. Bu durum her ne kadar heyecan verici olsa da, yasak aşklar genellikle karmaşık sonuçlar doğurabilir. Bu yüzden bugün, aşk hayatında yaşadığın tüm bu heyecan verici anların tadını çıkarırken, bir yandan da dikkatli olmayı unutma. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün senin için bir festival gibi olacak. Çalışma hayatının monotonluğunu bir kenara bırakıp rengarenk ışıklarla süslenmiş bir iş atmosferinde kendini bulacaksın. Evet, belki biraz ter dökeceksin ama motivasyonunun tavan yapacağı bir gün seni bekliyor. Yılın son gününde, emeklerinin karşılığını almanın heyecanı içindesin. Bugüne kadar koyduğun hedeflere ulaşmanın verdiği tatmin duygusu, iş yerindeki takdirlerle birleşince, moralin adeta zirvede olacak. Üstelik bugün, sana bir sürpriz de yapılabilir. Belki bir promosyon, belki bir ödül, belki bir prim ya da belki de beklediğin o zam... Kim bilir? Ayrıca bugün, 2026 yılına dair hayallerini kurmak için mükemmel bir gün. Cesaretin yerinde, enerjin tavan yapmış ve hayallerini gerçekleştirme konusunda adeta bir savaşçı gibi hissediyorsun. İş yerinde gördüğün takdir ve kazandığın saygınlık ise hayallerine ulaşma konusunda sana ekstra bir güç veriyor. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugün seninle birlikte yeni yılın sağlık hedeflerini konuşacağız. Ve bu hedefin adı: Duruş ve beden farkındalığı! Yılın son gününde, senin bu motton: 'Dik durmak' olmalı. Gün içinde duruşunu fark etmek, omuzlarını gevşetmek ve bedenini sanki bir sahnede gibi taşımak, enerjini yükseltmenin en etkili yollarından biri. Beden farkındalığına odaklanmak, kendine olan güvenini artırmanın en doğru adımlarından biri. Çünkü unutma ki, kendine güvenin ilk adımı bedenden başlar. Bu yüzden, duruşunu düzelt, omuzlarını gevşet ve kendini bir sahnede gibi hisset. Kendine olan güvenin ve enerjinin arttığını göreceksin. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Başak": {
+      "genel": "bugün kariyerindeki genel tabloya odaklanmanın tam zamanı. Yıl boyunca gerçekleştirdiğin işleri zihninde bir araya getir, eksiklerini belirle ama kendini yargılamadan, olumlu bir şekilde ilerlemeyi hedefle. Eleştiri oklarını bugün olsun kendine çevirme! Hatta bugün, yıl boyunca ne kadar da çok iş tamamladığını hisset ve rahatla! Yeni yılın hemen köşede olduğunu düşünürsek, belki de daha minimalist ve dengeli hedefler belirlemenin de zamanı gelmiştir, ne dersin? Üstelik 2026'da az sayıda ama etkisi büyük planlar seni bekliyor. Bu yeni yıl, belki de kariyerinde yeni bir sayfa açmanın tam zamanı. Sıkıldıysan ya da zihnindeki eleştiri oklarını iş hayatından döndüremiyorsan, değişikliği kucakla! Peki ya aşk? Aşk hayatında ise bugün, yumuşak ve sıcak bir enerji seni sarmalamış durumda. Küçük bir jest, özenle düşünülmüş bir mesaj ya da huzurlu bir beraberlik, bugün seni mutlu edebilecek en güzel şeylerden. Aşk, bugün sana huzurla gülümseyerek bakıyor. Bu güzel enerjiyi kaçırma ve sevdiklerinle paylaş. Belki de yılın son gününde o beklediğin romantik mi romantik teklifi de alırsın! Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında sıcacık bir rüzgar esiyor, adeta seni sarıp sarmalıyor. Bu yumuşacık enerji, kalbinde neşeli bir melodi çalıyor ve seni, sevdiklerinle geçireceğin huzurlu anlara davet ediyor. Küçük bir jest, belki bir çiçek, belki bir çikolata ya da özenle seçilmiş, kalbinden dökülen bir mesaj... İşte bugün senin için en değerli olan şeyler bunlar olacak. Aşk, gözlerindeki parıltıyı görüp sana huzurla gülümseyerek bakıyor. Bu gülümseme, kalbindeki aşk ateşini daha da alevlendiriyor. Bu özel ve güzel enerjiyi sakın kaçırma, sevdiklerinle paylaş, onların da bu mutluluğu tatmasına izin ver. Belki de bugün, yılın son gününde, beklediğin o romantik teklif kapını çalar. Kim bilir, belki de o beklediğin yüzük, bir anda parmağında belirir. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün enerjini kariyerindeki genel durumuna odaklamak için mükemmel bir gün. Geçtiğimiz yıl boyunca elde ettiğin başarıları ve tamamladığın projeleri bir düşün, tamamlanmamış işlerin ve eksik kalan noktaların farkına var. Ama unutma, bu süreçte kendini eleştirmenin yerine, daha çok olumlu bir bakış açısıyla ilerlemeyi hedeflemelisin. Kendine yönelik eleştiri oklarını bugün bir kenara bırak, geride bıraktığın yıl boyunca ne kadar çok iş başardığını düşün ve biraz rahatla. Yeni yılın kapıda olduğunu düşünürsek, belki de daha minimalist ve dengeli hedefler belirlemenin tam sırası geldi. Üstelik 2026 yılı, az ama öz, etkisi büyük hedefler belirlemen için seni bekliyor. Bu yeni yıl, kariyerinde yeni bir sayfa açmanın tam zamanı olabilir. Eğer iş hayatında sıkıldıysan veya zihnindeki eleştiri oklarını iş hayatından uzaklaştıramıyorsan, belki de değişikliği kucaklamanın tam zamanıdır. Kariyerindeki bu yeni sayfayı, yeni yılın taze enerjisiyle birlikte açabilirsin. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugün seninle yeni yılın sağlık hedeflerini belirlemeliyiz. Belki de artık cilt bakımı ve kendine özen gösterme konularını rutinin bir parçası haline getirebilirsin. Yılın son gününden itibaren cil ve saç bakımları senin için bir lüks olmaktan çok, hayatının dengesi haline gelebilir. Çünkü biliyoruz ki, kendine özen göstermek, senin için bir terapi, bir meditasyon seansı kadar etkili. Zira rutin haline gelen cilt bakımları ve kişisel alanlar, sadece cildinin daha sağlıklı ve parlak görünmesini sağlamakla kalmayacaktır. Aynı zamanda kendinle baş başa kalabileceğin, sakinleşebileceğin ve kendini yeniden keşfedebileceğin anlar da olacaktır. Artık aynaya her baktığında, yüzündeki her bir çizgiye, her bir benine gülümseyerek kendine olan sevgini ve kabulünü bir kez daha pekiştirme şansı da elde edeceksin. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Terazi": {
+      "genel": "bugün kariyer hayatında biraz gevşemelisin. Ama daha da önemlisi sosyalleşmelisin... İş yerinde ciddi işlerin yerini keyifli sohbetler, yıl sonu neşesi ve hafif bir tatil atmosferi alıyor. İş yerindeki bağlantıların ve gelecek planların bugünün ana konuları haline geliyor. İşteki herkesin biraz daha rahat ve sosyal olduğu bu dönemde, yeni bağlantılar ve ağlar kurmak bile eğlenceli olabilir. Elbette yeni yılın heyecanı sana ilham veriyor... Yeni yıl için belirlediğin hedefleri ve niyetleri başkalarıyla paylaşmak, seni daha da motive edebilir. Belki de yakın bir dostun, iş arkadaşın ya da yöneticinle mevcut düzeninin tamamen dışında yepyeni bir maceraya atılma fikri de bugün doğabilir. Görünen o ki yeni yıl ayak seslerini duyurduğunda bile bereket kapını çalıyor. Peki ya aşk? Aşk hayatında ise bugün romantizm rüzgarları esiyor. Sevdiğin kişiye tatlı sözler fısıldamak, estetik detaylara dikkat etmek ve şık bir plan yapmak tam da senlik. Bugün aşk hayatında kendini daha fazla ifade etmek, duygularını paylaşmak için mükemmel bir gün. Kalbin dengede, ruhun neşe dolu. Aşkı dolu dolu ve olduğu gibi yaşa. Tabii bekarsan, sakın gecenin ilerleyen saatlerinde eski sevgilini arama! Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında romantizmin hüküm sürdüğü bir gün olacak. Sevdiğin kişiye tatlı sözler fısıldamak, ona olan sevgini ve tutkunu ifade etmek için ideal bir zaman dilimi. Aynı zamanda estetik detaylara dikkat etmek, belki de küçük sürprizlerle onu şımartmak tam da ruhuna uygun. Belki de bir akşam yemeği planı yapabilirsin, şık bir restoran, mum ışığı ve hafif bir müzik eşliğinde. Bugün, duygularını daha fazla ifade etmek, sevdiğin kişiye iç dünyanı daha fazla açmak için mükemmel bir gün. Kalbin dengede ve ruhun neşe dolu... Bu durumu en iyi şekilde değerlendirmeli ve aşkı dolu dolu, olduğu gibi yaşamalısın. Tabii eğer bekarsan, bugünün romantik enerjisi seni eski sevgilini aramaya itebilir. Ancak unutma ki geçmişte kalanı orada bırakmak bazen en doğrusudur! Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün senin için iş hayatında biraz gevşeme zamanı. Ancak bu durumun seni sosyal hayattan uzaklaştırmasına izin verme. İş yerinde ciddi işlerin yerini keyifli sohbetler, yıl sonu coşkusu ve hafif bir tatil atmosferi alıyor. İş yerindeki bağlantıların ve gelecek planların bugünün ana konuları haline geliyor. Herkesin biraz daha rahat ve sosyal olduğu bu dönemde, yeni bağlantılar ve ağlar kurmak bile eğlenceli olabilir. Yeni yılın yaklaşmasıyla birlikte, seni heyecanlandıran yeni hedefler ve niyetler belirlemeye başladın bile. Bu hedefleri ve niyetleri başkalarıyla paylaşmak, seni daha da motive edebilir. Belki de yakın bir dostun, iş arkadaşın ya da yöneticinle mevcut düzeninin tamamen dışında yepyeni bir maceraya atılma fikri de bugün doğabilir. Görünen o ki yeni yıl ayak seslerini duyurduğunda bile bereket kapını çalıyor. Yani, bugün kendini biraz gevşet, iş yerindeki sohbetlerin tadını çıkar, belki biraz da eğlen. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugün seninle sağlık hedeflerinden bahsetmek istiyoruz. Yeni yılın ilk günlerinde, sana önerimiz nefes ve denge çalışmalarına odaklanmak olacak. Nefes alıp vermek, hayatın en temel parçalarından biri. Ancak çoğumuz, nefes almanın aslında ne kadar önemli olduğunu ve ne kadar büyük bir etkisi olduğunu unutuyoruz. İşte bu yüzden, yılın son gününde nefesine odaklanmanı öneriyoruz. Günlük rutinin içerisine birkaç dakikalık nefes egzersizlerini eklemek, sana inanılmaz bir rahatlama ve huzur hissi verecek. Bunun yanı sıra, hafif yoga ya da esneme egzersizlerine de yer vermeni tavsiye ediyoruz. Bu egzersizler, bedeninle bağlantıyı güçlendirecek ve dengeyi sağlayacak. Denge, hem bedenin hem de ruhun için çok önemli. Bedeninle denge kurduğunda, ruhun da huzur bulacak. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Akrep": {
+      "genel": "yılın son gününde rakiplerin dinlenmeye geçmiş olabilir! Ama sen? Kariyerinde bir dönüm noktasındasın. Yıl boyunca seni yıpratan ve enerjini tüketen konuları zihninden silmek üzeresin. Çünkü bugün, işlerin yoğunluğuna değil, ruhunun huzuruna odaklanmak isteyebilirsin. İçindeki ses, sana bugün son bir işe imza atmanı ve sonrasında da derin bir nefes almanı söylüyor. Belli ki bugün 2026 yılına dair vizyonunu, kendi geleceğini şekillendirerek belirleyeceksin! Hayalindeki işi kurmak için aradığın yatırımcıyı bulabilecek, krediyi alabilecek ya da aileden gelen maddi bir destekle güçlü bir adım atacaksın. İş birlikleri ve ortaklıklar için de son imzalar bugün atılacak. Yıl bitmeden seni zengin edecek proje için el sıkışacaksın. Peki ya aşk? Aşk hayatında ise bugün tutkuların dorukta. Derin bakışlar, yoğun duygular ve karşı konulmaz bir çekim seni sarıyor... Açıkçası, aşk bugün sessiz ama çok etkili olacak. Zira, yılın son anlarında desteğini hissettiğin kişi senin ruh eşin olacak. Belki henüz onunla birlikte değilsin ama günün sonunda bir şeylerin değişeceği aşikar. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk rüzgarları etrafında esiyor ve tutkularını zirveye taşıyor. O derin ve anlamlı bakışlar, kalbini hızlandıran yoğun duygular ve karşı konulamaz bir çekim gücü... İşte tüm bunlar, bugün seninle. Aşkın sessizliği ve etkisi, bugün seni sarmalayacak ve belki de beklenmedik bir şekilde hayatını renklendirecek. Yılın son anlarına yaklaşırken, yanında olan ve desteğini esirgemeyen kişi ise ruh eşin olabilir. Belki henüz onunla birlikte değilsin, belki henüz birlikte olma fikri bile aklından geçmiyor... Ancak, bugünün sonunda bir şeylerin değişeceği kesin. Kim bilir, belki de aşkın gücü, seni beklenmedik bir yolculuğa çıkaracak. Yarın görüşmek üzere, aşkla kal…",
+      "para": "yılın son gününde çoğu kişi dinlenmeye çekilmiş olabilir ama senin enerjin hala tavan yapmış durumda. Hız kesmeden ilerleyişini sürdüren sen, kariyerinde bir dönüm noktasına gelmiş bulunuyorsun. Yıl boyunca üzerinde büyük bir yük oluşturan ve enerjini tüketen konuları artık geride bırakma zamanı geldi. Çünkü bugün, işlerin yoğunluğundan ziyade, ruhunun derinliklerindeki huzura odaklanmak isteyeceksin. İçindeki ses, sana bugün son bir işe imza atmanı ve sonrasında da derin bir nefes almanı fısıldıyor. Görünüşe göre bugün, 2026 yılına dair vizyonunu belirleyeceğin bir gün olacak. Kendi geleceğini şekillendirecek adımları atacak, hayalindeki işi kurmak için aradığın yatırımcıyı bulabilecek, krediyi alabilecek ya da aileden gelen maddi bir destekle güçlü bir adım atacaksın. İş birlikleri ve ortaklıklar için de son imzalar bugün atılacak gibi görünüyor. Hatta yıl bitmeden seni zengin edecek proje için el sıkışacaksın bile diyebiliriz. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugünden itibaren su tüketimi konusunda daha özenli olmalısın. Bu basit ama etkili değişiklik, 2026 yılında sağlığına olumlu bir etki yaratabilir. Arınmanın en basit ve doğal yolu suyu bolca tüketmektir. Bu yüzden kendine su içmeyi hatırlatan küçük ritüeller oluşturabilirsin. Belki bir alarm kurabilir, belki de kendine şık bir su şişesi alabilirsin. Hatta belki de her bir bardak su içtiğinde kendine bir niyet belirleyebilirsin. Bedenin su ile hafiflerken, enerjin de derinleşiyor. Su, sadece fiziksel değil, duygusal ve enerjisel arınmanın da anahtarıdır. Yani su içmek, hem bedenini hem de ruhunu tazeler. Yani ne bekliyorsun? Hadi, bir bardak su al ve bu yeni yolculuğa başla! Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Yay": {
+      "genel": "bugün özgürlüğün tadını çıkarmaya ne dersin? Kariyerine dair her ne kadar bazı sorumlulukların olsa da, bugünün enerjisi seni 'İşlerimizi halleder, sonra kutlamalarımızı yaparız' düşüncesine yönlendiriyor. Yılın son anlarında, yeni başlangıçlara ve heyecan verici maceralara göz kırpıyorsun. Yeni yılın gelişiyle birlikte, aklın büyük planlar, uzak hedefler ve cesur kararlarla doluyor. Çünkü yeni deneyimler yaşama düşüncesi enerjini yükseltiyor ve yeni başlangıçlara hazır olduğunun altını çiziyor. Bu enerjiyi kullanarak, bir iş görüşmesi ya da en azından iş başvurusuna ne dersin? Belki de rotan yeni yılda tamamen değişir bu sayede! Peki ya aşk? Aşk hayatında ise bugün, neşe ve kahkaha dolu anlar seni bekliyor. Beklenmedik bir davet, sürpriz bir plan ya da kalbini hızlandıracak bir mesaj, gününü renklendirebilir. Aşk hayatın bugün oldukça eğlenceli ve hareketli olacak. Kendini spontane anlara bırak ve bu keyifli enerjinin tadını çıkar. Kim bilir, belki de bekarsan dürtülerine kapılıp yeni yılın ilk anlarında yanında olacak bir partner bile bulabilirsin. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında Güneş gibi parıldayan, neşe ve kahkaha dolu anlar seni bekliyor. Sıradan bir gün gibi başlayan bugün, beklenmedik bir davetle, sürpriz bir planla ya da kalbini hızlandıracak bir mesajla aniden renklenebilir. Aşk hayatın bugün sıradanın ötesinde, adeta bir film sahnesi gibi eğlenceli ve hareketli olacak. Kendini spontane anlara bırak, belki de beklenmedik bir kahve daveti, belki de uzun zamandır planladığın bir buluşma, belki de tamamen sürpriz bir karşılaşma... Kim bilir? Ancak şunu unutma ki her an her şey olabilir. Bu keyifli enerjinin tadını çıkar! Belki de bekarsan ve aşka dair umutlarını yeni bir yıla taşıyorsan, dürtülerine kapılıp yeni yılın ilk anlarında yanında olacak bir partner bile bulabilirsin. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün özgürlüğünü tam anlamıyla hissetmek, ruhunu serbest bırakmak ve hayatın tadını çıkarmak için harika bir gün. Evet, kariyerinle ilgili bazı sorumlulukların var ve bunlar zaman zaman seni sıkıyor olabilir. Ancak bugün, evrende seninle birlikte dans eden enerji, 'Önce işlerimizi halledelim, sonra coşkulu bir şekilde kutlamalarımızı yapalım' düşüncesini fısıldıyor kulağına. Yılın son demlerindeyken, gözlerin yeni başlangıçlara, heyecan dolu maceralara ve belki de hiç bilmediğin deneyimlere kayıyor. Yeni yılın yaklaşmasıyla birlikte, aklın büyük hayaller, uzun vadeli hedefler ve cesur adımlarla dolup taşıyor. Yeni deneyimlere atılmak, bilinmeyene doğru yolculuk yapmak senin enerjini yükseltiyor ve yeni başlangıçlara hazır olduğunu gösteriyor. Bu enerjiyle dolu haliyle, belki de bir iş görüşmesi ayarlamak ya da en azından bir iş başvurusu yapmak için mükemmel bir zaman. Kim bilir belki de yeni yılda rotan tamamen değişir ve hayatının en heyecan verici dönemine adım atarsın. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugün senin için sağlıkla ilgili bir hedefimiz var: Günlük hareket molaları! Yılın son gününden itibaren bir karar vermelisin, 2026 yılında uzun süre aynı yerde kalmak yok! İster evinde, ister iş yerinde ol, gün içinde kısa yürüyüşler yapmayı, arada bir esnemeyi ve minik kaçamaklar yapmayı planlamalısın. Biliyorsun ki hareket ettikçe enerjin artıyor, neşen yerine geliyor. Bu yüzden, her fırsatta kalkıp biraz hareket etmeyi ihmal etmemelisin. Belki bir bardak su almak için mutfakta minik bir tur atmak, belki de pencereden dışarıyı seyretmek için birkaç adım atmak ile başlayabilirsin. İşte bu sayede bedenen ve ruhen kendini daha sağlıklı ve zinde hissedebilirsin. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Oğlak": {
+      "genel": "uzun zamandır üzerinde çalıştığın bir projeyi bugün tamamlayabilirsin! Ya da bir süredir üzerinde düşündüğün bir iş fikrini hayata geçirebilirsin. Yılın son günü ve attığın son adımla birlikte ise kendini 'tamamlanmış' hissedebilirsin. Yani, yıl boyunca verdiğin emeğin sonuçlarını görmeye başlıyorsun. İşte bu sana güç ve cesaret veriyor. Artık biliyorsun, yeni yıl başarılarla dolu olacak! İşte bu sayede, 2026 yılına dair hedeflerin de şimdiden netleşiyor. Ancak bugün, kendine biraz mola vermeyi de unutmamalısın. Sonuçta, tüm bu başarılar ve emeklerin ardından biraz dinlenmeye ne dersin? Öyleyse bu akşam tüm alkışlar da sana! Peki ya aşk? Aşk hayatına gelecek olursak, bugün aşk enerjinde bir yumuşama hissedebilirsin. Daha sıcak, daha samimi ve daha içten bir enerji ile sevdiklerine yaklaşabilirsin. Bu da, aşkın enerjisi ile 'yalnız değilsin' duygusunu hissetmeni sağlayabilir. Belki de bu duyguyu bir süredir arıyordun ve tam da bugün buldun! Görünen o ki artık kendini ona bırakmalısın. Sınırları, kuralları ve kalıpları bir kenara bırakıp aşkı olduğu gibi yaşayabilirsin şimdi! Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında yeni bir sayfa açmanın tam zamanı. Aşk enerjinde bir yumuşama hissetmeye başlayabilirsin. Bu, kalbinin daha sıcak, daha samimi ve daha içten bir enerji ile sevdiklerine doğru bir yolculuğa çıktığını gösteriyor. Bu yolculuk, aşkın sıcaklığını ve enerjisini hissetmeni sağlayabilir. Belki de 'yalnız değilsin' duygusunu bir süredir arıyordun ve bugün, bu duyguyu bulmanın mutluluğunu yaşayabilirsin. Görünen o ki, artık kalbinin sesini dinlemeli ve kendini aşka bırakmalısın. Sınırları, kuralları ve kalıpları bir kenara bırakıp, aşkı olduğu gibi, tüm çıplaklığıyla yaşayabilirsin. Belki de bu, aşk hayatında yeni bir başlangıcı temsil ediyor. Belki de bu, aşkın tüm güzelliğini ve sıcaklığını hissetmenin tam zamanı. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün uzun süredir emek verdiğin bir projenin sonuna gelmiş olabilirsin. Belki de bir süredir kafanda şekillendirdiğin, üzerine düşündüğün bir iş fikrini hayata geçirme fırsatı bulabilirsin. Yılın son günü ve attığın bu son adımlarla birlikte kendini tamamlanmış, başarının doruklarına ulaşmış gibi hissedebilirsin. Yani, bir yıl boyunca verdiğin emeğin sonuçlarını görmeye başlıyorsun. Bu da sana enerji veriyor, cesaretini artırıyor. Artık biliyorsun, yeni yıl başarılarla dolu olacak. Bu başarıların ışığında, 2026 yılına dair hedeflerin de şimdiden belirginleşiyor. Ancak bugün, kendine biraz mola vermeyi de unutmamalısın. Sonuçta, tüm bu başarılar ve emeklerin ardından biraz dinlenmeye ihtiyacın var. Belki de bu akşamı kendine ayırabilir, tüm yorgunluğunu atabilirsin. Öyleyse bu akşam tüm alkışlar da sana, çünkü sen bunu hak ettin! Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "yılın son gününden itibaren yaşam tarzında bir değişikliğe ne dersin? Yoğun iş hayatı ve bitmek tükenmek bilmeyen çalışma tempona bir yeni rutin ekleyebilirsin: Düzenli molalar verip dinlenmek! Biliyoruz ki, senin doğanda var olan çalışkanlık, dur durak bilmeden ilerlemek... Ancak unutma ki mola vermek de bir ihtiyaç. Çalışırken kendine zaman zaman kısa molalar vermek, hem zihnini hem de bedenini dinlendirir ve yeniden enerji toplamana yardımcı olur. Tam da bu yüzden yılın son gününden itibaren bu hedefi bir yaşam biçimi haline getirmen için kendine bir söz ver. Gün içinde bilinçli duraklar ekle ve kendini o molaları ver! Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Kova": {
+      "genel": "bugün kariyer hayatında yenilikçi fikirler ve geleceğe dair planlar gündeme geliyor. Ofiste masanın başında oturmak yerine, kafanın içindeki hayallerin peşinden koşmak daha çok hoşuna gidiyor. Yılın son günü, tüm bu hayallerini gerçeğe dönüştürme konusunda seni özgürleştiriyor. Bir anlık kararla istifa dilekçeni yazarken bulabilirsin kendini... Ya da yılın ilk günü için bir uçak bileti alabilirsin istediğin yöne! Artık biliyoruz ki 2026 yılı için belirleyeceğin hedefler, alışılagelmişin dışında ve sıra dışı olacak kesin! İlhamının dorukta olduğu bugün, belki de hayatının en büyük adımlarından birini atmaya karar vermen son derece olası. Çünkü korkusuz ve cesursun, başaracaklarını hissettiğin için! Peki ya aşk? Aşk hayatın ise bugün sürprizlerle dolu olacak. Beklenmedik bir mesaj, ani bir plan ya da farklı bir flört, kalbini hızlandırabilir. Aşk, bugün seni şaşırtabilir ve beklenmedik bir anda hayatına girebilir. Bu yüzden gözlerini ve kalbini açık tutmalısın. Zira, seninle aynı yöne giden bu kişi hem maddi hem manevi anlamda kazanmanı sağlayabilir. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında biraz hareketlilik bekleyebilirsin. Belki de bir süredir beklediğin o özel mesajı alacaksın ya da hiç beklemediğin bir anda seni heyecanlandıracak bir plan yapılacak. Kim bilir, belki de bugün yeni bir flörtle karşılaşacaksın ve kalbin hızla çarpmaya başlayacak. Aşk, bugün seni tam anlamıyla şaşırtabilir. Belki de hiç beklemediğin bir anda, hiç ummadığın bir yerde karşına çıkacak ve hayatına girecek. Bu nedenle hem gözlerini hem de kalbini açmalısın. Çünkü aşk, belki de tam da bu anda, tam da bu yerde seni bekliyor olabilir. Üstelik o senden bambaşka biri ve bambaşka yönde yürümeyi arzulayan bir ruh olabilir. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün senin için kariyer hayatında yeni ufukların aralandığı bir gün olacak. İçindeki yenilikçi fikirler ve geleceğe dair çizdiğin parlak planlar, bugünün gündemini belirliyor. Ofisindeki o sıradan masanın başında oturmak yerine, içinde bulunduğun düş dünyasının peşinden koşmanın sana daha çok keyif verdiğini biliyoruz. İşte tam da bu yılın son gününde, tüm bu hayallerini gerçeğe dönüştürme özgürlüğüne sahipsin. Bir anlık kararla, belki de hayatının en önemli dönüm noktalarından birine imza atabilirsin. Öyle ki, belki de bugün, iş yerinde masanın başında, istifa dilekçeni yazarken bulabilirsin kendini. Ya da belki de, yılın ilk günü için, içinde bulunduğun şehrin dışına, belki de tamamen farklı bir ülkeye, istediğin yöne bir uçak bileti alabilirsin. 2026 yılı için belirleyeceğin hedeflerin, alışılagelmişin dışında ve sıra dışı olacağını biliyoruz. Çünkü sen, ilhamının dorukta olduğu bugünlerde, belki de hayatının en büyük adımlarından birini atmaya karar verebilirsin! Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "yılın son gününde senin için en iyi ilacın ne olduğunu biliyor musun? İşte cevabı: Taze, temiz hava! 2025'in son anlarından itibaren yeni yılın getirdiği enerjiyi hissetmek, ruhunu canlandırmak ve bedenini yenilemek için daha fazla açık havada zaman geçirmen gerekiyor. Bunun için kısa yürüyüşler, balkon keyfi ya da doğayla baş başa geçirilen zamanlar, senin için bir nevi yenilenme ritüeli olacak. Güneş'in altında yürüyüşler yapabilir, parklarda koşabilir, hatta belki de bir dağa tırmanabilirsin... İşte her gün bunu planlamak ve hareket etmek; seni sadece fiziksel olarak değil, ruhen de yenileyecek. Kendini daha enerjik ve canlı hissedeceksin. Unutma ki doğa ile geçirilen her an, senin için bir yenilenme anı olacak. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Balık": {
+      "genel": "kariyerinde bugün, sezgilerinin gücü adeta bir süper kahraman gibi seni yönlendiriyor. Yıl boyunca yaşadığın tüm deneyimleri, başarıları ve hataları, zorlukları ve kolaylıkları, hepsini bir film şeridi gibi gözlerinin önünden geçiriyorsun. İçinden bir ses, 'artık bu defteri kapatma zamanı geldi' diyor. Tam da bugün, işlerini halletmekten ziyade, hislerini dinlemek ve onları anlamak seni yeni hedefler ile kıymetli başarılara götürüyor. Şimdi hayallerinde gerçeği bulmalısın. Olanı da olmayanı da heybene doldurmalı ve 2026'ya güçlü bir giriş yapmalısın. İşte bu yüzden yatırımlar için hızlı bir şekilde aksiyom alıp yılın son kazancını da sağlayabilirsin. Ortak olduğun ya da hisse aldığın şirket ise yeni yılda zirveye yerleşebilir. Tabii doğru kararı verdiğinde! Peki ya aşk? Aşk hayatına geldiğimizde ise romantizm bugün adeta zirve yapıyor. Hayallerin, duyguların ve yumuşak, dokunaklı anlar... Bugün aşk, adeta bir şarkı gibi kalbinde yankılanıyor. Belki de bir aşk şarkısı söylemek, sevdiğini mutlu etmek için harika bir fırsat olabilir. Kalbin, yeni yıla sevgi dolu bir hazırlıkla giriyor. Bu enerjiyi en iyi şekilde değerlendirmeni dileriz. Yarın görüşmek üzere, sevgiyle kal…",
+      "aşk": "bugün aşk hayatında romantizmin doruklarına çıkıyorsun. Hayallerinin, duygularının ve yumuşak, dokunaklı anların hüküm sürdüğü bir gün seni bekliyor. Aşk, bugün kalbinde bir melodi gibi yankılanacak ve senin için adeta bir şarkıya dönüşecek. Belki de bu romantik atmosferi en iyi şekilde değerlendirmek için sevdiğin kişiye bir aşk şarkısı söylemek harika bir fırsat olabilir. Kalbin, yeni yıla sevgi dolu bir hazırlıkla giriyor. Bu enerjiyi en iyi şekilde değerlendirmen, aşk hayatında yeni ve heyecan verici başlangıçlara adım atman dileğiyle... Unutma ki bugünün romantizmi, yarının mutluluğu olabilir. Yarın görüşmek üzere, aşkla kal…",
+      "para": "bugün kariyerindeki yolu aydınlatan bir süper kahraman gibi hissediyor. Sezgileri, sıra dışı bir güçle ona rehberlik ediyor. Tüm yıl boyunca yaşadıkları, başarıları, hataları, zorlukları ve kolaylıkları, bir sinema filmi gibi gözlerinin önünden hızla geçiyor. İçindeki o derin ses, 'artık bu defteri kapatma zamanı geldi' diye fısıldıyor. Bugün, işlerini halletmekten çok, hislerini dinlemek ve onları anlamak ön planda. Bu, onu yeni hedeflere ve değerli başarılara yönlendiriyor. Şimdi hayallerindeki gerçeği bulma zamanı. Olanı da olmayanı da heybesine doldurup, 2026'ya dinamik ve güçlü bir giriş yapmalı. Bu yüzden, yatırımlar için hızlıca aksiyon alıp, yılın son kazancını da sağlama fırsatı var. Ortak olduğu ya da hisse sahibi olduğu şirketler, yeni yılda zirveye yerleşme potansiyeli gösteriyor. Ancak tüm bunları gerçekleştirebilmesi için doğru kararları vermesi gerekiyor. Yarın görüşünceye kadar şans seninle olsun…",
+      "sağlık": "bugün sana biraz da sağlık hedeflerinden bahsetmek istiyoruz. Zira yılın son gününde, yeni yıl için kendine bir hedef belirlemelisin. Hatta sağlığın için bir de adım atmalısın. Tam da bu noktada, dinlenmek ve yalnız kalmak gibi ritüelleri bir düşün deriz. Yılın son gününden itibaren artık kendine biraz daha zaman ayırmaya karar vermelisin. İşte burada önemli olan nokta, bu anları sadece bir boş zaman dilimi olarak değil, adeta bir ritüel olarak görmek. Kendinle baş başa kalma anlarını kutsallaştırıyorsun, bu da senin için oldukça değerli bir hedef haline geliyor. Peki, bu ritüel nasıl olacak? Müzik, suyla temas, meditasyon ya da sessizlik... İşte burada seçim tamamen sana ait. Unutma ki ruh dinlendikçe beden de şenleniyor. Yarın görüşmek üzere, sağlıkla kal…"
+    }
+  },
+  "mynet": {
+    "Koç": {
+      "genel": "Enerji dolu bir ruh hali içindesin, içindeki cesaretle yeni fırsatlara adım atmanı sağlayacak bir gün. Beklenmedik olaylar karşısında esnek olman, sana avantaj sağlayabilir. Hayatındaki değişiklikler için kendini hazır hissetmeli, özgüveninle çevrendekilere ilham verebilirsin. İletişimde açık olman, bazı sorunların etkili bir şekilde çözülmesine yardımcı olacak. Aynı zamanda, ilişkilerinde yaratıcılığını kullanarak bağlarını güçlendirebilecek fikirler geliştirebilirsin. Kendine güvenen tavrın, başkalarını da etkileyerek destek bulmanı sağlayacaktır. Önemli kararlara doğru ilerlemek için doğru zaman, içgüdülerini dinlemekten geçiyor. Akşam saatlerinde ruhunu dinlendirecek aktivitelere yönelmek, enerjini dengeleyebilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Bugün, kararlılığınız ve sabrınız ön planda. İleriye dönük planlar yaparken, detaylara odaklanmanız ve pratik yaklaşımınız sayesinde istediğiniz sonuçları elde edebilirsiniz. Finansal konularda dikkatli adımlar atın; yeni fırsatlarla karşılaşmanız olası. İlişkilerinizde samimi ve dürüst iletişim kurmak, aranızdaki bağı güçlendirecektir. Kendinizi ifade etme biçiminiz, etkiniz üzerinde büyük bir rol oynayacak. İçsel huzur arayışınıza yanıt bulmak için doğayla vakit geçirmeniz faydalı olabilir. Unutmayın, kendinize ve başkalarına karşı nazik olmalısınız, bu enerji gün boyu size rehberlik edecektir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Bugün fikirlerin hızla akıp gideceği bir gün. Zihninde yeni projeler ve ilginç sohbetler için can atıyorsun. Sosyal çevrenden biri seni beklenmedik bir şekilde etkileyecek; bu, yeni bir ilham kaynağı oluşturabilir. Her zamanki meraklı yapınla etrafındaki insanları dinlemeye açık olmalısın. Aynı zamanda, düşündüklerinin gerçekliği yansıtmadığını unutmamalı, spekülasyonlardan uzak durmalısın. Karşıt görüşleri dikkate alarak daha derin bir anlayış geliştirebilirsin. Ayrıca günlük işlerinde yaratıcı çözümler üretme açısından şansın yüksek. Bugün, alışılmadık yollarla bağlantılar kurarak kendini ifade etme fırsatını değerlendirebilirsin. Unutma, iletişim yeteneklerin bu dönemdeki en büyük mücevherin olacak.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Duygusal derinliklerinle yüzleşme zamanı. Kalbinin sesine kulak vermek, içinde biriken hisleri açığa çıkarmanı sağlayacak. Ailevi ilişkilerine dikkat et, uyum sağlamak kolay olmayabilir. Fakat sevgiyle yaklaşmak her şeyi dönüştürebilir. İçsel huzurunu korumak adına, kendine zaman ayırmayı unutmamalısın. Kendini ifade etme konusunda yaratıcı yollar bulabilirsin; belki bir hobi edinmek sana ilham verecek. Dış dünyayla olan etkileşimlerinde sezgilerine güvenmelisin, çünkü hislerin doğru yönlendirecek. Belirsizlikler karşısında sabırlı kalmak, seni o hedefe daha sağlam bir adım attıracak. Hayalini kurduğun şeylerin peşinden gitmekte kararlı olmalısın, zira evren destekçi.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Işığınız etrafını saracak; kendinizi ifade etme konusunda cesur ve kararlı bir gün. Yaratıcılığınızın tavan yapacağı, yeni projeler için ilham verici fırsatlarla karşılaşacaksınız. Sosyal ortamlarda dikkatinizi çekmek için çeşitli yollar arayın, çünkü insanlar sizden etkilenmekten keyif alacak. İçinde bulunduğunuz ruh hali, liderlik özelliklerinizi ön plana çıkaracak. Bireysel ilişkilerde ise, samimiyet ve dürüstlük köprülerinizi sağlamlaştıracak. Kendinize olan güveniniz, başkaları tarafından da takdir edilecek ve destek göreceksiniz. Bugün, kendi sınırlarınızı aşma cesareti bulacak ve risk almaktan çekinmeyeceksiniz. Bu enerjiyi sosyal çevrenizle paylaşmak, bağlılıkları derinleştirmenize yardımcı olacaktır. Unutmayın, içinizdeki ateşi beslediğiniz sürece, etrafınızdaki insanlar da bu ateşten ilham alacak.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Detaylara olan düşkünlüğün ve düzen arayışın bugün ön plana çıkacak. İş yerinde veya günlük yaşamında küçük ama önemli değişiklikler yapma fırsatı bulabilirsin. Bu değişiklikler, verimliliğini artırabilir ve seni daha iyi bir noktaya taşıyabilir. İletişim kurduğun kişilerle yapacağın diyaloglar, karşılıklı anlayış ve destek getirebilir. İçsel huzurunu sağlamak için biraz kendine zaman ayırmalısın. Ayrıca, sağlık konularına dikkat etmen gereken bir dönemdesin. Küçük alışkanlıklarını gözden geçirerek daha sağlıklı bir yaşam tarzı benimsemen mümkün. Sosyal çevrende seni olumlu etkileyebilecek insanlarla bir araya gelmek, ruh halini canlandıracak. Kendini ifade etme biçiminde samimiyet, kişisel ilişkilerini güçlendirebilir. Doğa yürüyüşleri veya yaratıcı hobiler, zihnini dinlendirip yenilemek için harika olacak. Kendine olan güvenini tazeleyecek fırsatlar için açık olmalısın.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "İlişkiler açısından oldukça hareketli bir gün. Karşılaşabileceğin yeni insanlarla keyifli sohbetler yapabilir, var olan ilişkilerini derinlemesine sorgulama fırsatına sahip olabilirsin. Duygusal ve sosyal yönlerin ön planda. Estetikten ve sanattan ilham almak, yaratıcılığını ortaya koymak için harika bir zaman. İçsel huzurunu bulmak için doğaya çıkmayı veya sanatle ilgilenmeyi düşünebilirsin. Dikkatini toplamakta zorlandığın anlar olabilir, bu yüzden derin nefes almayı ve anı yaşamayı unutma. Kendini ifade etme ve başkalarının duygularını anlama yeteneğin, bu dönemde sana yardımcı olacak. Her şeyin bir dengede olduğunu unutma; başkalarına yardım etmeye çalışırken, kendi ihtiyaçlarını da göz ardı etmemelisin. Özemel kararlar almadan önce içsel sesini dinlemen iyi bir fikir olacaktır.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Duyguların derin sularında dalış yapma zamanı. Bugün, içsel sezgilerin çok güçlü olacak; hislerine güvenmeyi öğren. İletişimde samimi olmak, etrafındakilerle derin bağlar kurmana yardımcı olacak. Sosyal ilişkilerinde sürprizler ve beklenmedik gelişmeler mümkün. Sevdiklerinle geçirdiğin zaman, ruhunu besleyecek. Kendi sınırlarını ve başkalarının sınırlarını sağlıklı bir şekilde belirleyerek, kararsızlık taşıyan durumları netleştirme fırsatın var. Kendi iç yolculuğuna biraz vakit ayırmayı unutma, ruhsal anlamda yenilenme hissedeceksin. İçinde bulunduğun durumu derinlemesine analiz etme ve sezgilerinin gücünden faydalanma zamanı. Başkalarına yardım etme isteği, manevi bir tatmin sağlayabilir. Bugün, tutkulu ve amaç odaklı yaklaşımın sayesinde odağını bulmakta zorlandığın şeylerin üstesinden gelebilirsin. Kendine güven, hayatın sunduğu fırsatları değerlendirme cesaretini bul.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Bugün, özgürlüğe olan düşkünlüğün ve yeni deneyimlere aç olman seni harekete geçirecek. Farklı düşünme, yenilikçi yaklaşımlar sergileme konusunda cesur adımlar atabilirsin. Sosyal ilişkilerde samimi ve neşeli bir tutum içindesin; bu, çevrendeki insanlarla olan bağlarını güçlendirebilir. Yalnız kalmak istemeyeceksin ve arkadaşlarınla birlikte vakit geçirmek sana keyif verecek. Eğitim veya öğrenimle ilgili bir fırsat karşına çıkabilir, bu konulara odaklanmak gelecekte sana avantaj sağlayacak. İleriye yönelik hayallerini yeniden gözden geçirip, hedeflerini belirlemek için uygun bir zaman. İçsel huzurunu sağlamaya yönelik aktivitelerle ilgilenmek de fayda sağlayacaktır. Kendini ifade etme fırsatı bulduğun her ortamda parlayacak ve ilgi çekici fikirlerinle dikkatleri üzerine çekeceksin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Kararlılığın ve azminle bugün her türlü engelin üstesinden gelebilirsin. Hedeflerine odaklanarak attığın adımlar, seni başarıya ulaştıracak yolda önemli birer taş olacak. İş yerindeki sorumluluklarını severek üstleniyorsun ve bu durum, başkaları tarafından takdir edilmeni sağlayacak. Maddi konularda dikkatli olmalısın; bütçeni gözden geçirerek gereksiz harcamalardan kaçınmak, gelecekte sana büyük kolaylık sağlayacaktır.Kişisel ilişkilerinde samimiyet ve dürüstlük ön planda. Tanıdığın biriyle derin bir sohbet gerçekleştirebilir, kaybettiğin bazı bağları tekrar canlandırabilirsin. Aile bağlarına önem vermek, duygusal olarak seni besleyecek ve huzur verecektir. Geçmişle yüzleşmekten kaçınma, bu sayede içsel bir rahatlama hissedeceksin.Bugün kendine zaman ayırmak, ruhsal ve bedensel dengeyi sağlamak açısından oldukça faydalı. Doğada vakit geçirmek veya yaratıcı bir aktivite ile ilgilenmek, zihnini dinlendirirken enerjini yenileyecek. Kendine karşı nazik olmayı unutma; bu, özellikle yoğun zamanlarında ruh halini pozitif tutmanı sağlar.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Bugün, özgürlüğüne duyduğun tutku ve bireyselliğe verdiğin önem öne çıkıyor. İnsanlarla olan etkileşimlerin sosyal bağların güçlenmesine yol açabilir, fakat aynı zamanda bazı durumlarda kendini yalnız hissetmene neden olabileceğini de unutmamalısın. Yenilikçi fikirlerinle dikkat çekebilir, etrafındakilere ilham verebilirsin. İçsel bir arayış içinde olduğun bu günlerde, geçmişle yüzleşmek ve ona dair duygularını serbest bırakmak, ruhsal bir dönüşüm için fırsat sunuyor. Arkadaşlardan destek almak, projelerine dahil olmak ve paylaşımda bulunmak, hayatına renk katabilir. Duygusal açıdan derinleşmek için bir zaman dilimi yaratmalısın; meditasyon veya doğayla iç içe vakit geçirmek zihnini dinlendirici bir etki yapabilir. Unutma ki yeniliklere açık olmak, beklenmedik fırsatlarla karşılaşmana zemin hazırlayabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Duygusal derinlikler, bugün seni sardığı gibi, sezgilerinle de harika bir deneyim yaşayabilirsin. İçsel bir huzur arayışı içinde olabilirsin; bu nedenle, yalnız kalmak sana iyi gelebilir. Sanat veya yaratıcılıkla ilgili projelere yönelmek, ruhunu besleyecek bir yol bulmanı sağlayabilir. Aynı zamanda, başkalarının hislerine karşı duyarlılığın artmış durumda; bu, bazı ilişkilerde derin bağlılıklar kurulmasına veya eskimiş yaraların tekrar açılmasına neden olabilir. Sosyal çevrende ise beklenmedik sürprizler yaşanabilir. Bu anları değerlendirirken içgüdülerine güvenmekte fayda var. Kararlarını etkileyebilecek kafa karışıklıkları olabilir; gerçekçi bir bakış açısıyla ilerlemek, sana netlik kazandıracaktır. Unutma ki, hayatının akışını kaybetmeden, içsel sesine kulak vermek her zaman önemli.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "twitburc": {
+    "Koç": {
+      "genel": "Yılı Güçlü Kapatıyorsun Yılın son gününe üretken ve dikkat çekici bir ruh haliyle giriyorsun. Ortaya koyduğun fikirler, geride bırakmak üzere olduğun yılı güçlü kapatmanı sağlayabilir. Gün içinde beklemediğin kişilerden haber alman mümkün. Sosyal temaslar sana moral verecek.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Yılın son gününde çevrende yaşanan gelişmeler seni eskisi kadar etkilemiyor. Kendi alanına çekilmek ve kendinle vakit geçirmek isteyebilirsin. Hayata daha gerçekçi baktığını fark ediyorsun. Sevdiklerinle ev ortamında geçirilen zaman sana iyi gelebilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Eksiklerini Tamamlıyorsun Yılın son günü yarım kalan meseleleri düşünerek geçebilir. Ertelediğin kararlar zihninde yeniden canlanıyor. Geçmiş ilişkilerle ilgili “acaba” dediğin konular gündemine düşebilir. Yeni yıla daha net girmek istiyorsun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Yılın kapanışında sözlerin daha net, tavırların daha açık olabilir. İçinden geçenleri saklamak istemiyorsun. Hem yaşam düzenin hem de dış görünüşünle ilgili değişiklik yapma isteğin artıyor. Yeni yıla farklı bir sayfayla girmeyi düşünüyorsun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Zorlayıcı bir yılı geride bırakırken kendinle gurur duyuyorsun. Yaşadıklarının seni güçlendirdiğini fark ediyorsun. Yılın son günü geleceğe dair umutların daha baskın. Sağlığınla ilgili ihmal ettiğin konular varsa bugün ilgilenebilirsin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Yılın son gününde olaylara daha esnek yaklaştığını fark ediyorsun. Eskiden net çizgiler koyduğun konularda artık daha anlayışlısın. Akşam saatlerinde arkadaşlarınla bir araya gelmek yeni yıl enerjini yükseltebilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Yılın son günü beklenmedik gelişmelere açık. Uzun süredir emek verdiğin konuların karşılığını düşündüğün bir gündesin. Geçmişte göz ardı ettiğin detaylar zihninde yer edebilir. Kendinle ilgili önemli farkındalıklar yaşayabilirsin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Yıl boyunca yaşadıkların ilişkiler konusunda seni daha temkinli biri haline getirmiş. Geçmiş deneyimlerin bugün zihninde tekrar edebilir. Uzakta yaşayan tanıdıklardan gelen haberler seni şaşırtabilir. Yeni yıla daha seçici giriyorsun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Temkinli İlerliyorsun İnsanların sessizliği ve tepkisizliği sende soru işaretleri yaratabilir. Gün içinde küçük aksaklıklar canını sıksa da duygusal dengeyi kurmak istiyorsun. Yılın son günü sana, bazı şeyleri akışına bırakman gerektiğini hatırlatıyor.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Parçaları Birleştiriyorsun Yılın kapanışında geçmişte şüphe duyduğun konularla ilgili net bilgiler edinebilirsin. Duydukların bazı taşları yerine oturtacak. Plan yapmamış olsan bile yılın son gecesi beklediğinden daha akılda kalıcı geçebilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Kontrol İhtiyacı Hissediyorsun Geçmişte verdiğin kararları yeniden değerlendirdiğin bir gün. Duyguların hızlı değişebilir. Yılın son günü için yaptığın planlarda son dakika düzenlemeleri yapman gerekebilir. Detayları kontrol etmek seni rahatlatacak.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Yılın son gününde odağın daha çok kendi hayatına kayıyor. Kimlerin yanında, kimlerin uzağında durman gerektiğini net şekilde fark ediyorsun. Geride bıraktığın yılı ve değişen seni düşündükçe içsel bir memnuniyet hissediyorsun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "vogue": {
+    "Koç": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "gunlukburc": {
+    "Koç": {
+      "genel": "Bugün, profesyonel alanda ilerleme isteğiniz, düşüncelerinizdeki tutarsızlıklar nedeniyle engellenebilir. Büyük resmi görmeye çalışırken önemli detayları gözden kaçırabilir veya fikirlerinizi başkalarına aktarırken yanlış anlaşılabilirsiniz. Bu süreçte, hedeflerinize ulaşmak için sadece hırsla hareket etmek yerine, adımlarınızı daha planlı ve mantıksal bir temele oturtmanızda fayda var. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Yengeç burcundaki Jüpiter'in koruyucu ve hassas etkisi, aşk hayatınızda ailevi değerlere ve duygusal güvenliğe olan ihtiyacınızın artacağına işaret ediyor. İlişkisi olan Koçlar, bugün partnerinizle evinizde huzurlu ve sakin bir ortam yaratmak, ailenizle ilgili konuları konuşmak isteyebilirsiniz. Ancak kişisel özgürlüğünüze dair duyduğunuz endişeler, bu yakınlaşma arzusunu dengede tutmanızı gerektirebilir. Bekarsanız, bu dönemde, size yuva sıcaklığını hissettiren, şefkatli ve koruyucu bir partnere doğru çekilebilirsiniz.",
+      "para": "Oğlak burcundaki Venüs'ün diplomatik ve ciddi etkisi, iş ve kariyer alanında üstlerinizle ve otorite figürleriyle olan ilişkilerinizi güçlendirmek için size bazı fırsatlar sunabilir. Bugün, profesyonel imajınıza özen göstererek, hedeflerinize ulaşmak için stratejik ortaklıklar kurabilir veya önemli kişilerden destek alabilirsiniz. Ayrıca gün içerisinde estetik ve uyum gerektiren projelerde yeteneklerinizi sergileyerek takdir toplayabilirsiniz. Boğa burcundaki Ay'ın istikrarlı ve güven arayan etkisi, maddi konularda somut ve kalıcı değerler yaratma isteğinizi vurguluyor. Bugünlerde, bütçenizi gözden geçirmek, birikim yapmak veya uzun vadeli ve güvenilir yatırım araçlarına yönelmek için oldukça elverişli bir atmosfer olabilir. Ayrıca bu dönemde, harcamalarınızda daha temkinli davranarak, finansal güvencenizi artıracak adımlar atabilirsiniz.",
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Bugün, kendi maddi güvenliğinizi sağlama arzunuz, başkalarıyla olan finansal bağlarınızdaki karmaşık durumlar nedeniyle zorlanabilir. Bir borcun vadesi, bir mirasın belirsizliği veya ortağınızın harcamaları gibi konular zihninizi meşgul ederken, siz kendi kaynaklarınızı korumaya çalışabilirsiniz. Bu süreçte, belirsizlikleri ortadan kaldırmak için somut verilerle hareket etmeli ve duygusal tepkiler yerine mantıksal çözümlere odaklanmalısınız. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Oğlak burcundaki Güneş'in ciddi ve yapılandırıcı etkisi, aşk hayatınızda ilişkinize daha geniş bir perspektiften bakmanıza ve geleceğe yönelik somut planlar yapmanıza işaret ediyor. İlişkisi olan Boğalar, bugün partnerinizle birlikte yeni ufuklar keşfetmek, bir seyahat planlamak veya ortak bir eğitim programına katılmak gibi konuları konuşabilirsiniz. Bekarsanız, farklı kültürlerden veya sizden daha olgun ve bilge bir kişiliğe sahip birine karşı ilgi duyabilir, ciddi ve uzun soluklu bir ilişki arayışına girebilirsiniz.",
+      "para": "Oğlak burcundaki Mars'ın hırslı ve azimli etkisi, iş ve kariyer alanında yurt dışı bağlantılı projeler, eğitim veya hukuki konularda hedeflerinize ulaşmak için size büyük bir enerji veriyor. Ayrıca bu dönemde, vizyonunuzu genişletmek ve uzmanlık alanınızda kendinizi kanıtlamak için cesur adımlar atabilirsiniz. Yay burcundaki Merkür'ün dağınık ve belirsiz etkisi, maddi konularda ortak kaynaklar, krediler veya borçlarla ilgili konularda yanlış anlaşılmalara ve kafa karışıklıklarına yol açabilir. Bu dönemde, finansal anlaşmalar yaparken her detayı dikkatlice okumalı, sözlü vaatlere değil yazılı belgelere güvenmelisiniz. Ayrıca bu süreçte bir borçlanma kararı almadan önce tüm şartları anladığınızdan emin olmanızda fayda var.",
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Bugün, yakın çevrenizle olan iletişiminizde belirsizlikler ve yanlış anlaşılmalar hakim olabilir. Özellikle söylediğiniz bir şeyin farklı yorumlanması veya karşı tarafın niyetini doğru okuyamamanız bazı sorunlar yaratabilir. Öte yandan bu zihinsel karmaşa, aslında kendi iç dünyanızdaki belirsizliklerin bir yansıması olabilir. Bu tür durumlarda ilişkilerinizdeki sorunların kaynağını sadece karşı tarafta aramak yerine, kendi içsel endişelerinizle yüzleşmenizde, ayrıca zihninizi sakinleştirmek ve olaylara daha net bir perspektiften bakmak için kendinize zaman tanımanızda fayda var. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Yay burcundaki Merkür'ün tutarsız ve dağınık etkisi, aşk hayatınızda partnerinizle olan iletişiminizde zorluklar yaşanabileceğine işaret ediyor. İlişkisi olan İkizler, partnerinizle önemli konuları konuşurken birbirinizi anlamakta güçlük çekebilir, alınganlıklar ve yanlış anlamalar nedeniyle küçük gerginlikler yaşayabilirsiniz. Bekarsanız, bugünlerde yeni tanıştığınız birinin sözleriyle eylemleri arasında bir tutarsızlık sezebilirsiniz ve bu durum o kişiye karşı olan güven duygunuzu sarsabilir.",
+      "para": "Balık burcundaki Satürn'ün sınırlayıcı ve disipline edici etkisi, iş ve kariyer alanında üstlendiğiniz sorumlulukların ve hedeflerinizin size ağır gelebileceğini gösteriyor. Bugün, kariyerinizde ilerlerken bazı engellerle veya otorite figürlerinden gelen baskılarla karşılaşabilirsiniz. Bu süreç, planlarınızı daha gerçekçi bir zemine oturtmanız ve sabırla, adım adım ilerlemeniz gerektiğini size hatırlatacaktır. Oğlak burcundaki Güneş'in ciddi ve yapılandırıcı etkisi, maddi konularda ortak kaynaklar, krediler, miras veya eşinizin geliri gibi konuları gündeminize taşıyor. Bugün, finansal sorumluluklarınızı daha disiplinli bir şekilde ele alabilir, uzun vadeli borç yapılandırması veya yatırım planlaması için somut adımlar atabilirsiniz. Ayrıca bu süreçte özellikle başkalarıyla olan para ilişkilerinizde net sınırlar çizmenizde fayda var.",
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Bugün, hem özel hayatınızda hem de sosyal ilişkilerinizde uyum ve dengeyi yakalayabilirsiniz. Partnerinizle birlikte ortak hedefler belirleyebilir, bu hedeflere ulaşmak için arkadaşlarınızın yardımını veya tavsiyelerini alabilirsiniz. Ayrıca bu dönemde geleceğe yönelik planlar yapmak, bağlarınızı daha sağlam temellere oturtmak ve sosyal çevrenizle birlikte hareket etmek için oldukça elverişli bir atmosfer olabilir. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Oğlak burcundaki Venüs'ün sadık ve ciddi etkisi, aşk hayatınızda ilişkinize daha sorumlu ve uzun vadeli bir perspektiften bakmanıza işaret ediyor. İlişkisi olan Yengeçler, partnerinizle aranızdaki bağı resmiyete dökmek veya ilişkinin geleceği hakkında somut kararlar almak isteyebilirsiniz. Bekarsanız, bu dönemde olgun, sorumluluk sahibi ve size güven veren bir ilişki arayışınız ön plana çıkabilir ve bu niteliklere sahip biriyle kalıcı bir başlangıç yapabilirsiniz.",
+      "para": "Burcunuzdaki Jüpiter'in büyütücü ve şans getiren etkisi, iş ve kariyer alanında kendinize olan güveninizi artırırken, aynı zamanda kişisel yeteneklerinizi sergilemeniz için size yeni kapılar açabilir. Bugün, girişimci ruhunuzu ortaya koyarak yeni bir projeye başlayabilir veya mevcut işinizde daha fazla inisiyatif alabilirsiniz. Ancak bu süreçte, kişisel gelişim hedefleriniz ile kariyerinizdeki sorumluluklar arasında bir denge kurmanız gerekebilir. Boğa burcundaki Ay'ın güvence arayan ve somut etkisi, maddi konularda geleceğe yönelik hedefleriniz ve sosyal çevreniz aracılığıyla kazanç elde etme potansiyelinizi vurguluyor. Bugün, arkadaşlarınızla ortak bir finansal plan yapabilir veya bir grup projesinden gelir elde etme fırsatı yakalayabilirsiniz. Ayrıca bu dönemde, uzun vadeli ve güvenilir yatırımlar yapmak için de harekete geçebilirsiniz.",
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Bugün, enerjinizi tamamen işinize ve sorumluluklarınıza odaklayabilir, gün içerisinde detaylara gösterdiğiniz özen, disiplinli çalışma tarzınız ve iş bitiriciliğiniz sayesinde üstlerinizin veya meslektaşlarınızın dikkatini fazlasıyla çekebilirsiniz. Bu etkiler altında somut sonuçlar elde etmek ve emeğinizin karşılığını görmek ise size büyük bir tatmin ve motivasyon sağlayacaktır. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Yay burcundaki Merkür'ün flörtöz ancak kararsız etkisi, aşk hayatınızda iletişimde bazı belirsizlikler ve yanlış anlaşılmalar yaşanabileceğine işaret ediyor. İlişkisi olan Aslanlar, partnerinizle aranızdaki konuşmalarda esprili ve eğlenceli bir ton yakalamak isterken, ciddi konuları hafife alma riskiniz olabilir. Bekarsanız, aynı anda birden fazla kişiyle flört edebilir veya bir kişiye karşı hislerinizden tam olarak emin olamayabilirsiniz. Bu zihinsel dağınıklık, sağlıklı kararlar almanızı zorlaştırabilir.",
+      "para": "Oğlak burcundaki Güneş ve Mars'ın birleşik enerjik etkisi, iş ve kariyer alanında çalışma ortamınızda liderliği ele almanız ve projeleri yönetmeniz için size büyük bir güç veriyor. Bugün, günlük görevlerinizi yerine getirirken olağanüstü bir verimlilik ve kararlılık sergileyebilirsiniz. Ayrıca gün içerisinde sorumluluk almaktan çekinmeyebilir ve zorlu işlerin üstesinden kolaylıkla gelebilirsiniz. Balık burcundaki Satürn'ün sınırlayıcı ve yapılandırıcı etkisi, maddi konularda ortak kaynaklar, borçlar veya kredilerle ilgili sorumluluklarınızı daha ciddiye almanız gerektiğini vurguluyor. Bugün, finansal yükümlülüklerinizi yerine getirirken daha disiplinli olmanız ve harcamalarınızı dikkatli bir şekilde planlamanız gerekebilir. Ayrıca bu süreç, mali durumunuzu daha sağlam bir zemine oturtmanız için önemli bir fırsat sunabilir.",
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Bugün, kendinizi ifade etme ve hayattan keyif alma isteğiniz, aile içindeki kafa karıştırıcı diyaloglar veya köklerinizle ilgili çözülmemiş meseleler tarafından gölgelenebilir. Bir yandan yaratıcı bir projeye odaklanmak veya aşk hayatınızda ciddi bir adım atmak isterken, diğer yandan ailevi sorumluluklar veya geçmişten gelen konular zihninizi meşgul edebilir. Bu iki alan arasında denge kurmak için, öncelikle aile içindeki iletişim sorunlarını netliğe kavuşturmanız ve zihinsel karmaşayı gidermeniz gerekiyor. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Oğlak burcundaki Güneş ve Venüs'ün birleşik ciddi ve sadık etkisi, aşk hayatınızda flört ve eğlenceden çok, kalıcı ve güvenilir bir ilişki arayışında olacağınıza işaret ediyor. İlişkisi olan Başaklar, partnerinizle ilişkinizi daha ciddi bir boyuta taşıyabilir, geleceğe yönelik somut planlar yapabilirsiniz. Bekarsanız, bu dönemde, yüzeysel ilişkiler yerine, size istikrar ve güven vaat eden, olgun bir partnerle ciddi bir başlangıç yapma olasılığınız yüksek görünüyor.",
+      "para": "Boğa burcundaki Ay'ın istikrarlı ve pratik etkisi, iş ve kariyer alanında uzun vadeli hedeflerinize ve vizyonunuza odaklanmanız için size sağlam bir zemin sunuyor. Bugün, yurt dışı bağlantılı işler, eğitim veya yayıncılık gibi konularda somut ve kalıcı adımlar atabilirsiniz. Ayrıca bu dönemde planlarınızı hayata geçirmek için sabırlı ve kararlı bir tutum sergileyerek, hedeflerinize doğru emin adımlarla ilerleyebilirsiniz. Kova burcundaki Plüton'un dönüştürücü ve derinlemesine etkisi, maddi konularda iş ve çalışma hayatınız aracılığıyla kazançlarınızı artırma ve finansal yapınızı kökten değiştirme potansiyelinizi vurguluyor. Bugün, iş yapış şeklinizi veya gelir modelinizi uzun vadede değiştirecek önemli kararlar alabilirsiniz. Ayrıca bu dönemde teknolojiyi veya yenilikçi yöntemleri kullanarak finansal gücünüzü artırma fırsatları yakalayabilirsiniz.",
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Bugün, bir yandan evinizde düzeni sağlamak ve ailenizin ihtiyaçlarını karşılamak için yoğun bir çaba sarf ederken, diğer yandan yakın çevrenizle olan diyaloglarınızda yanlış anlaşılmalar yaşayabilirsiniz. Bu tür durumlarda, önceliğinizi ailenize ve içsel huzurunuza vermek, dış dünyadaki iletişim karmaşasından daha az etkilenmenizi sağlayacaktır. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Koç burcundaki Chiron'un hassasiyet yaratan etkisi, aşk hayatınızda geçmiş ilişki yaralarının veya reddedilme korkularının tetiklenebileceğine işaret ediyor. İlişkisi olan Teraziler, partnerinizle aranızdaki en küçük bir anlaşmazlıkta bile kendinizi savunmasız ve incinmiş hissedebilirsiniz. Bekarsanız, yeni bir ilişkiye başlama konusunda eski korkularınız nedeniyle tereddüt yaşayabilir, kendinizi korumak için duvarlar örebilirsiniz.",
+      "para": "Yengeç burcundaki Jüpiter'in büyüyen ve fırsatlar sunan etkisi, iş ve kariyer alanında hedeflerinize ulaşmak için önemli bir şans yakalayabileceğinizi gösteriyor. Bugün, üstlerinizin dikkatini çekebilir, terfi veya yeni bir proje teklifi alabilirsiniz. Ayrıca bu dönemde toplumsal statünüzü ve profesyonel imajınızı güçlendirmek için karşınıza çıkan fırsatları iyi değerlendirmenizde fayda var. Boğa burcundaki Ay'ın güven arayan ve somut etkisi, maddi konularda ortak kaynaklar, krediler, miras veya eşinizin geliri gibi konuları gündeminize taşıyor. Bugün, finansal istikrarınızı sağlamak için başkalarıyla olan para ilişkilerinizi gözden geçirebilirsiniz. Bir kredi başvurusunda bulunmak veya bir borcu yapılandırmak için somut adımlar atmak adına da uygun bir dönemdesiniz.",
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Bugün, büyük fikirleriniz ve iddialı projeleriniz için gerekli olan finansal desteği sağlama konusunda engellerle karşılaşabilirsiniz. Zihniniz bir yandan yeni anlaşmalar yapmak, bir şeyler yazmak veya önemli görüşmeler planlamakla meşgulken, diğer yandan bütçenizdeki belirsizlikler veya anlamsız harcamalar sizi endişelendirebilir. Bu süreçte, fikirlerinizi hayata geçirebilmek için öncelikle finansal durumunuzu netliğe kavuşturmanız ve kaynaklarınızı daha disiplinli bir şekilde yönetmenizde fayda var. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Boğa burcundaki Ay'ın sadık ve istikrar arayan etkisi, aşk hayatınızda partnerinizle aranızdaki bağda güven ve somut adımlar görme isteğinizi artırıyor. İlişkisi olan Akrepler, ilişkinizin geleceğine dair güvence arayabilir, partnerinizden size olan bağlılığını göstermesini bekleyebilirsiniz. Bekarsanız, bu dönemde yüzeysel ve gelip geçici flörtler yerine, size güven veren, istikrarlı ve kalıcı bir ilişki kurabileceğiniz birine yönelebilirsiniz.",
+      "para": "Oğlak burcundaki Güneş ve Mars'ın kararlı etkisi, iş ve kariyer alanında iletişim, pazarlama, satış veya eğitim gibi konularda oldukça başarılı olmanızı sağlıyor. Bugün, fikirlerinizi büyük bir özgüven ve kararlılıkla sunabilir, önemli anlaşmalara imza atabilir veya zorlu bir müzakereden zaferle ayrılabilirsiniz. Yay burcundaki Merkür'ün dağınık ve savurgan etkisi, maddi konularda bütçenizi yönetirken dikkatinizin kolayca dağılabileceğini ve gereksiz harcamalar yapabileceğinizi vurguluyor. Bugün, özellikle maddi konularla ilgili bir karar alırken iyimserliğiniz, gerçekleri göz ardı etmenize neden olabilir. Ayrıca gün içerisinde anlık heveslerle veya büyük vaatlerle para harcamaktan kaçınmanızda fayda var.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Bugün, bir yandan \"Ben kimim ve ne istiyorum?\" gibi varoluşsal sorular zihninizi meşgul ederken, diğer yandan tüm enerjinizi para kazanmaya, birikim yapmaya ve finansal durumunuzu sağlamlaştırmaya yöneltebilirsiniz. Bu iki farklı enerji arasında bir denge kurmak, içsel değerinizi ve kişisel potansiyelinizi keşfetmek, maddi hedeflerinize ulaşmanız için size gerekli olan özgüveni sağlayacaktır. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Boğa burcundaki Ay'ın sakin ve hizmet odaklı etkisi, aşk hayatınızda ilişkinizin pratik yönlerine ve partnerinize destek olmaya odaklanabileceğinize işaret ediyor. İlişkisi olan Yaylar, partnerinizin günlük hayatını kolaylaştıracak jestler yapabilir, ona somut bir şekilde yardımcı olarak sevginizi gösterebilirsiniz. Bekarsanız, çalışma ortamınızdan veya günlük rutinleriniz sırasında karşılaştığınız, size yardımcı olan, güvenilir ve sakin bir kişiliğe sahip birine karşı ilgi duymaya başlayabilirsiniz.",
+      "para": "Boğa burcundaki Ay'ın pratik ve üretken etkisi, iş ve kariyer alanında günlük görevlerinizi ve sorumluluklarınızı somut sonuçlar alacak şekilde tamamlamanıza olanak tanıyor. Ayrıca bu dönemde, projelerinizde sabırlı ve istikrarlı bir şekilde çalışarak, elle tutulur başarılar elde edebilirsiniz. Oğlak burcundaki Güneş, Venüs ve Mars'ın birleşik hırslı etkisi, maddi konularda gelirinizi artırmak ve finansal durumunuzu sağlamlaştırmak için muazzam bir motivasyon ve enerji sağlıyor. Bugünlerde, yeni kazanç kapıları aramak, maaş zammı talep etmek veya karlı bir yatırım yapmak için oldukça kararlı ve cesur adımlar atabilirsiniz.",
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Bugün, dış dünyaya yansıttığınız kararlı ve kendinden emin tavrın ardında, tam olarak adlandıramadığınız bazı içsel huzursuzluklar olabilir. İleriye gitmek için duyduğunuz güçlü arzu, geçmişten gelen veya bilinçaltınıza ittiğiniz bazı düşünceler tarafından engellenebilir. Bu süreçte, zihninizi meşgul eden ve sizi geride tutan belirsizliklerle yüzleşmek, sahip olduğunuz muazzam enerjiyi daha verimli ve özgüvenli bir şekilde kullanmanızı sağlayacaktır. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Boğa burcundaki Ay'ın romantik ve keyif odaklı etkisi, aşk hayatınızda flört, eğlence ve sevginizi gösterme arzusunun artacağına işaret ediyor. İlişkisi olan Oğlaklar, partnerinizle birlikte keyifli ve romantik bir gün geçirebilir, ilişkinize neşe katacak aktiviteler planlayabilirsiniz. Bekarsanız, çekiciliğinizin arttığı bu günde, katıldığınız bir sosyal ortamda veya bir hobi aktivitesinde yeni biriyle tanışabilir ve keyifli bir flörte başlayabilirsiniz.",
+      "para": "Burcunuzdaki Güneş ve Mars'ın birleşik liderlik etkisi, iş ve kariyer alanında inisiyatif almanız ve yeni projelere öncülük etmeniz için size olağanüstü bir enerji veriyor. Bugün, hedeflerinize ulaşmak için gereken kararlılığa ve cesarete sahipsiniz. Zorlu görevlerin üstesinden gelmek ve kendi yolunuzu çizmek için oldukça uygun bir dönemdesiniz. Burcunuzdaki Venüs'ün çekici ve diplomatik etkisi, maddi konularda kişisel yeteneklerinizi ve imajınızı kullanarak yeni kazanç fırsatları yaratabileceğinizi vurguluyor. Bugün, dış görünüşünüze veya sunum yeteneklerinize yapacağınız bir yatırım, size finansal olarak geri dönebilir. Ayrıca bu dönemde para ile ilgili konularda daha uyumlu ve stratejik davranarak, kazançlarınızı artırabilirsiniz.",
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Bugün, bir yandan kendi iç dünyanızda huzur bulmaya çalışırken, diğer yandan arkadaşlarınızdan gelen çelişkili mesajlar veya sosyal çevrenizdeki dedikodular zihninizi meşgul edebilir. Sosyal hayatın yüzeyselliği ve anlamsız konuşmaları size yorucu gelebilir. Bu süreçte, enerjinizi korumak için sosyal çevrenizle aranıza bir mesafe koymak ve gerçekten güvendiğiniz insanlarla iletişim kurmak en doğru yaklaşım olabilir. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Oğlak burcundaki Venüs'ün gizemli ve içe dönük etkisi, aşk hayatınızda duygularınızı açıkça ifade etmek yerine, gizli veya platonik ilişkilere çekilebileceğinize işaret ediyor. İlişkisi olan Kovalar, ilişkinizle ilgili bazı konuları kendi içinizde yaşayabilir, partnerinizden bazı düşüncelerinizi saklayabilirsiniz. Bekarsanız, bu dönemde ulaşılması zor veya gizemli birine karşı gizli bir hayranlık besleyebilir, duygularınızı bir sır gibi saklama eğiliminde olabilirsiniz.",
+      "para": "Boğa burcundaki Ay'ın istikrarlı ve sağlamlaştırıcı etkisi, iş ve kariyer alanında ev ve iş hayatı dengenizi kurmanıza ve kariyerinizin temellerini güçlendirmenize olanak tanıyor. Bugün, evden çalışmak veya iş ortamınızı daha konforlu ve verimli hale getirmek için somut adımlar atabilirsiniz. Ayrıca bu dönemde kariyerinizde uzun vadeli güvenliği sağlamak adına planlı ve sabırlı bir şekilde hareket edebilirsiniz. Yay burcundaki Merkür'ün dağınık ve belirsiz etkisi, maddi konularda sosyal çevreniz veya arkadaşlarınızla yapacağınız harcamalarda dikkatli olmanız gerektiğini vurguluyor. Bugün, bir arkadaşınıza borç verirken veya bir grup etkinliği için para toplarken yanlış anlaşılmalar yaşanabilir. Bu etkiler altında, gün içerisinde finansal konularda arkadaşlık ilişkilerinizi riske atmamak için net ve şeffaf bir iletişim kurmanız büyük önem taşıyor.",
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Bugün, bir yandan arkadaşlarınızla birlikte büyük projeler planlarken, diğer yandan kendi kariyer yolunuzda ne yapmanız gerektiği konusunda kararsızlık yaşayabilirsiniz. Ayrıca gün içerisinde sosyal çevrenizdeki hedefler ile kişisel profesyonel hedefleriniz arasında bir uyumsuzluk hissedebilirsiniz. Bu süreçte, öncelikle kendi kariyerinizdeki belirsizlikleri gidermeniz, sosyal hedeflerinize daha sağlam bir temelden yaklaşmanızı sağlayacaktır. Kendinize \"Ben profesyonel olarak ne istiyorum?\" sorusunu sormak ise hem kişisel hem de sosyal yaşamınızda daha net adımlar atmanıza yardımcı olacaktır. 2026'nın size sağlık, mutluluk, huzur ve başarı getirmesi dileğiyle. Yeni yılınız kutlu olsun!",
+      "aşk": "Boğa burcundaki Ay'ın sakin ve iletişim odaklı etkisi, aşk hayatınızda partnerinizle açık ve dürüst bir diyalog kurma ihtiyacınızı artırıyor. İlişkisi olan Balıklar, duygularınızı ve düşüncelerinizi mantıklı ve anlaşılır bir şekilde ifade edebilir, ilişkinizdeki sorunlara pratik çözümler bulabilirsiniz. Bekarsanız, yakın çevrenizden veya katıldığınız bir eğitimde, zeki ve konuşkan biriyle tanışabilir, zihinsel bir çekimle başlayan bir ilişkiye adım atabilirsiniz.",
+      "para": "Yay burcundaki Merkür'ün kararsız ve tutarsız etkisi, iş ve kariyer alanında hedefleriniz konusunda kafa karışıklığı yaşamanıza ve sık sık fikir değiştirmenize neden olabilir. Bugün, yöneticilerinizle veya otorite figürleriyle olan iletişiminizde yanlış anlaşılmalara açık olabilirsiniz. Ayrıca bu süreçte profesyonel imajınızı korumak için verdiğiniz sözlerin arkasında durmalı ve daha net bir duruş sergilemelisiniz. Oğlak burcundaki Güneş'in planlı ve ciddi etkisi, maddi konularda geleceğe yönelik hedefler belirlemek ve sosyal çevrenizden destek almak için uygun bir zemin hazırlıyor. Bugün, bir arkadaşınızla ortak bir yatırım yapabilir veya bir grup projesi aracılığıyla uzun vadeli bir kazanç kapısı oluşturabilirsiniz. Finansal planlarınızı somutlaştırmak için de oldukça elverişli bir dönemdesiniz.",
+      "sağlık": null
+    }
+  },
+  "myburc": {
+    "Koç": {
+      "genel": "Duygusal, romantik ve her an gözyaşı dökmeye hazırsınız. Yüksek enerjinizi olumlu kullanmalısınız. Yaratıcı yönleriniz ön planda olacak. Duygusal konularla ilgili karışık düşünceler içindesiniz ve zaman zaman yanlış anlaşılıyorsunuz.",
+      "aşk": "Yengeç burcundaki jüpiter'in koruyucu ve hassas etkisi, aşk hayatınızda ailevi değerlere ve duygusal güvenliğe olan ihtiyacınızın artacağına işaret ediyor. İlişkisi olan koçlar, bugün partnerinizle evinizde huzurlu ve sakin bir ortam yaratmak, ailenizle ilgili konuları konuşmak isteyebilirsiniz. Ancak kişisel özgürlüğünüze dair duyduğunuz endişeler, bu yakınlaşma arzusunu dengede tutmanızı gerektirebilir. Bekarsanız, bu dönemde, size yuva sıcaklığını hissettiren, şefkatli ve koruyucu bir partnere doğru çekilebilirsiniz.",
+      "para": "Oğlak burcundaki venüs'ün diplomatik ve ciddi etkisi, iş ve kariyer alanında üstlerinizle ve otorite figürleriyle olan ilişkilerinizi güçlendirmek için size bazı fırsatlar sunabilir. Bugün, profesyonel imajınıza özen göstererek, hedeflerinize ulaşmak için stratejik ortaklıklar kurabilir veya önemli kişilerden destek alabilirsiniz. Ayrıca gün içerisinde estetik ve uyum gerektiren projelerde yeteneklerinizi sergileyerek takdir toplayabilirsiniz. Boğa burcundaki ay'ın istikrarlı ve güven arayan etkisi, maddi konularda somut ve kalıcı değerler yaratma isteğinizi vurguluyor. Bugünlerde, bütçenizi gözden geçirmek, birikim yapmak veya uzun vadeli ve güvenilir yatırım araçlarına yönelmek için oldukça elverişli bir atmosfer olabilir. Ayrıca bu dönemde, harcamalarınızda daha temkinli davranarak, finansal güvencenizi artıracak adımlar atabilirsiniz.",
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Enerjinizi düşük olması, yapmanız gereken birçok işi yarım bırakmanıza neden olabilir. Karamsarlığa kapılmanız için hiçbir neden yok. Yetersizlik duygusu içinde olmanız her şeyi olumsuz bir şekilde yorumlatıyor.",
+      "aşk": "Oğlak burcundaki güneş'in ciddi ve yapılandırıcı etkisi, aşk hayatınızda ilişkinize daha geniş bir perspektiften bakmanıza ve geleceğe yönelik somut planlar yapmanıza işaret ediyor. İlişkisi olan boğalar, bugün partnerinizle birlikte yeni ufuklar keşfetmek, bir seyahat planlamak veya ortak bir eğitim programına katılmak gibi konuları konuşabilirsiniz. Bekarsanız, farklı kültürlerden veya sizden daha olgun ve bilge bir kişiliğe sahip birine karşı ilgi duyabilir, ciddi ve uzun soluklu bir ilişki arayışına girebilirsiniz.",
+      "para": "Oğlak burcundaki mars'ın hırslı ve azimli etkisi, iş ve kariyer alanında yurt dışı bağlantılı projeler, eğitim veya hukuki konularda hedeflerinize ulaşmak için size büyük bir enerji veriyor. Ayrıca bu dönemde, vizyonunuzu genişletmek ve uzmanlık alanınızda kendinizi kanıtlamak için cesur adımlar atabilirsiniz. Yay burcundaki merkür'ün dağınık ve belirsiz etkisi, maddi konularda ortak kaynaklar, krediler veya borçlarla ilgili konularda yanlış anlaşılmalara ve kafa karışıklıklarına yol açabilir. Bu dönemde, finansal anlaşmalar yaparken her detayı dikkatlice okumalı, sözlü vaatlere değil yazılı belgelere güvenmelisiniz. Ayrıca bu süreçte bir borçlanma kararı almadan önce tüm şartları anladığınızdan emin olmanızda fayda var.",
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Değişkenlik göstermek için hiçbir fırsatı kaçırmıyorsunuz. Meraklı yapınızı ön plana çıkarıyorsunuz. Yol ve seyahat fırsatlarını değerlendirmelisiniz. Birlikte olduğunuz kişilerle yapacağınız felsefi konuşmalarla çevrenizi etkiliyorsunuz.",
+      "aşk": "Yay burcundaki merkür'ün tutarsız ve dağınık etkisi, aşk hayatınızda partnerinizle olan iletişiminizde zorluklar yaşanabileceğine işaret ediyor. İlişkisi olan ikizler, partnerinizle önemli konuları konuşurken birbirinizi anlamakta güçlük çekebilir, alınganlıklar ve yanlış anlamalar nedeniyle küçük gerginlikler yaşayabilirsiniz. Bekarsanız, bugünlerde yeni tanıştığınız birinin sözleriyle eylemleri arasında bir tutarsızlık sezebilirsiniz ve bu durum o kişiye karşı olan güven duygunuzu sarsabilir.",
+      "para": "Balık burcundaki satürn'ün sınırlayıcı ve disipline edici etkisi, iş ve kariyer alanında üstlendiğiniz sorumlulukların ve hedeflerinizin size ağır gelebileceğini gösteriyor. Bugün, kariyerinizde ilerlerken bazı engellerle veya otorite figürlerinden gelen baskılarla karşılaşabilirsiniz. Bu süreç, planlarınızı daha gerçekçi bir zemine oturtmanız ve sabırla, adım adım ilerlemeniz gerektiğini size hatırlatacaktır. Oğlak burcundaki güneş'in ciddi ve yapılandırıcı etkisi, maddi konularda ortak kaynaklar, krediler, miras veya eşinizin geliri gibi konuları gündeminize taşıyor. Bugün, finansal sorumluluklarınızı daha disiplinli bir şekilde ele alabilir, uzun vadeli borç yapılandırması veya yatırım planlaması için somut adımlar atabilirsiniz. Ayrıca bu süreçte özellikle başkalarıyla olan para ilişkilerinizde net sınırlar çizmenizde fayda var.",
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Yüksek ideallerinizi yaşama geçirmek için gösterdiğiniz çabanın taşları yavaş yavaş yerine oturuyor. Bugün ince hesaplar ve planlar içindesiniz. Yaşamınızla ilgili alacağınız kararların sonuçlarını hızlıca görmek istiyorsunuz.",
+      "aşk": "Oğlak burcundaki venüs'ün sadık ve ciddi etkisi, aşk hayatınızda ilişkinize daha sorumlu ve uzun vadeli bir perspektiften bakmanıza işaret ediyor. İlişkisi olan yengeçler, partnerinizle aranızdaki bağı resmiyete dökmek veya ilişkinin geleceği hakkında somut kararlar almak isteyebilirsiniz. Bekarsanız, bu dönemde olgun, sorumluluk sahibi ve size güven veren bir ilişki arayışınız ön plana çıkabilir ve bu niteliklere sahip biriyle kalıcı bir başlangıç yapabilirsiniz.",
+      "para": "Burcunuzdaki jüpiter'in büyütücü ve şans getiren etkisi, iş ve kariyer alanında kendinize olan güveninizi artırırken, aynı zamanda kişisel yeteneklerinizi sergilemeniz için size yeni kapılar açabilir. Bugün, girişimci ruhunuzu ortaya koyarak yeni bir projeye başlayabilir veya mevcut işinizde daha fazla inisiyatif alabilirsiniz. Ancak bu süreçte, kişisel gelişim hedefleriniz ile kariyerinizdeki sorumluluklar arasında bir denge kurmanız gerekebilir. Boğa burcundaki ay'ın güvence arayan ve somut etkisi, maddi konularda geleceğe yönelik hedefleriniz ve sosyal çevreniz aracılığıyla kazanç elde etme potansiyelinizi vurguluyor. Bugün, arkadaşlarınızla ortak bir finansal plan yapabilir veya bir grup projesinden gelir elde etme fırsatı yakalayabilirsiniz. Ayrıca bu dönemde, uzun vadeli ve güvenilir yatırımlar yapmak için de harekete geçebilirsiniz.",
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Bugün yollarla ilgili bazı gelişmeleri takip etmek isteyebilirsiniz. Araştırmacı yönünüz güçleniyor. İsteklerinizde önemli artışlar var. Kendinize güveneceğiniz işler yapacak ve duygusal coşkular yaşayacaksınız.",
+      "aşk": "Yay burcundaki merkür'ün flörtöz ancak kararsız etkisi, aşk hayatınızda iletişimde bazı belirsizlikler ve yanlış anlaşılmalar yaşanabileceğine işaret ediyor. İlişkisi olan aslanlar, partnerinizle aranızdaki konuşmalarda esprili ve eğlenceli bir ton yakalamak isterken, ciddi konuları hafife alma riskiniz olabilir. Bekarsanız, aynı anda birden fazla kişiyle flört edebilir veya bir kişiye karşı hislerinizden tam olarak emin olamayabilirsiniz. Bu zihinsel dağınıklık, sağlıklı kararlar almanızı zorlaştırabilir.",
+      "para": "Oğlak burcundaki güneş ve mars'ın birleşik enerjik etkisi, iş ve kariyer alanında çalışma ortamınızda liderliği ele almanız ve projeleri yönetmeniz için size büyük bir güç veriyor. Bugün, günlük görevlerinizi yerine getirirken olağanüstü bir verimlilik ve kararlılık sergileyebilirsiniz. Ayrıca gün içerisinde sorumluluk almaktan çekinmeyebilir ve zorlu işlerin üstesinden kolaylıkla gelebilirsiniz. Balık burcundaki satürn'ün sınırlayıcı ve yapılandırıcı etkisi, maddi konularda ortak kaynaklar, borçlar veya kredilerle ilgili sorumluluklarınızı daha ciddiye almanız gerektiğini vurguluyor. Bugün, finansal yükümlülüklerinizi yerine getirirken daha disiplinli olmanız ve harcamalarınızı dikkatli bir şekilde planlamanız gerekebilir. Ayrıca bu süreç, mali durumunuzu daha sağlam bir zemine oturtmanız için önemli bir fırsat sunabilir.",
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "İç potansiyeliniz oldukça yüksek. Bilinçaltınızın pozitif enerjiyle yoğunlaşması, önünüze geniş bir istek ve hedef yelpazesi getiriyor. Kendinizi güçlü ve motive hissedebilirsiniz.",
+      "aşk": "Oğlak burcundaki güneş ve venüs'ün birleşik ciddi ve sadık etkisi, aşk hayatınızda flört ve eğlenceden çok, kalıcı ve güvenilir bir ilişki arayışında olacağınıza işaret ediyor. İlişkisi olan başaklar, partnerinizle ilişkinizi daha ciddi bir boyuta taşıyabilir, geleceğe yönelik somut planlar yapabilirsiniz. Bekarsanız, bu dönemde, yüzeysel ilişkiler yerine, size istikrar ve güven vaat eden, olgun bir partnerle ciddi bir başlangıç yapma olasılığınız yüksek görünüyor.",
+      "para": "Boğa burcundaki ay'ın istikrarlı ve pratik etkisi, iş ve kariyer alanında uzun vadeli hedeflerinize ve vizyonunuza odaklanmanız için size sağlam bir zemin sunuyor. Bugün, yurt dışı bağlantılı işler, eğitim veya yayıncılık gibi konularda somut ve kalıcı adımlar atabilirsiniz. Ayrıca bu dönemde planlarınızı hayata geçirmek için sabırlı ve kararlı bir tutum sergileyerek, hedeflerinize doğru emin adımlarla ilerleyebilirsiniz. Kova burcundaki plüton'un dönüştürücü ve derinlemesine etkisi, maddi konularda iş ve çalışma hayatınız aracılığıyla kazançlarınızı artırma ve finansal yapınızı kökten değiştirme potansiyelinizi vurguluyor. Bugün, iş yapış şeklinizi veya gelir modelinizi uzun vadede değiştirecek önemli kararlar alabilirsiniz. Ayrıca bu dönemde teknolojiyi veya yenilikçi yöntemleri kullanarak finansal gücünüzü artırma fırsatları yakalayabilirsiniz.",
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Partnerinizle karşıt düşünceler içinde olmanız, aranızda duygusal sorunların ortaya çıkmasına neden olabilir. Onun istekleri sizin tarzınıza ters düşebilir. Olayları abartmaya başladığınızı fark ederseniz, saplantılarınızdan vazgeçmelisiniz.",
+      "aşk": "Koç burcundaki chiron'un hassasiyet yaratan etkisi, aşk hayatınızda geçmiş ilişki yaralarının veya reddedilme korkularının tetiklenebileceğine işaret ediyor. İlişkisi olan teraziler, partnerinizle aranızdaki en küçük bir anlaşmazlıkta bile kendinizi savunmasız ve incinmiş hissedebilirsiniz. Bekarsanız, yeni bir ilişkiye başlama konusunda eski korkularınız nedeniyle tereddüt yaşayabilir, kendinizi korumak için duvarlar örebilirsiniz.",
+      "para": "Yengeç burcundaki jüpiter'in büyüyen ve fırsatlar sunan etkisi, iş ve kariyer alanında hedeflerinize ulaşmak için önemli bir şans yakalayabileceğinizi gösteriyor. Bugün, üstlerinizin dikkatini çekebilir, terfi veya yeni bir proje teklifi alabilirsiniz. Ayrıca bu dönemde toplumsal statünüzü ve profesyonel imajınızı güçlendirmek için karşınıza çıkan fırsatları iyi değerlendirmenizde fayda var. Boğa burcundaki ay'ın güven arayan ve somut etkisi, maddi konularda ortak kaynaklar, krediler, miras veya eşinizin geliri gibi konuları gündeminize taşıyor. Bugün, finansal istikrarınızı sağlamak için başkalarıyla olan para ilişkilerinizi gözden geçirebilirsiniz. Bir kredi başvurusunda bulunmak veya bir borcu yapılandırmak için somut adımlar atmak adına da uygun bir dönemdesiniz.",
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Bugün, duygularınız oldukça yoğun ve abartılı gelişiyor. Sizin her zamanki çözümcü yapınız sayesinde, bazı olaylar çok çabuk geçecek ve dinginliğe kavuşacaksınız. İşlerinizin yoğunluğu sinirlerinizi yorgun düşürebilir.",
+      "aşk": "Boğa burcundaki ay'ın sadık ve istikrar arayan etkisi, aşk hayatınızda partnerinizle aranızdaki bağda güven ve somut adımlar görme isteğinizi artırıyor. İlişkisi olan akrepler, ilişkinizin geleceğine dair güvence arayabilir, partnerinizden size olan bağlılığını göstermesini bekleyebilirsiniz. Bekarsanız, bu dönemde yüzeysel ve gelip geçici flörtler yerine, size güven veren, istikrarlı ve kalıcı bir ilişki kurabileceğiniz birine yönelebilirsiniz.",
+      "para": "Oğlak burcundaki güneş ve mars'ın kararlı etkisi, iş ve kariyer alanında iletişim, pazarlama, satış veya eğitim gibi konularda oldukça başarılı olmanızı sağlıyor. Bugün, fikirlerinizi büyük bir özgüven ve kararlılıkla sunabilir, önemli anlaşmalara imza atabilir veya zorlu bir müzakereden zaferle ayrılabilirsiniz. Yay burcundaki merkür'ün dağınık ve savurgan etkisi, maddi konularda bütçenizi yönetirken dikkatinizin kolayca dağılabileceğini ve gereksiz harcamalar yapabileceğinizi vurguluyor. Bugün, özellikle maddi konularla ilgili bir karar alırken iyimserliğiniz, gerçekleri göz ardı etmenize neden olabilir. Ayrıca gün içerisinde anlık heveslerle veya büyük vaatlerle para harcamaktan kaçınmanızda fayda var.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Bugün entelektüel çalışmalar için uygun bir gün. Ancak duygusal takıntılarınız yüzünden olayların sınırlarını gereğinden fazla genişletebilirsiniz. Evle ilgili değişimler sizi huzursuz etmemeli.",
+      "aşk": "Boğa burcundaki ay'ın sakin ve hizmet odaklı etkisi, aşk hayatınızda ilişkinizin pratik yönlerine ve partnerinize destek olmaya odaklanabileceğinize işaret ediyor. İlişkisi olan yaylar, partnerinizin günlük hayatını kolaylaştıracak jestler yapabilir, ona somut bir şekilde yardımcı olarak sevginizi gösterebilirsiniz. Bekarsanız, çalışma ortamınızdan veya günlük rutinleriniz sırasında karşılaştığınız, size yardımcı olan, güvenilir ve sakin bir kişiliğe sahip birine karşı ilgi duymaya başlayabilirsiniz.",
+      "para": "Boğa burcundaki ay'ın pratik ve üretken etkisi, iş ve kariyer alanında günlük görevlerinizi ve sorumluluklarınızı somut sonuçlar alacak şekilde tamamlamanıza olanak tanıyor. Ayrıca bu dönemde, projelerinizde sabırlı ve istikrarlı bir şekilde çalışarak, elle tutulur başarılar elde edebilirsiniz. Oğlak burcundaki güneş, venüs ve mars'ın birleşik hırslı etkisi, maddi konularda gelirinizi artırmak ve finansal durumunuzu sağlamlaştırmak için muazzam bir motivasyon ve enerji sağlıyor. Bugünlerde, yeni kazanç kapıları aramak, maaş zammı talep etmek veya karlı bir yatırım yapmak için oldukça kararlı ve cesur adımlar atabilirsiniz.",
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Mars burcunuzda ilerlemeye başladı. Enerjinizi kişisel isteklerinizle birleştiriyor, güçlü iletişim kuracağınız kişilere yöneliyorsunuz. İlgi duyduğunuz konularda kendinizi daha da geliştirmek isteyeceksiniz.",
+      "aşk": "Boğa burcundaki ay'ın romantik ve keyif odaklı etkisi, aşk hayatınızda flört, eğlence ve sevginizi gösterme arzusunun artacağına işaret ediyor. İlişkisi olan oğlaklar, partnerinizle birlikte keyifli ve romantik bir gün geçirebilir, ilişkinize neşe katacak aktiviteler planlayabilirsiniz. Bekarsanız, çekiciliğinizin arttığı bu günde, katıldığınız bir sosyal ortamda veya bir hobi aktivitesinde yeni biriyle tanışabilir ve keyifli bir flörte başlayabilirsiniz.",
+      "para": "Burcunuzdaki güneş ve mars'ın birleşik liderlik etkisi, iş ve kariyer alanında inisiyatif almanız ve yeni projelere öncülük etmeniz için size olağanüstü bir enerji veriyor. Bugün, hedeflerinize ulaşmak için gereken kararlılığa ve cesarete sahipsiniz. Zorlu görevlerin üstesinden gelmek ve kendi yolunuzu çizmek için oldukça uygun bir dönemdesiniz. Burcunuzdaki venüs'ün çekici ve diplomatik etkisi, maddi konularda kişisel yeteneklerinizi ve imajınızı kullanarak yeni kazanç fırsatları yaratabileceğinizi vurguluyor. Bugün, dış görünüşünüze veya sunum yeteneklerinize yapacağınız bir yatırım, size finansal olarak geri dönebilir. Ayrıca bu dönemde para ile ilgili konularda daha uyumlu ve stratejik davranarak, kazançlarınızı artırabilirsiniz.",
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Arkadaşlarınızla aranızdaki duygusal bağlarınız güçleniyor. Koruma içgüdünüzün yoğun olacağı bir gündesiniz ve isteklerinizde aşırıya kaçabilirsiniz. Fakat, farklı fikirde olan kişilerle aranızda anlamsız problemler oluşabilir.",
+      "aşk": "Oğlak burcundaki venüs'ün gizemli ve içe dönük etkisi, aşk hayatınızda duygularınızı açıkça ifade etmek yerine, gizli veya platonik ilişkilere çekilebileceğinize işaret ediyor. İlişkisi olan kovalar, ilişkinizle ilgili bazı konuları kendi içinizde yaşayabilir, partnerinizden bazı düşüncelerinizi saklayabilirsiniz. Bekarsanız, bu dönemde ulaşılması zor veya gizemli birine karşı gizli bir hayranlık besleyebilir, duygularınızı bir sır gibi saklama eğiliminde olabilirsiniz.",
+      "para": "Boğa burcundaki ay'ın istikrarlı ve sağlamlaştırıcı etkisi, iş ve kariyer alanında ev ve iş hayatı dengenizi kurmanıza ve kariyerinizin temellerini güçlendirmenize olanak tanıyor. Bugün, evden çalışmak veya iş ortamınızı daha konforlu ve verimli hale getirmek için somut adımlar atabilirsiniz. Ayrıca bu dönemde kariyerinizde uzun vadeli güvenliği sağlamak adına planlı ve sabırlı bir şekilde hareket edebilirsiniz. Yay burcundaki merkür'ün dağınık ve belirsiz etkisi, maddi konularda sosyal çevreniz veya arkadaşlarınızla yapacağınız harcamalarda dikkatli olmanız gerektiğini vurguluyor. Bugün, bir arkadaşınıza borç verirken veya bir grup etkinliği için para toplarken yanlış anlaşılmalar yaşanabilir. Bu etkiler altında, gün içerisinde finansal konularda arkadaşlık ilişkilerinizi riske atmamak için net ve şeffaf bir iletişim kurmanız büyük önem taşıyor.",
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Bugün inatçı yapınızı ortaya çıkaracak çalışmalar içinde olacaksınız. Eğer kalbiniz boş ise, çevrenizde ve arkadaş gruplarınızda ilginizi çekecek biri ile tanışabilirsiniz. Duygularınızı sınamalı ve temkinli davranmalısınız.",
+      "aşk": "Boğa burcundaki ay'ın sakin ve iletişim odaklı etkisi, aşk hayatınızda partnerinizle açık ve dürüst bir diyalog kurma ihtiyacınızı artırıyor. İlişkisi olan balıklar, duygularınızı ve düşüncelerinizi mantıklı ve anlaşılır bir şekilde ifade edebilir, ilişkinizdeki sorunlara pratik çözümler bulabilirsiniz. Bekarsanız, yakın çevrenizden veya katıldığınız bir eğitimde, zeki ve konuşkan biriyle tanışabilir, zihinsel bir çekimle başlayan bir ilişkiye adım atabilirsiniz.",
+      "para": "Yay burcundaki merkür'ün kararsız ve tutarsız etkisi, iş ve kariyer alanında hedefleriniz konusunda kafa karışıklığı yaşamanıza ve sık sık fikir değiştirmenize neden olabilir. Bugün, yöneticilerinizle veya otorite figürleriyle olan iletişiminizde yanlış anlaşılmalara açık olabilirsiniz. Ayrıca bu süreçte profesyonel imajınızı korumak için verdiğiniz sözlerin arkasında durmalı ve daha net bir duruş sergilemelisiniz. Oğlak burcundaki güneş'in planlı ve ciddi etkisi, maddi konularda geleceğe yönelik hedefler belirlemek ve sosyal çevrenizden destek almak için uygun bir zemin hazırlıyor. Bugün, bir arkadaşınızla ortak bir yatırım yapabilir veya bir grup projesi aracılığıyla uzun vadeli bir kazanç kapısı oluşturabilirsiniz. Finansal planlarınızı somutlaştırmak için de oldukça elverişli bir dönemdesiniz.",
+      "sağlık": null
+    }
+  }
+}
