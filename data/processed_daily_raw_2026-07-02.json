@@ -1,0 +1,742 @@
+{
+  "milliyet": {
+    "Koç": {
+      "genel": "Beklediğiniz bir adım gelebilir. Yeni bir fırsat dikkat çekiyor. Cesaretiniz karşılık buluyor. Baş ve göz bölgesine dikkat. Uzun süredir konuşmadığınız biriyle temas kurulabilir.",
+      "aşk": null,
+      "para": "Yeni bir fırsat dikkat çekiyor.",
+      "sağlık": "Baş ve göz bölgesine dikkat."
+    },
+    "Boğa": {
+      "genel": "Güven duygunuz güçleniyor. Maddi anlamda rahatlatan bir gelişme olabilir. Sabrınızın karşılığını almaya başlıyorsunuz. Beslenme düzenine dikkat. Aile içinde güzel haberler alabilirsiniz.",
+      "aşk": "Güven duygunuz güçleniyor.",
+      "para": "Maddi anlamda rahatlatan bir gelişme olabilir.",
+      "sağlık": "Beslenme düzenine dikkat."
+    },
+    "İkizler": {
+      "genel": "İlginin üzerinizde olduğu bir gün. Beklenmedik bir kazanç gündeme gelebilir. Kendinizi göstereceğiniz fırsatlar var. Dinlenmeye zaman ayırın. Yeni insanlar hayatınıza girebilir.",
+      "aşk": null,
+      "para": "Beklenmedik bir kazanç gündeme gelebilir. Kendinizi göstereceğiniz fırsatlar var.",
+      "sağlık": "Dinlenmeye zaman ayırın."
+    },
+    "Yengeç": {
+      "genel": "Kalbinizi ilgilendiren bir konuda netleşme yaşayabilirsiniz. Beklenen bir ödeme veya haber gelebilir. Önemli kişilerden destek alabilirsiniz. Mide ve sindirim sistemi hassas olabilir. Geçmişten gelen biri şaşırtabilir.",
+      "aşk": "Kalbinizi ilgilendiren bir konuda netleşme yaşayabilirsiniz.",
+      "para": "Beklenen bir ödeme veya haber gelebilir.",
+      "sağlık": "Mide ve sindirim sistemi hassas olabilir."
+    },
+    "Aslan": {
+      "genel": "Beklenmedik bir ilgi görebilirsiniz. Harcamalarda denge kurun. Görünürlüğünüz artıyor. Enerjinizi doğru yönetin. Sosyal çevreniz hareketleniyor",
+      "aşk": null,
+      "para": "Harcamalarda denge kurun.",
+      "sağlık": "Enerjinizi doğru yönetin."
+    },
+    "Başak": {
+      "genel": "Kalbiniz ile mantığınız arasında kalabilirsiniz. Küçük bir fırsat büyüyebilir. Disiplininiz başarı getiriyor. Sindirim sistemine dikkat. Bir dostunuzla önemli bir konuşma yapabilirsiniz.",
+      "aşk": "Kalbiniz ile mantığınız arasında kalabilirsiniz.",
+      "para": "Küçük bir fırsat büyüyebilir.",
+      "sağlık": "Sindirim sistemine dikkat."
+    },
+    "Terazi": {
+      "genel": "Romantik gelişmeler yaşanabilir. Ortak para konularında şanslı etkiler var. Görüşmelerden olumlu sonuç çıkabilir. Su tüketimini artırın. Küs olunan biriyle barışma gündeme gelebilir.",
+      "aşk": "Romantik gelişmeler yaşanabilir.",
+      "para": "Ortak para konularında şanslı etkiler var.",
+      "sağlık": "Su tüketimini artırın."
+    },
+    "Akrep": {
+      "genel": "Duygularınız yoğunlaşıyor. Maddi konularda dikkatli olun. Gizli yürüyen bir iş sonuç verebilir. Enerji düşüklüğüne dikkat. Güven konusu öne çıkıyor.",
+      "aşk": null,
+      "para": "Maddi konularda dikkatli olun. Gizli yürüyen bir iş sonuç verebilir.",
+      "sağlık": "Enerji düşüklüğüne dikkat."
+    },
+    "Yay": {
+      "genel": "Heyecan verici gelişmeler yaşanabilir. Yeni kazanç kapıları açılabilir. Eğitim ve iletişim alanlarında başarı. Hareket etmek iyi gelecek. Sosyal çevrenizden destek görebilirsiniz.",
+      "aşk": null,
+      "para": "Yeni kazanç kapıları açılabilir.",
+      "sağlık": "Hareket etmek iyi gelecek."
+    },
+    "Oğlak": {
+      "genel": "Netlik kazanıyorsunuz. Uzun vadeli planlar güçleniyor. Sorumluluklarınız artabilir. Diz ve eklem bölgesine dikkat. Gerçek dostlarınız yanınızda olacak.",
+      "aşk": null,
+      "para": "Uzun vadeli planlar güçleniyor.",
+      "sağlık": "Diz ve eklem bölgesine dikkat."
+    },
+    "Kova": {
+      "genel": "Beklenmedik bir mesaj gelebilir. Teknoloji ve dijital işler kazandırabilir. Yeni projeler ön plana çıkıyor. Uyku düzeninizi koruyun. Yeni bağlantılar kurulabilir.",
+      "aşk": null,
+      "para": "Teknoloji ve dijital işler kazandırabilir. Yeni projeler ön plana çıkıyor.",
+      "sağlık": "Uyku düzeninizi koruyun."
+    },
+    "Balık": {
+      "genel": "Kalbinizdeki bir konu çözüme yaklaşıyor. Harcamalarda ölçülü olun. Yaratıcı fikirleriniz destek görüyor. Dinlenmeye önem verin. İçinizi rahatlatan gelişmeler yaşanabilir.",
+      "aşk": "Kalbinizdeki bir konu çözüme yaklaşıyor.",
+      "para": "Harcamalarda ölçülü olun.",
+      "sağlık": "Dinlenmeye önem verin."
+    }
+  },
+  "hurriyet": {
+    "Koç": {
+      "genel": "Kendinizi bile bile zarara uğratmak yerine, içinizdeki yetenekleri farklı alanlarda sergilemeyi seçin.",
+      "aşk": null,
+      "para": "Kendinizi bile bile zarara uğratmak yerine, içinizdeki yetenekleri farklı alanlarda sergilemeyi seçin.",
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Yaşadığınız olumsuz tecrübeleri aklınızda tutmayı bırakmalısınız; yaşanan yaşandı ve bitti, siz de artık sayfayı kapatın.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Yanlış alışkanlıklar edindiğinizde sağlığınızın tehlikeye gireceğini unutmamalısınız.",
+      "aşk": null,
+      "para": null,
+      "sağlık": "Yanlış alışkanlıklar edindiğinizde sağlığınızın tehlikeye gireceğini unutmamalısınız."
+    },
+    "Yengeç": {
+      "genel": "Duygusal konularda kendinizi manipüle etme eğiliminde olabilirsiniz.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Alım satım işlerinde karşı tarafla ilgili şüphelerinizin olması sürecinizi zorlaştırabilir.",
+      "aşk": null,
+      "para": "Alım satım işlerinde karşı tarafla ilgili şüphelerinizin olması sürecinizi zorlaştırabilir.",
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Sivri diliniz bazı tatsızlıklar oluşturabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "İş ortaklarınız ya da parasal konularda kendi bildiğiniz gibi ilerlemek isteyebilirsiniz.",
+      "aşk": null,
+      "para": "İş ortaklarınız ya da parasal konularda kendi bildiğiniz gibi ilerlemek isteyebilirsiniz.",
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Fiziksel olarak kendinizi iyileştirmeye çalışırken aynı şeyi zihninizde de yapmalısınız.",
+      "aşk": null,
+      "para": null,
+      "sağlık": "Fiziksel olarak kendinizi iyileştirmeye çalışırken aynı şeyi zihninizde de yapmalısınız."
+    },
+    "Yay": {
+      "genel": "Bazı gizli bilgilerin ortaya çıkışı, kulağınıza haberlerin gelmesi sinirlerinizi bozabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Arkadaş çevrenizle ilgili bazı şüpheleriniz olabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Kariyerinizi ilgilendiren noktalarda sadece işinizin gereklerini düşünmelisiniz.",
+      "aşk": null,
+      "para": "Kariyerinizi ilgilendiren noktalarda sadece işinizin gereklerini düşünmelisiniz.",
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Kendinizi doğru bir şekilde savunmalısınız.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "haberturk": {
+    "Koç": {
+      "genel": "Sevgili Koç, Temmuz ayına başlarken ev ve özel yaşamınız sık sık gündeminizde olabilir. Ev, aile veya mülkle ilgili yeni girişimleri şimdilik ertelemek daha iyi olabilir; ancak üzerinde çalışmakta olduğunuz işleri gözden geçirmek, yeniden düzenlemek ve iyileştirmek oldukça verimli sonuçlar getirebilir. Genel olarak bu dönem; yavaşlamak, değerlendirme yapmak ve kendinizi toparlamak için uygun bir zamandır. Koşullar, sizi aile üyeleriyle yeniden bağ kurmaya ya da değer verdiğiniz eski mekânlara ve anılara dönmeye yöneltebilir. Ev yaşamınızda huzursuzluk varsa, yaşam düzeninizi ve koşullarınızı yeniden gözden geçirerek hayatınızı en temelinden yeniden yapılandırmanın yollarını bulabilirsiniz. Bununla birlikte, özgürleşme, yeni deneyimler yaşama ve kendinizi farklı şekillerde ifade etme isteğiniz giderek güçleniyor. Aynı zamanda, önünüzde engel oluşturan güvensizlikleri ve maddi kaynaklarla ilgili kaygıları nasıl yöneteceğinizi de düşünüyor olabilirsiniz. Günün ilerleyen saatlerinde enerjiler sizinle birlikte çalışıyor. Kalbinize en yakın hayallere ve umutlara odaklanabilir, hatta bunları değer verdiğiniz insanlarla paylaşabilirsiniz.",
+      "aşk": "Sevgili Koç, Temmuz ayına başlarken ev ve özel yaşamınız sık sık gündeminizde olabilir. Bununla birlikte, özgürleşme, yeni deneyimler yaşama ve kendinizi farklı şekillerde ifade etme isteğiniz giderek güçleniyor. Günün ilerleyen saatlerinde enerjiler sizinle birlikte çalışıyor. Kalbinize en yakın hayallere ve umutlara odaklanabilir, hatta bunları değer verdiğiniz insanlarla paylaşabilirsiniz.",
+      "para": "Koşullar, sizi aile üyeleriyle yeniden bağ kurmaya ya da değer verdiğiniz eski mekânlara ve anılara dönmeye yöneltebilir. Aynı zamanda, önünüzde engel oluşturan güvensizlikleri ve maddi kaynaklarla ilgili kaygıları nasıl yöneteceğinizi de düşünüyor olabilirsiniz.",
+      "sağlık": "Günün ilerleyen saatlerinde enerjiler sizinle birlikte çalışıyor."
+    },
+    "Boğa": {
+      "genel": "Sevgili Boğa, bu günlerde karar vermek her zamanki kadar kolay olmayabilir. Yanıtları kendi içinizde arıyor olmanız, net sonuçlara varabilmek için daha fazla zamana ihtiyaç duymanıza neden olabilir. Bununla birlikte, projelerinizi ve planlarınızı gözden geçirmek için oldukça güçlü bir dönemdesiniz. Kusurlara ve sorunlara takılı kalmak yerine onları düzeltmeye odaklanın. Merkür retrosu, geçmişte yarım kalmış projeleri veya eğitim çalışmalarını yeniden ele almak açısından oldukça verimli olabilir. Yeni finansal girişimlerde, e-postalarda, mesajlaşmalarda ve telefon görüşmelerinde daha dikkatli ve özenli davranmanız faydalı olacaktır. Ayrıca komşularınız ve kardeşlerinizle olan iletişiminizde de yanlış anlaşılmaları önlemek için ekstra özen göstermelisiniz. Öte yandan, konforlu ve huzurlu bir ev yaşamına duyduğunuz ihtiyaç giderek artıyor. Bu dönemde, sizi ilerlemekten ve büyüme fırsatlarını değerlendirmekten alıkoyan sağlıksız tutumlarınızın farkına varabilirsiniz. Gün ilerledikçe, ortaya koyduğunuz performanstan memnuniyet duymanız kolaylaşabilir; hatta bu memnuniyet, kendinizle gurur duyma noktasına kadar ulaşabilir. Hedeflerinizle ve kariyer ya da yaşamla ilgili büyük amaçlarınızla yeniden bağlantı kurmak için oldukça uygun bir zamandır.",
+      "aşk": "Sevgili Boğa, bu günlerde karar vermek her zamanki kadar kolay olmayabilir. Bununla birlikte, projelerinizi ve planlarınızı gözden geçirmek için oldukça güçlü bir dönemdesiniz.",
+      "para": "Bununla birlikte, projelerinizi ve planlarınızı gözden geçirmek için oldukça güçlü bir dönemdesiniz. Merkür retrosu, geçmişte yarım kalmış projeleri veya eğitim çalışmalarını yeniden ele almak açısından oldukça verimli olabilir. Yeni finansal girişimlerde, e-postalarda, mesajlaşmalarda ve telefon görüşmelerinde daha dikkatli ve özenli davranmanız faydalı olacaktır. Bu dönemde, sizi ilerlemekten ve büyüme fırsatlarını değerlendirmekten alıkoyan sağlıksız tutumlarınızın farkına varabilirsiniz. Hedeflerinizle ve kariyer ya da yaşamla ilgili büyük amaçlarınızla yeniden bağlantı kurmak için oldukça uygun bir zamandır.",
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": ", bu günlerde ilerlemeden önce bazı konuları gözden geçirmeniz ve düzeltmeniz gerekebilir. Bu durum özellikle maddi konular için geçerli. İletişimde zaman zaman aksaklıklar yaşansa da, gerçekte ne istediğinizi ve neye ihtiyaç duyduğunuzu daha iyi anlamaya başlıyorsunuz. Aynı zamanda hedeflerinizi yeniden değerlendirmeye ve önceliklerinizi belirlemeye yönlendiriliyorsunuz. Uzun zamandır yalnız başınıza taşıdığınız bazı yüklerden kurtulmanın ne kadar özgürleştirici olabileceğini fark edebilirsiniz. Ancak, içinizi kime açacağınız konusunda seçici olmanızda fayda var. Duygularınızı ifade etmekten ve gerçekten istediğiniz şeylerin peşinden gitmekten sizi alıkoyan güvensizliklerle de yüzleşiyor olabilirsiniz. Kendinizi daha özgür ve neşeli bir şekilde ifade etme yolculuğunuzda, bu engelleri aşmanız önemli olacaktır. Mars, size daha fazla heyecan, gelişim ve yeni fırsatlar arama konusunda güçlü bir motivasyon vermeye devam ediyor. Günün ilerleyen saatlerinde ise bu olumlu ve girişimci enerjiyi çok daha etkili bir şekilde kullanabilir, isteklerinizi hayata geçirmek için cesaretinizi ve kararlılığınızı artırabilirsiniz.",
+      "aşk": null,
+      "para": "Bu durum özellikle maddi konular için geçerli. Mars, size daha fazla heyecan, gelişim ve yeni fırsatlar arama konusunda güçlü bir motivasyon vermeye devam ediyor.",
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Sevgili Yengeç, Merkür burcunuzda geri hareketine devam ederken, önümüzdeki haftalarda önemli bir konuda normalden daha fazla gecikme, yanlış anlaşılma veya belirsizlik yaşanabilir. Bu durum sizi bir süre kararsız veya beklemede hissettirebilir. Bu nedenle, iletişim kurarken kendinizi net ifade ettiğinizden emin olmak için biraz daha fazla zaman ayırmanız faydalı olacaktır. Bu dönem aynı zamanda içe dönüşün arttığı bir süreçtir ve bundan büyük ölçüde yarar sağlayabilirsiniz. Karar vermek her zamanki kadar kolay olmayabilir; bu da sizi cevapları dışarıda aramak yerine kendi içinize yönelmeye ve her konuyu daha derinlemesine düşünmeye teşvik eder. Şu sıralar saygı, hak sahipliği veya sahip olunan şeylerle ilgili hassas ve karmaşık meselelerle de ilgilenmeniz gerekebilir. Bir yandan dinlenmeye, hayatı sadeleştirmeye ve keyif almaya güçlü bir ihtiyaç duyarken, diğer yandan sosyal çevrenizle ilgili güvensizlikler veya endişeler sizi sürekli tetikte tutabilir. Sosyal ağlarınızı, arkadaş çevrenizi ya da çevrenizde olup biteni gereğinden fazla takip ediyorsanız, bunun üzerinizde gereksiz bir gerginlik oluşturup oluşturmadığını düşünün. Biraz geri çekilip kendinize alan tanımak size iyi gelebilir. Günün ilerleyen saatlerinde ise olumlu enerjiler sizinle birlikte. Hem pratik anlamda faydalı olma ihtiyacınız hem de zaman zaman kendi içinize çekilip duygusal olarak dinlenme isteğiniz arasında sağlıklı bir denge kurmanız daha kolay olacaktır.",
+      "aşk": "Sevgili Yengeç, Merkür burcunuzda geri hareketine devam ederken, önümüzdeki haftalarda önemli bir konuda normalden daha fazla gecikme, yanlış anlaşılma veya belirsizlik yaşanabilir. Günün ilerleyen saatlerinde ise olumlu enerjiler sizinle birlikte.",
+      "para": "Sosyal ağlarınızı, arkadaş çevrenizi ya da çevrenizde olup biteni gereğinden fazla takip ediyorsanız, bunun üzerinizde gereksiz bir gerginlik oluşturup oluşturmadığını düşünün.",
+      "sağlık": "Sevgili Yengeç, Merkür burcunuzda geri hareketine devam ederken, önümüzdeki haftalarda önemli bir konuda normalden daha fazla gecikme, yanlış anlaşılma veya belirsizlik yaşanabilir. Günün ilerleyen saatlerinde ise olumlu enerjiler sizinle birlikte. Hem pratik anlamda faydalı olma ihtiyacınız hem de zaman zaman kendi içinize çekilip duygusal olarak dinlenme isteğiniz arasında sağlıklı bir denge kurmanız daha kolay olacaktır."
+    },
+    "Aslan": {
+      "genel": "Sevgili Aslan, Merkür'ün güneş haritanızın on ikinci evindeki geri hareketi nedeniyle, bu günlerde hayatınızın önemli bir alanında beklemede kalmış gibi hissedebilirsiniz. Örneğin, bir durumu geride bırakıp bırakmama konusunda kendi içinizde mücadele edebilirsiniz. Bu dönem, zaten üzerinde çalıştığınız işleri yeniden ele almak ve geliştirmek, günlük tutmak ya da geçmişe dönerek daha önce gözden kaçırdığınız cevapları bulmak için oldukça elverişlidir. Merkür 23 Temmuz'a kadar geri harekette kalacağından, bu süreç genel olarak araştırma yapmak, derinlemesine düşünmek ve eksikleri tamamlamak açısından verimli olacaktır. Bununla birlikte, Jüpiter'in artık burcunuzda ilerlemesiyle birlikte kendinizi keşfetme isteğiniz giderek güçleniyor ve zaman zaman bu dürtüyü görmezden gelmeniz mümkün olmayabilir. Bu geçişten en iyi şekilde yararlanabilmek için, özellikle güvensizlikler veya endişeler su yüzüne çıkıyorsa, hedeflerinizi ve hırslarınızı dengeli bir şekilde yönetmeniz gerekebilir. Gün ilerledikçe dikkatiniz ilişkilerinizde uyum ve denge kurma ihtiyacınıza yöneliyor. Başkalarıyla daha huzurlu ve anlayışlı bir iletişim kurmak, hem size hem de ilişkilerinize olumlu katkı sağlayabilir.",
+      "aşk": "Sevgili Aslan, Merkür'ün güneş haritanızın on ikinci evindeki geri hareketi nedeniyle, bu günlerde hayatınızın önemli bir alanında beklemede kalmış gibi hissedebilirsiniz. Bununla birlikte, Jüpiter'in artık burcunuzda ilerlemesiyle birlikte kendinizi keşfetme isteğiniz giderek güçleniyor ve zaman zaman bu dürtüyü görmezden gelmeniz mümkün olmayabilir.",
+      "para": "Bu dönem, zaten üzerinde çalıştığınız işleri yeniden ele almak ve geliştirmek, günlük tutmak ya da geçmişe dönerek daha önce gözden kaçırdığınız cevapları bulmak için oldukça elverişlidir.",
+      "sağlık": "Merkür 23 Temmuz'a kadar geri harekette kalacağından, bu süreç genel olarak araştırma yapmak, derinlemesine düşünmek ve eksikleri tamamlamak açısından verimli olacaktır."
+    },
+    "Başak": {
+      "genel": "Sevgili Başak, Temmuz ayı, mutluluk ve yaşamdan beklentilerinizle ilgili hedeflerinizin ön plana çıkacağı oldukça ilginç bir dönem olabilir. Bununla birlikte, yönetici gezegeniniz Merkür 23 Temmuz'a kadar geri harekette olacağından, eksik bilgiler, yanlış anlamalar veya net düşünememe gibi durumlara karşı dikkatli olmalısınız. Eğer gecikmeler yaşanırsa, bunların bir konu hakkında gerçekte ne hissettiğinizi anlamanız için size zaman kazandırdığını fark edebilirsiniz. Aynı zamanda iç dünyanızda ve rüya âleminizde çok şey yaşanıyor. Sezgileriniz son derece güçlü ve onları görmezden gelmeniz kolay olmayacak. Jüpiter'in güneş haritanızın on ikinci evindeki yolculuğuyla birlikte, duygularınız, anılarınız ve kuvvetli sezgileriniz bakış açınızı tamamen değiştirebilir ve sizi yepyeni bir yaşam yoluna yönlendirebilir. Bu temayı derinlemesine keşfedebilmek için üzerinize gereğinden fazla sorumluluk veya etkinlik almamaya çalışın. Kendinize sessizlik ve içsel farkındalık için alan tanımak bu dönemde çok değerli olabilir. Gün ilerledikçe duygusal olarak çevrenizdeki insanlara destek olma ve yardım etme isteğiniz güçleniyor. Sevdiklerinize anlayış göstermek ve ihtiyaç duyduklarında yanlarında olmak hem sizi hem de onları mutlu edebilir.",
+      "aşk": "Sevgili Başak, Temmuz ayı, mutluluk ve yaşamdan beklentilerinizle ilgili hedeflerinizin ön plana çıkacağı oldukça ilginç bir dönem olabilir. Bununla birlikte, yönetici gezegeniniz Merkür 23 Temmuz'a kadar geri harekette olacağından, eksik bilgiler, yanlış anlamalar veya net düşünememe gibi durumlara karşı dikkatli olmalısınız. Jüpiter'in güneş haritanızın on ikinci evindeki yolculuğuyla birlikte, duygularınız, anılarınız ve kuvvetli sezgileriniz bakış açınızı tamamen değiştirebilir ve sizi yepyeni bir yaşam yoluna yönlendirebilir.",
+      "para": null,
+      "sağlık": "Bununla birlikte, yönetici gezegeniniz Merkür 23 Temmuz'a kadar geri harekette olacağından, eksik bilgiler, yanlış anlamalar veya net düşünememe gibi durumlara karşı dikkatli olmalısınız. Jüpiter'in güneş haritanızın on ikinci evindeki yolculuğuyla birlikte, duygularınız, anılarınız ve kuvvetli sezgileriniz bakış açınızı tamamen değiştirebilir ve sizi yepyeni bir yaşam yoluna yönlendirebilir."
+    },
+    "Terazi": {
+      "genel": ", bu günlerde kariyeriniz ve toplumdaki itibarınız güçlü bir şekilde gündeminizde. Güneş haritanızın kariyer alanında geri hareket eden Merkür, 23 Temmuz'a kadar uzun vadeli hedefleriniz veya iş hayatınızla ilgili bazı konuları yeniden gözden geçirmenizi gerektiriyor. Bu süreçte belirsizlikler, beklemeler veya gecikmelerle karşılaşabilirsiniz. Hâlihazırda üzerinde çalıştığınız projeleri geliştirmek ya da geçmişte yarım kalmış işlere geri dönmek için oldukça uygun bir dönemdesiniz. Ancak iletişimlerin her zamanki kadar net olmayabileceğini aklınızda bulundurun ve planlarınızı buna göre esnek tutmaya çalışın. Bu süreçte yapılan bazı planlar daha sonra tamamen değişebilir veya hiç gerçekleşmeyebilir. Öte yandan, mutluluk hedeflerinize ve sosyal yaşamınıza verdiğiniz önem giderek artıyor. Bugünün enerjileri, bu alanlarda tüm kalbinizle ilerlemenizi engelleyen güvensizliklerinizi fark edip onları yönetmeniz gerektiğini hatırlatıyor. Gün ilerledikçe, hayatınızdaki insanlarla ortak yönlerinize daha fazla odaklanırken, aranızdaki farklılıkları da keyifle karşılayabilirsiniz. Bu yaklaşım hem ilişkilerinizi güçlendirebilir hem de farklı bakış açılarını daha fazla takdir etmenizi sağlayabilir.",
+      "aşk": "Bugünün enerjileri, bu alanlarda tüm kalbinizle ilerlemenizi engelleyen güvensizliklerinizi fark edip onları yönetmeniz gerektiğini hatırlatıyor.",
+      "para": ", bu günlerde kariyeriniz ve toplumdaki itibarınız güçlü bir şekilde gündeminizde. Güneş haritanızın kariyer alanında geri hareket eden Merkür, 23 Temmuz'a kadar uzun vadeli hedefleriniz veya iş hayatınızla ilgili bazı konuları yeniden gözden geçirmenizi gerektiriyor. Hâlihazırda üzerinde çalıştığınız projeleri geliştirmek ya da geçmişte yarım kalmış işlere geri dönmek için oldukça uygun bir dönemdesiniz.",
+      "sağlık": "Güneş haritanızın kariyer alanında geri hareket eden Merkür, 23 Temmuz'a kadar uzun vadeli hedefleriniz veya iş hayatınızla ilgili bazı konuları yeniden gözden geçirmenizi gerektiriyor."
+    },
+    "Akrep": {
+      "genel": "Sevgili Akrep, Merkür 23 Temmuz'a kadar geri harekette olacağı için, yüksek öğrenim, yayıncılık, hukuki konular, seyahatler veya ulaşım ile ilgili bazı meseleler belirsizliğini koruyabilir ya da beklemede kalabilir. Bununla birlikte, önünüzdeki haftalar; ders çalışmak, araştırma yapmak, gözden geçirmek, yeniden düzenlemek ve eksikleri tamamlamak için oldukça elverişlidir. Yeni girişimleri zorlayarak ilerletmekten ziyade, geçmişte yarım kalmış işlere yeniden ilgi göstermek ve onları geliştirmek çok daha verimli sonuçlar doğurabilir. Bu günlerde zihinsel ufkunuzu genişletme isteğiniz oldukça güçlü. Her ne kadar ulaşmak istediğiniz noktaya gitmek her zaman kolay olmasa da, yeni bilgiler edinme ve farklı bakış açıları kazanma arzunuz sizi ileriye taşıyacaktır. Aynı zamanda büyük hedefleriniz ve kariyerle ilgili hırslarınız da giderek güçleniyor. Ancak şu sıralar ilişki hedefleriniz ile kariyeriniz veya yaşam yolunuzla ilgili hedefleriniz tam anlamıyla uyum içinde olmayabilir. Bu nedenle iki alan arasında makul bir denge kurmaya çalışmanız size uzun vadede fayda sağlayacaktır. En iyi sonuçları elde etmek için bilinçli olarak tempoyu biraz düşürmeye ve kapasitenizi aşacak hedefler peşinde koşmamaya özen gösterin. Gün ilerledikçe bunu yapmak daha kolay hâle geliyor. Hatta tanıdık, güven veren ve size huzurlu hissettiren aktiviteler ruh hâlinizi belirgin şekilde iyileştirebilir ve kendinizi daha dengeli hissetmenizi sağlayabilir.",
+      "aşk": "Sevgili Akrep, Merkür 23 Temmuz'a kadar geri harekette olacağı için, yüksek öğrenim, yayıncılık, hukuki konular, seyahatler veya ulaşım ile ilgili bazı meseleler belirsizliğini koruyabilir ya da beklemede kalabilir. Bununla birlikte, önünüzdeki haftalar; ders çalışmak, araştırma yapmak, gözden geçirmek, yeniden düzenlemek ve eksikleri tamamlamak için oldukça elverişlidir. Ancak şu sıralar ilişki hedefleriniz ile kariyeriniz veya yaşam yolunuzla ilgili hedefleriniz tam anlamıyla uyum içinde olmayabilir.",
+      "para": "Sevgili Akrep, Merkür 23 Temmuz'a kadar geri harekette olacağı için, yüksek öğrenim, yayıncılık, hukuki konular, seyahatler veya ulaşım ile ilgili bazı meseleler belirsizliğini koruyabilir ya da beklemede kalabilir. Her ne kadar ulaşmak istediğiniz noktaya gitmek her zaman kolay olmasa da, yeni bilgiler edinme ve farklı bakış açıları kazanma arzunuz sizi ileriye taşıyacaktır. Aynı zamanda büyük hedefleriniz ve kariyerle ilgili hırslarınız da giderek güçleniyor. Ancak şu sıralar ilişki hedefleriniz ile kariyeriniz veya yaşam yolunuzla ilgili hedefleriniz tam anlamıyla uyum içinde olmayabilir.",
+      "sağlık": "Sevgili Akrep, Merkür 23 Temmuz'a kadar geri harekette olacağı için, yüksek öğrenim, yayıncılık, hukuki konular, seyahatler veya ulaşım ile ilgili bazı meseleler belirsizliğini koruyabilir ya da beklemede kalabilir. Bu günlerde zihinsel ufkunuzu genişletme isteğiniz oldukça güçlü. Hatta tanıdık, güven veren ve size huzurlu hissettiren aktiviteler ruh hâlinizi belirgin şekilde iyileştirebilir ve kendinizi daha dengeli hissetmenizi sağlayabilir."
+    },
+    "Yay": {
+      "genel": "Sevgili Yay, Merkür 23 Temmuz'a kadar geri hareketini sürdüreceği için, yanlış anlaşılmaların veya eksik bilgilerin bazı gecikmelere yol açmasına hazırlıklı olun. Ancak bu gecikmelerin aslında gizli birer fırsat olabileceğini de unutmayın; çünkü sizi daha doğru bir yöne yönlendirebilirler. Bu Merkür retrosu boyunca mali durumunuzu gözden geçirmek, bütçe yapmak ve yakın ilişkileriniz, size destek olan kişiler, bağımlılıklarınız ve kendi psikolojik dinamikleriniz hakkında farklı bir bakış açısı kazanmak için oldukça uygun bir dönemdesiniz. Hem kendinize hem de başkalarına biraz alan tanımanız faydalı olacaktır. Bununla birlikte, ilginizi ve niyetinizi açıkça ifade etmeyi de ihmal etmeyin. Böylece hem mesafeyi koruyabilir hem de ilişkilerinizde sıcaklığı sürdürebilirsiniz. Hayatınızda giderek güçlenen bir diğer tema ise ilgi duyduğunuz özel konuları keşfetmek, yeni uğraşlar edinmek ve farklı deneyimlere yönelmek. Günlük düzeninizde çözülmesi gereken meseleler varsa, bunlarla ilgilenmeniz akıllıca olacaktır; çünkü bunlar yeni fikirleri ve olasılıkları keşfetmenizin önünde engel oluşturuyor olabilir. Bugün zaman zaman dikkatiniz dağılabilir. Yine de bilgi toplamak, araştırma yapmak ve yeni şeyler öğrenmek hem keyifli hem de oldukça verimli olabilir.",
+      "aşk": "Sevgili Yay, Merkür 23 Temmuz'a kadar geri hareketini sürdüreceği için, yanlış anlaşılmaların veya eksik bilgilerin bazı gecikmelere yol açmasına hazırlıklı olun. Bununla birlikte, ilginizi ve niyetinizi açıkça ifade etmeyi de ihmal etmeyin.",
+      "para": "Ancak bu gecikmelerin aslında gizli birer fırsat olabileceğini de unutmayın; çünkü sizi daha doğru bir yöne yönlendirebilirler. Bu Merkür retrosu boyunca mali durumunuzu gözden geçirmek, bütçe yapmak ve yakın ilişkileriniz, size destek olan kişiler, bağımlılıklarınız ve kendi psikolojik dinamikleriniz hakkında farklı bir bakış açısı kazanmak için oldukça uygun bir dönemdesiniz.",
+      "sağlık": "Sevgili Yay, Merkür 23 Temmuz'a kadar geri hareketini sürdüreceği için, yanlış anlaşılmaların veya eksik bilgilerin bazı gecikmelere yol açmasına hazırlıklı olun."
+    },
+    "Oğlak": {
+      "genel": "Sevgili Oğlak, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, geçmişteki sorunlar hakkında özellikle ilişkiler, iş ve sağlık konularında yeni şeyler öğrenmeniz mümkün. Geçmişte nerelerde tökezlemiş ya da yanlış yönlere sapmış olabileceğinizi görmek, ileride daha doğru kararlar almanıza yardımcı olabilir. Bu dönemde başkalarının sizi otomatik olarak anlayacağını varsaymamak en iyisi olacaktır. Geçmişe daha fazla odaklanma veya sizi belirsizlikte bırakan gecikmeler yaşanabilir. Yeni bilgiler ortaya çıkabilir ve bu da bir ortaklığı ya da geçmişteki bir konuyu farklı bir gözle değerlendirmenize neden olabilir. Şu günlerde, söylenen sözlerin nasıl ifade edildiğine fazla takılmak yerine, arkasındaki niyeti anlamaya çalışmak daha faydalı olacaktır. Günün ilerleyen saatlerinde Ay'ın kaynaklar alanınıza geçmesiyle birlikte, işleri biraz yavaşlatmak ve fazla düşünme eğilimini azaltmak daha iyi gelebilir. Topraklanma sağlayan, sade, rahatlatıcı ve tanıdık aktiviteler şu an sizin için en doğru seçim olacaktır.",
+      "aşk": "Sevgili Oğlak, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, geçmişteki sorunlar hakkında özellikle ilişkiler, iş ve sağlık konularında yeni şeyler öğrenmeniz mümkün. Günün ilerleyen saatlerinde Ay'ın kaynaklar alanınıza geçmesiyle birlikte, işleri biraz yavaşlatmak ve fazla düşünme eğilimini azaltmak daha iyi gelebilir.",
+      "para": "Sevgili Oğlak, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, geçmişteki sorunlar hakkında özellikle ilişkiler, iş ve sağlık konularında yeni şeyler öğrenmeniz mümkün. Geçmişte nerelerde tökezlemiş ya da yanlış yönlere sapmış olabileceğinizi görmek, ileride daha doğru kararlar almanıza yardımcı olabilir. Yeni bilgiler ortaya çıkabilir ve bu da bir ortaklığı ya da geçmişteki bir konuyu farklı bir gözle değerlendirmenize neden olabilir.",
+      "sağlık": "Sevgili Oğlak, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, geçmişteki sorunlar hakkında özellikle ilişkiler, iş ve sağlık konularında yeni şeyler öğrenmeniz mümkün. Topraklanma sağlayan, sade, rahatlatıcı ve tanıdık aktiviteler şu an sizin için en doğru seçim olacaktır."
+    },
+    "Kova": {
+      "genel": "Sevgili Kova, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, eski sistemleri ve projeleri yeniden düzenleme ihtiyacıyla karşılaşabilirsiniz. İş, günlük sorumluluklar veya rutinlerle ilgili eski sorunlar yeniden gündeme gelebilir. Merkür retrosu dönemleri, dağınık bir dolabı temizlemeye benzetilebilir: İlk başta her şey daha karmaşık görünür, ancak süreç tamamlandığında işler çok daha düzenli ve sağlıklı bir hale gelir. Aynı zamanda danışmanlık, fikir alışverişi ve birebir ilişkiler hayatınızda giderek daha önemli bir tema haline geliyor. Aileye verdiğiniz dikkat ile diğer ilişkileriniz arasında denge kurmakta zorlanabilirsiniz. İlişkilerde büyümeyi sınırlayan güvensizlikleri fark edip bunlarla yüzleşmek için uygun bir dönemdesiniz. Kalbinizi dinleyerek sizin için hangi değişimlerin doğru olduğunu belirlemek önem kazanıyor. Günün ilerleyen saatlerinde Ay burcunuza geçiyor ve içe çekilmekten çıkıp daha dışa dönük, daha etkileşimli ve daha sosyal hissedebilirsiniz.",
+      "aşk": "Sevgili Kova, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, eski sistemleri ve projeleri yeniden düzenleme ihtiyacıyla karşılaşabilirsiniz. Aynı zamanda danışmanlık, fikir alışverişi ve birebir ilişkiler hayatınızda giderek daha önemli bir tema haline geliyor. Kalbinizi dinleyerek sizin için hangi değişimlerin doğru olduğunu belirlemek önem kazanıyor.",
+      "para": "Sevgili Kova, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, eski sistemleri ve projeleri yeniden düzenleme ihtiyacıyla karşılaşabilirsiniz. Merkür retrosu dönemleri, dağınık bir dolabı temizlemeye benzetilebilir: İlk başta her şey daha karmaşık görünür, ancak süreç tamamlandığında işler çok daha düzenli ve sağlıklı bir hale gelir.",
+      "sağlık": "Merkür retrosu dönemleri, dağınık bir dolabı temizlemeye benzetilebilir: İlk başta her şey daha karmaşık görünür, ancak süreç tamamlandığında işler çok daha düzenli ve sağlıklı bir hale gelir."
+    },
+    "Balık": {
+      "genel": "Sevgili Balık, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, önümüzdeki haftalarda özellikle aşk ve yaratıcılık alanlarında bazı gecikmeler veya geri dönüşler yaşanabilir. Bu süreçte bazı şeyleri yeniden ele alma ya da farklı bir bakış açısı kazanma fırsatı da doğabilir. Daha önce zaman bulamadığınız ya da tamamlayamadığınız yaratıcı projelere geri dönmek için oldukça uygun bir dönemdesiniz. İletişimlerinizin her zaman niyet ettiğiniz şekilde anlaşılmayabileceğini de göz önünde bulundurmalısınız. Bununla birlikte, dışarıdan bakıldığında duraklama gibi görünen şey aslında sadece gözden geçirme ve eksikleri tamamlama süreci olabilir. Kendinize düşünmek ve toparlanmak için biraz daha kişisel alan tanımanız faydalı olacaktır. Ayrıca, aşırı yoğun ya da kaotik bir program artık sizi zorluyorsa, bu durum iş yükünüzü veya projelerinizi yeniden değerlendirmeniz gerektiğine işaret ediyor olabilir. Kendinize daha iyi bakmak için bazı düzenlemeler yapmak bu dönemde önemli olacaktır.",
+      "aşk": "Sevgili Balık, Merkür'ün 23 Temmuz'a kadar süren geri hareketi ile birlikte, önümüzdeki haftalarda özellikle aşk ve yaratıcılık alanlarında bazı gecikmeler veya geri dönüşler yaşanabilir. Bununla birlikte, dışarıdan bakıldığında duraklama gibi görünen şey aslında sadece gözden geçirme ve eksikleri tamamlama süreci olabilir.",
+      "para": "Bu süreçte bazı şeyleri yeniden ele alma ya da farklı bir bakış açısı kazanma fırsatı da doğabilir. Daha önce zaman bulamadığınız ya da tamamlayamadığınız yaratıcı projelere geri dönmek için oldukça uygun bir dönemdesiniz. Ayrıca, aşırı yoğun ya da kaotik bir program artık sizi zorluyorsa, bu durum iş yükünüzü veya projelerinizi yeniden değerlendirmeniz gerektiğine işaret ediyor olabilir.",
+      "sağlık": null
+    }
+  },
+  "elele": {
+    "Koç": {
+      "genel": "Ev ve aile yaşantınızda retronun getirdiği eski mevzular bugün zihninizi yorabilir. Ancak asıl dikkat etmeniz gereken yer, hafta sonuna doğru yaklaşan Mars-Uranüs etkisiyle iletişim alanınız olacak. Yakın çevrenizle, kardeşlerinizle konuşurken bahanelerin arkasına sığınmadan, sakin ve rasyonel kalmaya özen gösterin; ani parlamalar köprüleri yıkabilir.",
+      "aşk": null,
+      "para": null,
+      "sağlık": "Ancak asıl dikkat etmeniz gereken yer, hafta sonuna doğru yaklaşan Mars-Uranüs etkisiyle iletişim alanınız olacak."
+    },
+    "Boğa": {
+      "genel": "Bugün finansal konular ve kişisel kazançlarınız mercek altında. Maddi konularda ani, dürtüsel harcamalar yapmaya son derece eğilimlisiniz. Bir yatırıma yönelmeden veya lüks bir harcama yapmadan önce iki kez düşünün. İletişimde ise eski dostlardan su gibi akıcı, sürpriz haberler alabilirsiniz.",
+      "aşk": null,
+      "para": "Bugün finansal konular ve kişisel kazançlarınız mercek altında. Maddi konularda ani, dürtüsel harcamalar yapmaya son derece eğilimlisiniz. Bir yatırıma yönelmeden veya lüks bir harcama yapmadan önce iki kez düşünün.",
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Burcunuzda ilerleyen Mars, Uranüs ile tehlikeli bir yakınlaşma içinde. Bugün kendinizi inanılmaz sabırsız, heyecanlı ama bir o kadar da gergin hissedebilirsiniz. Radikal adımlar atmak, köklü değişiklikler yapmak için rasyonel bir gün değil. Enerjinizi spora veya yaratıcı işlerinize yönlendirerek dertten tasadan uzak durun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": "Enerjinizi spora veya yaratıcı işlerinize yönlendirerek dertten tasadan uzak durun."
+    },
+    "Yengeç": {
+      "genel": "Merkür burcunuzda geri hareketini sürdürürken, bugün iç dünyanızda adeta fırtınalar kopabilir. Gizli kalmış bazı konular veya arkanızdan çevrilen işler maskesiz bir şekilde önünüze düşebilir. Duygusal alınganlıklardan dürüstçe sıyrılmalı, olaylara asil ve mesafeli bir mantıkla yaklaşmalısınız.",
+      "aşk": null,
+      "para": "Gizli kalmış bazı konular veya arkanızdan çevrilen işler maskesiz bir şekilde önünüze düşebilir.",
+      "sağlık": "Merkür burcunuzda geri hareketini sürdürürken, bugün iç dünyanızda adeta fırtınalar kopabilir."
+    },
+    "Aslan": {
+      "genel": "Jüpiter'in burcunuza geçişinin asil koruması altındasınız ancak bugün sosyal çevreniz ve arkadaşlık ilişkilerinizde ani gerilimler yaşanabilir. Planladığınız bir organizasyon son dakika iptal olabilir ya da bir dostunuzla fikir ayrılığına düşebilirsiniz. Akışta kalmak ve fevri olmamak günü kurtaracaktır.",
+      "aşk": "Planladığınız bir organizasyon son dakika iptal olabilir ya da bir dostunuzla fikir ayrılığına düşebilirsiniz.",
+      "para": "Planladığınız bir organizasyon son dakika iptal olabilir ya da bir dostunuzla fikir ayrılığına düşebilirsiniz.",
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Kariyerinizde ve iş hayatınızda ezber bozan, oldukça hareketli bir perşembe günü. Üstlerinizle olan diyaloglarınızda veya sunumlarınızda teknik aksaklıklara karşı hazırlıklı olun. Gelecek hedeflerinizi dürüstçe gözden geçirmek harika ancak radikal kararlar için retronun bitmesini beklemek daha rasyonel bir adım olur.",
+      "aşk": null,
+      "para": "Kariyerinizde ve iş hayatınızda ezber bozan, oldukça hareketli bir perşembe günü.",
+      "sağlık": "Kariyerinizde ve iş hayatınızda ezber bozan, oldukça hareketli bir perşembe günü."
+    },
+    "Terazi": {
+      "genel": "Hayata bakış açınız, inançlarınız ve uzun vadeli planlarınız bugün yoğun bir sorgulamadan geçiyor. Eğitim, hukuk veya seyahat gündemleriniz varsa, ani yön değişiklikleri ya da rötarlar keyfinizi kaçırmasın. Olayları dertten tasadan uzak bir olgunlukla karşılamak asil duruşunuzu pekiştirecektir.",
+      "aşk": null,
+      "para": "Eğitim, hukuk veya seyahat gündemleriniz varsa, ani yön değişiklikleri ya da rötarlar keyfinizi kaçırmasın.",
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Ortaklaşa kazançlar, ödemeler ve finansal dengeler hususunda oldukça dikkatli olmanız gereken bir gün. Beklenmedik bir fatura veya borç gündeme gelebilir. Maddi konularda dürüst ve şeffaf olmak, partnerinizle veya ortaklarınızla yaşanabilecek olası krizlerin önüne rasyonel bir set çekecektir.",
+      "aşk": "Maddi konularda dürüst ve şeffaf olmak, partnerinizle veya ortaklarınızla yaşanabilecek olası krizlerin önüne rasyonel bir set çekecektir.",
+      "para": "Ortaklaşa kazançlar, ödemeler ve finansal dengeler hususunda oldukça dikkatli olmanız gereken bir gün. Beklenmedik bir fatura veya borç gündeme gelebilir. Maddi konularda dürüst ve şeffaf olmak, partnerinizle veya ortaklarınızla yaşanabilecek olası krizlerin önüne rasyonel bir set çekecektir.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "İkili ilişkileriniz, evliliğiniz ve ortaklıklarınız bugün adeta bir elektrik hattı gibi gergin olabilir. Partnerinizin ani ve fevri çıkışlarına karşı su gibi akıcı bir sakinlikle yanıt vermek, büyüyecek tartışmaları dertten tasadan uzak bir şekilde başlamadan bitirecektir. Alınganlıkları bir kenara bırakın.",
+      "aşk": "İkili ilişkileriniz, evliliğiniz ve ortaklıklarınız bugün adeta bir elektrik hattı gibi gergin olabilir. Partnerinizin ani ve fevri çıkışlarına karşı su gibi akıcı bir sakinlikle yanıt vermek, büyüyecek tartışmaları dertten tasadan uzak bir şekilde başlamadan bitirecektir.",
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": "Günlük çalışma temponuz, iş ortamınız ve sağlığınız bugün ekstra özen istiyor. İş yerinde ani gelişen iş yükleri veya plan değişiklikleri sinirlerinizi gerebilir. Bedeninizi ve zihninizi bahanelerin arkasına sığınmadan dinlendirmeli, özellikle beslenme ve uyku düzeninize rasyonel yaklaşmalısınız.",
+      "aşk": null,
+      "para": "Günlük çalışma temponuz, iş ortamınız ve sağlığınız bugün ekstra özen istiyor. İş yerinde ani gelişen iş yükleri veya plan değişiklikleri sinirlerinizi gerebilir.",
+      "sağlık": "Günlük çalışma temponuz, iş ortamınız ve sağlığınız bugün ekstra özen istiyor. Bedeninizi ve zihninizi bahanelerin arkasına sığınmadan dinlendirmeli, özellikle beslenme ve uyku düzeninize rasyonel yaklaşmalısınız."
+    },
+    "Kova": {
+      "genel": "Aşk hayatınızda, flörtlerinizde veya çocuklarla olan ilişkilerinizde sürpriz, öngörülemez ve oldukça heyecanlı gelişmeler yaşanabilir. Kalbi boş olan Kovalar için maskesiz, aniden parlayan yıldırım aşkları gündeme gelebilir. Ancak retronun oyunlarına gelmemek için adımlarınızı dürüstçe atın.",
+      "aşk": "Aşk hayatınızda, flörtlerinizde veya çocuklarla olan ilişkilerinizde sürpriz, öngörülemez ve oldukça heyecanlı gelişmeler yaşanabilir. Kalbi boş olan Kovalar için maskesiz, aniden parlayan yıldırım aşkları gündeme gelebilir.",
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Ev, aile ve yuva alanınızda ani tamirat işleri veya aile büyükleriyle yaşanabilecek fikir ayrılıkları perşembe gününüzü biraz hareketlendirebilir. Geçmişte çözüldüğünü sandığınız konular su gibi akıcı bir şekilde yeniden açılırsa, fevri olmak yerine asil ve yapıcı bir üslup benimseyin.",
+      "aşk": "Ev, aile ve yuva alanınızda ani tamirat işleri veya aile büyükleriyle yaşanabilecek fikir ayrılıkları perşembe gününüzü biraz hareketlendirebilir.",
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "onedio": {
+    "Koç": {
+      "genel": "bugün gökyüzünde gerçekleşen Ay Plüton kavuşumu, sosyal çevrende ve dahil olduğun arkadaş gruplarında muazzam bir temizlik fırtınası başlatıyor. Uzun zamandır sana iyi gelmediğini bildiğin, enerjini sömüren veya sadece menfaat üzerine kurulu dostlukları bugün tek bir keskin kararla hayatından çıkaracaksın. Yüzleşmekten korktuğun gerçekler, bugün sana eşsiz bir güç vererek sahte olan her şeyi yıkmanı sağlıyor. İnsanları hayatından elediğinde hissedeceğin o boşluk, aslında yepyeni ve çok daha kaliteli enerjilere açılan bir alan olacak. Kendi değerini başkalarının onayında aramak yerine, yalnız kalma cesaretini gösterdiğinde içindeki o sarsılmaz öz güvenin nasıl şaha kalktığını göreceksin. Bugün fedakarlık değil, kendi sınırlarını çelikten duvarlarla örme günündesin. Peki ya aşk? İlişkisi olan bir Koç burcu isen, partnerinle arandaki yüzeysel sohbetleri bir kenara bırakıp ilişkinin en derin, belki de en yara almış noktalarına neşter vuruyorsun. Korkuları paylaşmak bağlarınızı ölümsüzleştirecek. Bekar bir Koç burcu isen, bugün kimseyle tanışmak veya flört etmek gibi bir niyetin yok. Kendi yalnızlığının ne kadar muazzam bir güç olduğunu keşfediyor, sana layık olmayan herkesi acımasızca engelliyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Koç burcu isen, partnerinle arandaki yüzeysel sohbetleri bir kenara bırakıp ilişkinin en derin, belki de en yara almış noktalarına neşter vuruyorsun. Bekar bir Koç burcu isen, bugün kimseyle tanışmak veya flört etmek gibi bir niyetin yok. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk? İlişkisi olan bir Koç burcu isen, partnerinle arandaki yüzeysel sohbetleri bir kenara bırakıp ilişkinin en derin, belki de en yara almış noktalarına neşter vuruyorsun.",
+      "sağlık": "Uzun zamandır sana iyi gelmediğini bildiğin, enerjini sömüren veya sadece menfaat üzerine kurulu dostlukları bugün tek bir keskin kararla hayatından çıkaracaksın."
+    },
+    "Boğa": {
+      "genel": "bugün gökyüzündeki Ay Plüton kavuşumu, kariyerin, gelecek hedeflerin ve toplum önündeki duruşunla ilgili seni sarsıcı bir uyanışa davet ediyor. Yıllardır doğru bildiğin bir hedefin veya sırf ailen/çevren onaylıyor diye sürdürdüğün bir yolun aslında senin ruhuna hitap etmediğini fark edebilirsin. Yaşam planlarında radikal bir yıkım ve yeniden inşa süreci başlıyor. Başarı algını kökten değiştirdiğin bu süreç, başkalarının kurallarına göre yaşamayı reddetmeni sağlıyor. Statü kaybetmekten veya eleştirilmekten korkmadan, içindeki asıl tutkuyu keşfedecek ve adımlarını hiç beklemediğin, çok daha özgün bir yöne kırarak ruhunu özgürleştireceksin. Peki ya aşk? İlişkisi olan bir Boğa burcu isen, ilişkinde kimin daha fazla söz sahibi olduğuyla ilgili gizli bir güç savaşı su yüzüne çıkabilir. Hakimiyet kurmaya çalışmak yerine zayıflıkları paylaşmak şefkati geri getirecek. Bekar bir Boğa burcu isen, geçmişte kalbini kırmış, seni değersiz hissettirmiş eski bir aşkın zihnindeki son kırıntılarını da bugün yakıp kül ediyorsun. Özgürlüğe yürüyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Boğa burcu isen, ilişkinde kimin daha fazla söz sahibi olduğuyla ilgili gizli bir güç savaşı su yüzüne çıkabilir. Bekar bir Boğa burcu isen, geçmişte kalbini kırmış, seni değersiz hissettirmiş eski bir aşkın zihnindeki son kırıntılarını da bugün yakıp kül ediyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "bugün gökyüzündeki Ay Plüton kavuşumu, kariyerin, gelecek hedeflerin ve toplum önündeki duruşunla ilgili seni sarsıcı bir uyanışa davet ediyor. Peki ya aşk?",
+      "sağlık": "Ay Plüton kavuşumu kemik iliği fonksiyonlarına, iskelet sisteminin mineral yoğunluğuna ve diş minelerine oldukça yoğun, dönüştürücü bir enerji iletiyor. Bedenin kendi yapı taşlarını yenilediği bu süreç, eklemlerde veya dişlerde anlık hassasiyetler yaratabilir. İskelet sistemini ve hücresel iskeletini desteklemek adına kemik suyu tüketmek, kalsiyum ve D vitamini dengesini korumak harika bir biyolojik yatırımdır. Bedeninin bu en temel ve sert yapılarını içeriden beslemek, fiziksel direncini sarsılmaz bir seviyeye taşıyacaktır. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "İkizler": {
+      "genel": "bugün Ay Plüton kavuşumu senin inançlarını, yaşam felsefeni ve dünyaya bakış açını adeta bir deprem gibi sarsarak değiştiriyor. Okuduğun bir yazı, izlediğin bir belgesel veya şahit olduğun bir olay, yıllardır savunduğun bir fikrin aslında büyük bir yanılgı olduğunu sana gösterecek. Kendi zihinsel putlarını yıkıyorsun. Öğrenilmiş çaresizliklerden ve kalıplaşmış inançlardan kurtulduğunda, ufkunun ne kadar muazzam bir şekilde genişlediğine şahit olacaksın. Bilginin sadece yüzeysel bir araç olmadığını, insanı dönüştüren çok keskin bir kılıç olduğunu keşfettiğin eşsiz bir aydınlanma günü yaşıyorsun. Peki ya aşk? İlişkisi olan bir İkizler burcu isen, partnerinle hayata bakış açılarındaki derin farklılıklar bugün masaya yatırılıyor. Zıtlıkları bir zenginlik olarak kabul etmek, aranızdaki felsefi bağı çok güçlü kılacak. Bekar bir İkizler burcu isen, senin için 'asla olmaz' dediğin, kriterlerine hiç uymayan bir karaktere karşı içsel bir çekim duyarak kendi kurallarını yıkıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir İkizler burcu isen, partnerinle hayata bakış açılarındaki derin farklılıklar bugün masaya yatırılıyor. Bekar bir İkizler burcu isen, senin için 'asla olmaz' dediğin, kriterlerine hiç uymayan bir karaktere karşı içsel bir çekim duyarak kendi kurallarını yıkıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk?",
+      "sağlık": "Kendi zihinsel putlarını yıkıyorsun."
+    },
+    "Yengeç": {
+      "genel": "bugün gökyüzündeki Ay Plüton kavuşumu, senin krizler, ortak kaynaklar ve derin psikolojik dönüşüm evinde gerçekleşiyor. Gündeminde bir borç, miras, vergi veya eşinin/ailenin maddi bir sorunu varsa, bugün bu konuyu kökünden çözmek için çok açık ve net bir adım atacaksın. Sorunları ertelemek bitiyor, şimdi adeta cerrahi bir müdahale yapıyorsun. Maddi veya manevi bir yükten kurtulmak için ödemen gereken bedeli cesaretle ödeyeceksin. Korkularının üzerine gidip o 'kara kutuyu' açtığında, aslında içinde korkulacak hiçbir şey kalmadığını görerek muazzam bir ruhsal hafifleme ve yeniden doğuş yaşayacaksın. Peki ya aşk? İlişkisi olan bir Yengeç burcu isen, partnerine karşı en savunmasız olduğun, sakladığın derin bir korkuyu ona açtığın iyileştirici bir gün. Sırları paylaşmak aşkınızı çelik gibi yapacak. Bekar bir Yengeç burcu isen, sürekli köşeye sıkışmış hissettiğin veya seni aşağı çeken ilişki modellerini bugün beyninde bütünüyle bitiriyor, kalbini kilitliyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Yengeç burcu isen, partnerine karşı en savunmasız olduğun, sakladığın derin bir korkuyu ona açtığın iyileştirici bir gün. Sırları paylaşmak aşkınızı çelik gibi yapacak. Bekar bir Yengeç burcu isen, sürekli köşeye sıkışmış hissettiğin veya seni aşağı çeken ilişki modellerini bugün beyninde bütünüyle bitiriyor, kalbini kilitliyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Gündeminde bir borç, miras, vergi veya eşinin/ailenin maddi bir sorunu varsa, bugün bu konuyu kökünden çözmek için çok açık ve net bir adım atacaksın. Maddi veya manevi bir yükten kurtulmak için ödemen gereken bedeli cesaretle ödeyeceksin. Korkularının üzerine gidip o 'kara kutuyu' açtığında, aslında içinde korkulacak hiçbir şey kalmadığını görerek muazzam bir ruhsal hafifleme ve yeniden doğuş yaşayacaksın. Peki ya aşk?",
+      "sağlık": "Korkularının üzerine gidip o 'kara kutuyu' açtığında, aslında içinde korkulacak hiçbir şey kalmadığını görerek muazzam bir ruhsal hafifleme ve yeniden doğuş yaşayacaksın."
+    },
+    "Aslan": {
+      "genel": "bugün Ay Plüton kavuşumu senin tam karşıt evinde, ikili ilişkiler ve ortaklıklar alanında gerçekleşiyor. Hayatındaki insanlarla (eşin, en yakın dostun veya iş ortağın) kurduğun bağlar çok ciddi bir dayanıklılık testinden geçecek. Karşı tarafın senin en büyük güvensizliklerini ayna gibi sana yansıttığı sarsıcı bir aydınlanma yaşıyorsun. Sürekli kontrolü elde tutma arzunu bırakıp ilişkilerde eşitlenmeyi öğreniyorsun. Karşı tarafın haklı eleştirilerini savunmaya geçmeden dinlediğinde, aslında aranızdaki çatışmanın ne kadar iyileştirici ve dönüştürücü bir güce sahip olduğunu fark ederek bağlarınızı yenileyeceksin. Peki ya aşk? İlişkisi olan bir Aslan burcu isen, partnerinle arandaki güç savaşları bugün yerini çok derin bir teslimiyete bırakıyor. Maskeleri düşürüp gerçek ruhunuzla birbirinize bağlandığınız tutkulu bir süreç. Bekar bir Aslan burcu isen, seni manipüle etmeye çalışan veya duygularınla oynayan bir flörtü bugün son derece otoriter bir şekilde hayatından söküp atıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "bugün Ay Plüton kavuşumu senin tam karşıt evinde, ikili ilişkiler ve ortaklıklar alanında gerçekleşiyor. Hayatındaki insanlarla (eşin, en yakın dostun veya iş ortağın) kurduğun bağlar çok ciddi bir dayanıklılık testinden geçecek. Peki ya aşk? İlişkisi olan bir Aslan burcu isen, partnerinle arandaki güç savaşları bugün yerini çok derin bir teslimiyete bırakıyor. Bekar bir Aslan burcu isen, seni manipüle etmeye çalışan veya duygularınla oynayan bir flörtü bugün son derece otoriter bir şekilde hayatından söküp atıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Hayatındaki insanlarla (eşin, en yakın dostun veya iş ortağın) kurduğun bağlar çok ciddi bir dayanıklılık testinden geçecek. Peki ya aşk?",
+      "sağlık": "Ay Plüton kavuşumu böbreklerin süzme kapasitesine, sıvı-elektrolit dengesine ve bedenin hücresel su tutma eğilimine etki eder. İlişkilerde yaşanan gerginlikler ve zihinsel efor, hücrelerinde anlık nemsizliğe veya bel bölgende hafif bir hassasiyete yol açabilir. Böbreklerini desteklemek ve toksinleri hızla atmak için gün boyu alkali su tüketimini artırmalı, tuzlu gıdalardan uzak durmalısın. Bedenini içeriden doğru bir şekilde nemlendirmek, cildine doğal bir ışıltı kazandırarak hücresel yorgunluğunu hızla silecektir. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Başak": {
+      "genel": "bugün gökyüzündeki Ay Plüton kavuşumu, senin günlük rutinlerini, iş akışını ve bedensel alışkanlıklarını adeta bir yıkım ekibi gibi yeniden düzenliyor. Sana zarar veren bir beslenme alışkanlığını, zamanını çalan sosyal medya kullanımını veya toksik bir çalışma rutinini bugün aniden ve tek seferde, bıçak gibi kesip atacaksın. Bu acımasız özeleştiri ve yenilenme süreci, hayatında müthiş bir verimlilik patlaması yaratacak. Angaryalardan ve seni oyalayan boş işlerden kurtulduğunda, zihnindeki o sürekli kaygı halinin yok olduğunu ve yerine sarsılmaz bir odaklanma gücünün geldiğini hissedeceksin. Peki ya aşk? İlişkisi olan bir Başak burcu isen, partnerinle birlikte sağlıksız alışkanlıkları geride bırakıp ilişkini evde teknolojik bir detoksa (mesela yatak odasına telefon sokmamaya) taşıyorsun. Huzur geri dönüyor. Bekar bir Başak burcu isen, kendi hayatını toparlamakla o kadar meşgulsün ki, flört dünyasının mesajlaşmaları bugün sana zaman kaybı geliyor. Odak noktan sadece kendin. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Başak burcu isen, partnerinle birlikte sağlıksız alışkanlıkları geride bırakıp ilişkini evde teknolojik bir detoksa (mesela yatak odasına telefon sokmamaya) taşıyorsun. Bekar bir Başak burcu isen, kendi hayatını toparlamakla o kadar meşgulsün ki, flört dünyasının mesajlaşmaları bugün sana zaman kaybı geliyor. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "bugün gökyüzündeki Ay Plüton kavuşumu, senin günlük rutinlerini, iş akışını ve bedensel alışkanlıklarını adeta bir yıkım ekibi gibi yeniden düzenliyor. Sana zarar veren bir beslenme alışkanlığını, zamanını çalan sosyal medya kullanımını veya toksik bir çalışma rutinini bugün aniden ve tek seferde, bıçak gibi kesip atacaksın. Peki ya aşk?",
+      "sağlık": "Sana zarar veren bir beslenme alışkanlığını, zamanını çalan sosyal medya kullanımını veya toksik bir çalışma rutinini bugün aniden ve tek seferde, bıçak gibi kesip atacaksın."
+    },
+    "Terazi": {
+      "genel": "bugün Ay Plüton kavuşumu senin yaratıcılık, hobiler, yaşam enerjisi ve çocuklar evini derinlemesine dönüştürüyor. İçinde uzun zamandır bastırdığın, 'Başkaları ne der?' korkusuyla ertelediğin sanatsal bir yeteneğini veya tutkunu bugün büyük bir cesaretle ve tavizsizce dışa vuracaksın. Kendi neşeni şiddetle savunuyorsun. İşte bu yaratıcı uyanış, ruhunu beslemeyen her türlü sahte eğlenceyi hayatından çıkarmanı sağlayacak. Kendi tutkularına öylesine güçlü sarılıyorsun ki, içindeki o coşku ve yaşam enerjisi, etrafındaki herkesi büyüleyen çok sarsılmaz bir auraya dönüşüyor. Peki ya aşk? İlişkisi olan bir Terazi burcu isen, ilişkindeki durağanlığı paramparça eden çok ateşli, tutkulu ve ezber bozan bir gün yaşıyorsun. Birlikte sınırlarınızı aşmak sevginizi alevlendirecek. Bekar bir Terazi burcu isen, sana anlık hisler vadeden ama kalbinde iz bırakmayan flörtlerin hepsini siliyorsun. Karşına çıkan bir kırmızı bayrağı anında fark edip ilgiyi bir anda keserek kendine dönüyor, yani en çok kendine saygı duyuyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "İçinde uzun zamandır bastırdığın, 'Başkaları ne der?' korkusuyla ertelediğin sanatsal bir yeteneğini veya tutkunu bugün büyük bir cesaretle ve tavizsizce dışa vuracaksın. Peki ya aşk? İlişkisi olan bir Terazi burcu isen, ilişkindeki durağanlığı paramparça eden çok ateşli, tutkulu ve ezber bozan bir gün yaşıyorsun. Birlikte sınırlarınızı aşmak sevginizi alevlendirecek. Bekar bir Terazi burcu isen, sana anlık hisler vadeden ama kalbinde iz bırakmayan flörtlerin hepsini siliyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk?",
+      "sağlık": "Ay Plüton kavuşumu kalp kaslarının ritmine, kalp-damar sistemine ve hücrelerin oksijen taşıma hızına çok yoğun bir titreşim yansıtıyor. Yaratıcı ve tutkulu enerjilerin dışa vurumu, kalp ritminde anlık ve tatlı hızlanmalara neden olabilir. Kan akışını dengelemek ve kalp hücrelerini desteklemek için kırmızı orman meyvelerine yönelmek, rutinine hafif esnemeler eklemek harika bir hücresel bakımdır. Bedeninin bu dinamik ritmine uyum sağlamak, sana gün boyu sarsılmaz bir canlılık ve estetik bir ışıltı sunacaktır. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Akrep": {
+      "genel": "bugün gökyüzündeki o muazzam Ay Plüton kavuşumu, senin en derin köklerine, aile içi dinamiklere ve ev yaşantına nüfuz ediyor. Yıllardır aile içinde halı altına süpürülmüş bir sırrı, geçmişten gelen bir kırgınlığı veya kuşaklardır süren bir yargıyı bugün cesaretle yıkıyorsun. Atalarından gelen yükleri artık taşımayı reddediyorsun. Evin içinde veya aile üyeleriyle yaşadığın bu derin ruhsal temizlik, omuzlarından tonlarca ağırlığı söküp alacak. Kendi güvenli alanını, kimsenin müdahale edemeyeceği sarsılmaz bir kaleye dönüştürdüğünde, hayata karşı duruşunun nasıl özgürleştiğini ve güçlendiğini hissedeceksin. Peki ya aşk? İlişkisi olan bir Akrep burcu isen, partnerinle dış dünyaya kapıları kapatıp evinin içinde her türlü dış etkiden uzak, çok derin ve şifalandırıcı bir sığınak yaratıyorsun. Birlikte iyileşiyorsun. Bekar bir Akrep burcu isen, flörtlere zaman ayırmak yerine kendi iç huzuruna, evine ve yalnızlığının o eşsiz dinginliğine sığınıyorsun. Kendi kalesinde mutlu olan bir ruha sahipsin. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Akrep burcu isen, partnerinle dış dünyaya kapıları kapatıp evinin içinde her türlü dış etkiden uzak, çok derin ve şifalandırıcı bir sığınak yaratıyorsun. Birlikte iyileşiyorsun. Bekar bir Akrep burcu isen, flörtlere zaman ayırmak yerine kendi iç huzuruna, evine ve yalnızlığının o eşsiz dinginliğine sığınıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk?",
+      "sağlık": "Evin içinde veya aile üyeleriyle yaşadığın bu derin ruhsal temizlik, omuzlarından tonlarca ağırlığı söküp alacak."
+    },
+    "Yay": {
+      "genel": "bugün gökyüzünde Ay ve Plüton senin iletişim, zihin ve yakın çevre evinde hizalanıyor. Günlük sohbetlerden, yüzeysel muhabbetlerden ve sürekli şikayet eden insanlardan bugün anında kopuyorsun. Zihninde öyle büyük bir aydınlanma var ki, kelimelerini bir cerrah neşteri gibi kullanarak hayatındaki yanlışları tek bir konuşmayla kesip atacaksın. Bu sivri ve tavizsiz iletişim tarzın, yakın çevrende sana saygı duymayan veya enerjini çalan kişileri saniyeler içinde uzaklaştıracak. Zihnini toksik fikirlerden arındırdığında, fikirlerinin ne kadar derin, vizyoner ve dönüştürücü bir etkiye sahip olduğunu görerek gücüne güç katacaksın. Peki ya aşk? İlişkisi olan bir Yay burcu isen, partnerine duymak istediklerini değil, ilişkiniz için asıl gerekli olan çıplak gerçekleri şefkatle ama çok net bir şekilde söylüyorsun. Dürüstlük sevginizi sarsılmaz yapacak. Bekar bir Yay burcu isen, dijital dünyanda büyük bir temizlik yapıyorsun. Sana geçmişi hatırlatan eski flörtleri, toksik bağlantıları ve 'belki'leri bugün teker teker engelliyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Yay burcu isen, partnerine duymak istediklerini değil, ilişkiniz için asıl gerekli olan çıplak gerçekleri şefkatle ama çok net bir şekilde söylüyorsun. Dürüstlük sevginizi sarsılmaz yapacak. Bekar bir Yay burcu isen, dijital dünyanda büyük bir temizlik yapıyorsun. Sana geçmişi hatırlatan eski flörtleri, toksik bağlantıları ve 'belki'leri bugün teker teker engelliyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk?",
+      "sağlık": "bugün gökyüzünde Ay ve Plüton senin iletişim, zihin ve yakın çevre evinde hizalanıyor. Bu sivri ve tavizsiz iletişim tarzın, yakın çevrende sana saygı duymayan veya enerjini çalan kişileri saniyeler içinde uzaklaştıracak."
+    },
+    "Oğlak": {
+      "genel": "bugün gökyüzündeki Ay Plüton kavuşumu, senin maddi kaynaklar, öz değer ve yetenekler evini kökten sarsarak dönüştürüyor. Sadece güvende hissetmek için katlandığın düşük bütçeli bir işi, yeteneklerini ucuza pazarladığın bir durumu veya paraya dair o eski kıtlık bilincini bugün yıkıp atacaksın. Kendi değerini yeniden yazıyorsun. Kendi emeğinin ve varlığının değerini dışarıdaki rakamlarla ölçmeyi bıraktığında, içindeki o muazzam gücü keşfedeceksin. 'Ben bundan çok daha fazlasını hak ediyorum' dediğin an, yaşam kaliteni ve finansal vizyonunu sarsılmaz bir zirveye taşıyacak o derin öz güven patlamasını yaşıyorsun. Peki ya aşk? İlişkisi olan bir Oğlak burcu isen, partnerinle arandaki ortak değerleri yeniden gözden geçirip sadece aşka değil aynı zamanda birbirinize kattığınız değere odaklanıyorsun. Saygı sevginin önüne geçiyor. Bekar bir Oğlak burcu isen, standartlarını bugün gökyüzüne çıkarıyorsun. Sana kırıntılar sunan, çaba göstermeyen hiç kimseye prim vermeyerek kendi değerini koruma altına alıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Oğlak burcu isen, partnerinle arandaki ortak değerleri yeniden gözden geçirip sadece aşka değil aynı zamanda birbirinize kattığınız değere odaklanıyorsun. Saygı sevginin önüne geçiyor. Bekar bir Oğlak burcu isen, standartlarını bugün gökyüzüne çıkarıyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "bugün gökyüzündeki Ay Plüton kavuşumu, senin maddi kaynaklar, öz değer ve yetenekler evini kökten sarsarak dönüştürüyor. Sadece güvende hissetmek için katlandığın düşük bütçeli bir işi, yeteneklerini ucuza pazarladığın bir durumu veya paraya dair o eski kıtlık bilincini bugün yıkıp atacaksın. 'Ben bundan çok daha fazlasını hak ediyorum' dediğin an, yaşam kaliteni ve finansal vizyonunu sarsılmaz bir zirveye taşıyacak o derin öz güven patlamasını yaşıyorsun. Peki ya aşk?",
+      "sağlık": "Ay Plüton kavuşumu tiroid bezlerine, boğaz çakrasının enerji akışına ve bedenin genel mineral emilim hızına doğrudan etki eder. Kendi değerini yüksek sesle ifade etme arzusu, ses tellerinde anlık bir kuruluk veya boyun bölgesinde hafif bir hassasiyet yaratabilir. Boğaz floranı korumak ve tiroid fonksiyonlarını desteklemek için deniz ürünlerine, iyotlu doğal gıdalara yönelmeli ve ılık bitki çayları tüketmelisin. Bedeninin bu ifade merkezine vereceğin hücresel destek, duruşuna ve iletişimine muazzam bir güç katacaktır. Yarın görüşmek üzere, sağlıkla kal…"
+    },
+    "Kova": {
+      "genel": "bugün gökyüzünün tüm o dönüştürücü, karanlık ama bir o kadar da güçlü enerjisi doğrudan senin kalbinde atıyor! Ay ve Plüton senin burcunda kavuşarak, kimliğinde, dış görünüşünde ve hayata karşı duruşunda adeta bir anka kuşu gibi küllerinden doğmanı sağlıyor. Başkalarının senden beklediği o uysal veya uyumlu maskeyi bugün sonsuza dek çıkarıp atıyorsun. Kendi en ham, en gerçek ve belki de en karanlık yönlerinle yüzleşip onları kucakladığında, ortaya çıkan o yoğun auran herkesi büyüleyecek. Eski benliğini geride bırakıp sınır tanımayan, tavizsiz ve son derece özgür bir kimliğe büründüğün bugün, sana muazzam bir yaşam enerjisi vadediyor. Peki ya aşk? İlişkisi olan bir Kova burcu isen, partnerinin bugün senin bu yenilenmiş, güçlü ve bağımsız halin karşısında adeta büyülenmesini izleyeceksin. İlişkinizdeki o eski dinamik yıkılıp yepyeni bir tutkuyla inşa ediliyor. Bekar bir Kova burcu isen, bugün yaydığın o yoğun enerji zayıf karakterleri senden uzak tutarken, sadece senin gibi cesur ve kendi gücünün farkında olan özel ruhları bir mıknatıs gibi hayatına çekecek. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Kova burcu isen, partnerinin bugün senin bu yenilenmiş, güçlü ve bağımsız halin karşısında adeta büyülenmesini izleyeceksin. İlişkinizdeki o eski dinamik yıkılıp yepyeni bir tutkuyla inşa ediliyor. Bekar bir Kova burcu isen, bugün yaydığın o yoğun enerji zayıf karakterleri senden uzak tutarken, sadece senin gibi cesur ve kendi gücünün farkında olan özel ruhları bir mıknatıs gibi hayatına çekecek. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk?",
+      "sağlık": "Bekar bir Kova burcu isen, bugün yaydığın o yoğun enerji zayıf karakterleri senden uzak tutarken, sadece senin gibi cesur ve kendi gücünün farkında olan özel ruhları bir mıknatıs gibi hayatına çekecek."
+    },
+    "Balık": {
+      "genel": "bugün Ay Plüton kavuşumu senin bilinçaltında, rüyalar aleminde ve o gizli ruhsal bahçende gerçekleşiyor. Yıllardır zihninin en kuytu köşesinde taşıdığın bir korkuyu, bir travmayı veya geçmişten kalan karmik bir bağı bugün aniden, rüyaların veya derin bir sezgi yardımıyla çözüp serbest bırakıyorsun. İçindeki o karanlık odaya nihayet ışık sızıyor. Gözle görülmeyen ama ruhunu yoran bu zincirleri kırdığında, dış dünyada da eşsiz bir hafifleme yaşayacaksın. Kimseye bir şey ispat etmeden, sadece kendi içine dönerek başardığın bu psikolojik arınma, sana hayatının geri kalanında sarsılmaz bir ruhsal güç ve dinginlik hediye edecek. Peki ya aşk? İlişkisi olan bir Balık burcu isen, partnerine söyleyemediğin, içinde tuttuğun o derin kaygıları veya güvensizlikleri bugün şefkatle serbest bırakıyorsun. Aranızdaki enerji temizleniyor. Bekar bir Balık burcu isen, uzun zamandır aklının bir köşesinde duran ve ruhunu yoran o eski aşkın veya platonik duygunun fişini zihninde çekiyorsun. Harika bir özgürlük hissi kalbini dolduracak. Yarın görüşmek üzere, sevgiyle kal...",
+      "aşk": "Peki ya aşk? İlişkisi olan bir Balık burcu isen, partnerine söyleyemediğin, içinde tuttuğun o derin kaygıları veya güvensizlikleri bugün şefkatle serbest bırakıyorsun. Bekar bir Balık burcu isen, uzun zamandır aklının bir köşesinde duran ve ruhunu yoran o eski aşkın veya platonik duygunun fişini zihninde çekiyorsun. Yarın görüşmek üzere, sevgiyle kal...",
+      "para": "Peki ya aşk?",
+      "sağlık": "bugün Ay Plüton kavuşumu senin bilinçaltında, rüyalar aleminde ve o gizli ruhsal bahçende gerçekleşiyor. Kimseye bir şey ispat etmeden, sadece kendi içine dönerek başardığın bu psikolojik arınma, sana hayatının geri kalanında sarsılmaz bir ruhsal güç ve dinginlik hediye edecek. Aranızdaki enerji temizleniyor."
+    }
+  },
+  "mynet": {
+    "Koç": {
+      "genel": "Bugün enerjin yüksek, içindeki ateşin alevlendiği bir gün. Yeni başlangıçlar için harika bir zaman dilimindesin. Bir şeyleri geride bırakmak ve cesur adımlar atmak isteyeceksin. Sosyal çevrenle olan etkileşimlerin, güçlü bağlantılar kurmanı sağlayacak. Arkadaşlarınla plan yapmayı düşünebilirsin; onlarla birlikte olmak ruhuna iyi gelecek. Ancak dikkat et, aşırı heves ve aceleci davranışlar ilişkilerde beklenmedik gerginlikler yaratabilir. İş hayatında da inatçı bir tutum sergileyebilirsin; bu durum, senin için istemediğin sonuçlara yol açabilir. Zihnini dinlendirmeyi unutma, biraz nefes almak fikirlerine açıklık katacak. İkna kabiliyetin ve kararlılığın bugün seni zor hedeflere ulaştıracak. Yaratıcılığın yüksek; projelerin için ilham bulabilir, sanatsal bir hobi edinmek isteyebilirsin. Sağlığına da özen göstermeyi ihmal etme; fiziksel aktiviteler, enerjini dengeler. Bugünün potansiyelini iyi değerlendirdiğinde, kazançların seni mutlu edecek.",
+      "aşk": "Arkadaşlarınla plan yapmayı düşünebilirsin; onlarla birlikte olmak ruhuna iyi gelecek.",
+      "para": "Yaratıcılığın yüksek; projelerin için ilham bulabilir, sanatsal bir hobi edinmek isteyebilirsin. Bugünün potansiyelini iyi değerlendirdiğinde, kazançların seni mutlu edecek.",
+      "sağlık": "Bugün enerjin yüksek, içindeki ateşin alevlendiği bir gün. Ancak dikkat et, aşırı heves ve aceleci davranışlar ilişkilerde beklenmedik gerginlikler yaratabilir. Zihnini dinlendirmeyi unutma, biraz nefes almak fikirlerine açıklık katacak. Sağlığına da özen göstermeyi ihmal etme; fiziksel aktiviteler, enerjini dengeler."
+    },
+    "Boğa": {
+      "genel": "Bugün, çevrendeki insanlarla kurduğun iletişimde samimiyet ön planda olacak. Duygusal derinliklerin, ilişkilerini güçlendirebilir. Maddi konulara ilişkin düşüncelerin daha keskin hale geliyor; harcama yapmadan önce iki kez düşünmekte fayda var. İçsel huzurunu korumak için doğayla daha fazla vakit geçirebilirsin, bu sana enerji verecek. Güneş ışığına maruz kalmak ruh halini iyileştirebilir. Kendinle ilgili önceki hedeflerine odaklanmak, sana yeni bir bakış açısı kazandıracak. Sevdiğin birinin yanında olmak, seni daha da mutlu edecektir. İcraat yapma isteğin artıyor, projelerine daha kararlı bir şekilde yönelmek için uygun bir dönemdesin. Çevrendeki insanların ihtiyaçlarını göz ardı etmemek, sosyal ilişkilerini destekleyecek. Bugün, kararlılığın ve iradenle güzel işler başarma yolunda adımlar atabilirsin.",
+      "aşk": "Maddi konulara ilişkin düşüncelerin daha keskin hale geliyor; harcama yapmadan önce iki kez düşünmekte fayda var.",
+      "para": "Maddi konulara ilişkin düşüncelerin daha keskin hale geliyor; harcama yapmadan önce iki kez düşünmekte fayda var. İcraat yapma isteğin artıyor, projelerine daha kararlı bir şekilde yönelmek için uygun bir dönemdesin. Bugün, kararlılığın ve iradenle güzel işler başarma yolunda adımlar atabilirsin.",
+      "sağlık": "İçsel huzurunu korumak için doğayla daha fazla vakit geçirebilirsin, bu sana enerji verecek."
+    },
+    "İkizler": {
+      "genel": "Bugün zihniniz oldukça aktif olacak. Farklı düşünceler ve yeni fikirlere açık olacaksınız. Sosyal etkileşimler bu dönemde sizi besleyecek; arkadaşlarınızla yapacağınız sohbetler, ilham verici anlar ortaya çıkarabilir. Kariyer ya da eğitimle ilgili değişiklikler düşünüyorsanız, cesur adımlar atmanın tam zamanı. Ancak, kararlarınızı acele etmeyin; içsel sesinizi dinlemek önem kazanıyor. Duygusal ilişkilerde ise daha fazla iletişim kurmaya özen göstermelisiniz. İçten paylaşımlar, ilişkinizi derinleştirebilir. Öğrenme hevesiniz artıyor; yeni hobiler edinmek ya da farklı konularda bilgi edinmek için mükemmel bir gün. Kendinizi ifade etmekten çekinmeyin, sesinizi duyurun!",
+      "aşk": "İçten paylaşımlar, ilişkinizi derinleştirebilir.",
+      "para": "Kariyer ya da eğitimle ilgili değişiklikler düşünüyorsanız, cesur adımlar atmanın tam zamanı. Öğrenme hevesiniz artıyor; yeni hobiler edinmek ya da farklı konularda bilgi edinmek için mükemmel bir gün.",
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Duygusal olarak yoğun bir gün geçireceksin. İçsel derinliklerine yönelmeye ve geçmişle yüzleşmeye cesaret edebilirsin. Ailevi bağların ön plana çıkabilir; sevdiklerinle yakın temas, kalbine huzur getirecek. Ancak hassasiyetin, bazı durumlarda aşırı tepkilere neden olabilir, dikkatli ol. Karşılıklı anlayış arayışında olmalısın. Merkür iletişimi güçlendirirken, düşüncelerini açıkça ifade etme fırsatın olacak. İş yerinde yeni projelere adım atmak, sana hem keyif verecek hem de kariyerin için faydalı olabilir. Unutma, sabırlı olman ve insanlarla iyi ilişkiler kurmaya odaklanman günün en büyük kazancı olacak. Kendi sınırlarını çizmek, başkalarına karşı daha sağlam bir duruş sergilemeni sağlayacak. Hayal gücünü serbest bırak!",
+      "aşk": "Unutma, sabırlı olman ve insanlarla iyi ilişkiler kurmaya odaklanman günün en büyük kazancı olacak.",
+      "para": "Merkür iletişimi güçlendirirken, düşüncelerini açıkça ifade etme fırsatın olacak. İş yerinde yeni projelere adım atmak, sana hem keyif verecek hem de kariyerin için faydalı olabilir. Unutma, sabırlı olman ve insanlarla iyi ilişkiler kurmaya odaklanman günün en büyük kazancı olacak.",
+      "sağlık": "Kendi sınırlarını çizmek, başkalarına karşı daha sağlam bir duruş sergilemeni sağlayacak."
+    },
+    "Aslan": {
+      "genel": "Samimi ve karizmatik enerjilerin yüksek olduğu bir gün. Dikkat çekici bir parlaklıkla etrafındaki insanları etkileyebilirsin. Kendi hedeflerinle ilgili daha cesur adımlar atma isteği ön plana çıkıyor, bu da seni yeni fırsatlarla buluşturabilir. İlişkilerinde samimi ve açık iletişim kurman, bağlarını güçlendirecek. Sosyal çevrende artan aktivite, içerdiği sürprizlerle dolu olabilir, bu yüzden özgüveninle birlikte açık fikirli olman önem taşıyor. Aynı zamanda, başkalarına ilham verme potansiyelin gözle görülür bir şekilde artıyor. Yalnız kalmayı sevmiyorsun, bu yüzden dostlarınla vakit geçirmek, ruh halini iyileştirebilir. Kendi yaratıcılığını cesurca ifade etmek, içerideki tutkunun dışarıya yansımasını sağlayacak. Kendine güvenerek atacağın her adım, seni hedeflerine bir adım daha yaklaştıracak.",
+      "aşk": "Sosyal çevrende artan aktivite, içerdiği sürprizlerle dolu olabilir, bu yüzden özgüveninle birlikte açık fikirli olman önem taşıyor. Kendi yaratıcılığını cesurca ifade etmek, içerideki tutkunun dışarıya yansımasını sağlayacak.",
+      "para": "Kendi hedeflerinle ilgili daha cesur adımlar atma isteği ön plana çıkıyor, bu da seni yeni fırsatlarla buluşturabilir.",
+      "sağlık": "Sosyal çevrende artan aktivite, içerdiği sürprizlerle dolu olabilir, bu yüzden özgüveninle birlikte açık fikirli olman önem taşıyor."
+    },
+    "Başak": {
+      "genel": "Bugün, detaylara olan düşkünlüğünle çevrendekilerin dikkatini çekebilirsin. Ani bir ilhamla, bir projeye başlamak veya mevcut bir çalışmanı daha ileri bir aşamaya taşımak için uygun bir zaman. Duygusal olarak kendini fazlasıyla hassas hissedebilirsin; bu durum, sevdiklerinle olan iletişimini güçlendirebilir. İçsel bir denge bulma isteği barış ve uyum arayışını körükleyecek. İş hayatında yeni fırsatlar kapını çalabilir, bunları değerlendirirken akılcı ve mantıklı kararlar almaya özen göster. Gün sonunda, öğrendiğin ve deneyimlediğin her şeyin, kişisel gelişimin için ne kadar değerli olduğunu fark edeceksin. Kendi içsel sesini dinlemeyi unutma; yönlendirmelerin seni doğru yolda tutacak.",
+      "aşk": null,
+      "para": "Ani bir ilhamla, bir projeye başlamak veya mevcut bir çalışmanı daha ileri bir aşamaya taşımak için uygun bir zaman. İş hayatında yeni fırsatlar kapını çalabilir, bunları değerlendirirken akılcı ve mantıklı kararlar almaya özen göster.",
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Sosyal ilişkilerin ve insanlarla olan bağlantıların ön planda olduğu bir dönemdesin. Duygusal dengeyi sağlamak için başkalarıyla açık iletişim kurmaya odaklanmalısın. Özellikle yakın çevrendeki kişilerle olan ilişkilerinde empati ve anlayış sergilemek, dünyevi sorunları çözmende yardımcı olacaktır. Bazen içsel huzurunu korumak için kendine alan tanıman gerekebilir; bu nedenle kişisel alanını unutmamalısın. Estetik ve sanatsal yönlerin bu dönemde parlayabilir; çeşitli yaratıcı projelere yönelmek sana ilham verecektir. Aynı zamanda, kalabalık ortamlarda kendini rahat hissedebilirsin; sosyal etkinliklere katılmak, yeni insanlarla tanışmak adına harika bir fırsat olacaktır. Unutma, dengeyi korumak her zaman en önemli kuralın olmalı.",
+      "aşk": null,
+      "para": "Estetik ve sanatsal yönlerin bu dönemde parlayabilir; çeşitli yaratıcı projelere yönelmek sana ilham verecektir. Aynı zamanda, kalabalık ortamlarda kendini rahat hissedebilirsin; sosyal etkinliklere katılmak, yeni insanlarla tanışmak adına harika bir fırsat olacaktır.",
+      "sağlık": "Aynı zamanda, kalabalık ortamlarda kendini rahat hissedebilirsin; sosyal etkinliklere katılmak, yeni insanlarla tanışmak adına harika bir fırsat olacaktır."
+    },
+    "Akrep": {
+      "genel": "Bugün, derin hislerin ve sezgilerin güçlendiği bir dönemdesin. İçsel dünyana güçlü bir yolculuk yapabilir, karanlıkta kalmış duyguları keşfedebilirsin. Bu süreçte, biraz yalnız kalmak ve kendi düşüncelerini dinlemek sana iyi gelecek. Duygusal ilişkilere dair atacağın adımlar, arzuladığın bağlılığı artırabilir ancak dikkatli olmalısın, zira geçmişin gölgeleri aniden ortaya çıkabilir. İş hayatında ise güçlü bir sezgi ile önemli kararlar alabilir, fırsatları değerlendirme konusunda cesur olabilirsin. Kişisel projelerine odaklanarak, derinlemesine incelemeler yapmak için doğru bir zaman. Kendine güven; kararlılığın, senin en büyük müttefikin. Arkadaşlarınla olan ilişkilerde ise daha samimi ve açık olmalısın; derin sohbetler, bağları güçlendirebilir. Kendi içsel gücünü keşfedebileceğin, dönüşüm yaşamaya açık bir gün.",
+      "aşk": null,
+      "para": "İş hayatında ise güçlü bir sezgi ile önemli kararlar alabilir, fırsatları değerlendirme konusunda cesur olabilirsin. Kişisel projelerine odaklanarak, derinlemesine incelemeler yapmak için doğru bir zaman.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Bugün içsel özgürlüğüne olan tutkun, yeni ufuklar keşfetmek için seni harekete geçirecek. Seyahat etme arzusunun yanı sıra, zihinsel olarak da genişleme isteği içinde olabilirsin. Kısa mesafeli yolculuklara veya yeni bir kültürle tanışmaya dair fırsatlar karşına çıkabilir; bunlardan faydalanmayı ihmal etme. Sosyal ilişkilerde enerjinin yüksek olduğu bir dönemdesin. Arkadaşlarınla yapacağın sohbetler, hayata dair bakış açını tazeleyebilir. Sevgi alanında, cesur ve açık sözlü olman, duygularını daha net ifade etmene olanak sağlar. Ancak bu cesareti dengelemek önemlidir; karşındakilerin hislerine de saygı duymayı unutma. Kendini öz ifade etme konusunda yaratıcı projelere yönelme arzusu içerisinde olabilirsin. Sanatsal yeteneklerini ortaya koymak için harika bir fırsat doğabilir, bu nedenle ilhamı iyi değerlendirmelisin. Kendini keşfetme yolculuğunun bir parçası olarak, yeni deneyimlere açık olmalı, korkularını aşarak hayatını renklendirecek atılımlar gerçekleştirmelisin. Hayatın sunduğu fırsatları değerlendirmek, senin için çok özel bir tat katacaktır.",
+      "aşk": "Bugün içsel özgürlüğüne olan tutkun, yeni ufuklar keşfetmek için seni harekete geçirecek. Sevgi alanında, cesur ve açık sözlü olman, duygularını daha net ifade etmene olanak sağlar.",
+      "para": "Kısa mesafeli yolculuklara veya yeni bir kültürle tanışmaya dair fırsatlar karşına çıkabilir; bunlardan faydalanmayı ihmal etme. Kendini öz ifade etme konusunda yaratıcı projelere yönelme arzusu içerisinde olabilirsin. Sanatsal yeteneklerini ortaya koymak için harika bir fırsat doğabilir, bu nedenle ilhamı iyi değerlendirmelisin. Hayatın sunduğu fırsatları değerlendirmek, senin için çok özel bir tat katacaktır.",
+      "sağlık": "Seyahat etme arzusunun yanı sıra, zihinsel olarak da genişleme isteği içinde olabilirsin. Sosyal ilişkilerde enerjinin yüksek olduğu bir dönemdesin."
+    },
+    "Oğlak": {
+      "genel": "Son zamanlarda üzerindeki ağır sorumluluklar daha da artmış olabilir. Kendi isteklerinle başkalarının beklentileri arasında bir denge kurmakta zorlanıyorsun. Bugün, içsel bir motivasyona ihtiyaç duyacaksın. Kendine biraz zaman ayırmayı dene; bu, zihnini rahatlatmana yardımcı olabilir. İş veya finansal konularda ortaya çıkan bazı yeni fırsatlar seni düşündürtebilir. Tercih yapmadan önce, her seçeneğin avantajlarını ve dezavantajlarını dikkatlice tartmalısın. Sosyal çevrendeki bazı kişilerle samimi ve dürüst bir diyalog, ilişkileri güçlendirebilir. Sevdiklerinle olan bağların kuvvetlenirken, içsel huzurunu da sağlamalısın. Unutma, bazen en iyi sonuçlar, cesur riskler almaktan geçiyor.",
+      "aşk": null,
+      "para": "İş veya finansal konularda ortaya çıkan bazı yeni fırsatlar seni düşündürtebilir.",
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Bugün özgünlüğün ön plana çıkacak ve başkalarının beklentilerinin dışında bir yol çizebilirsin. Sosyal bağlantıların güçleniyor; arkadaşlarınla yapılan sohbetler, ilham verici fikirlerin doğmasına yardımcı olabilir. Yenilik arayışın, seni alışılmadık kişilerle bir araya getirebilir. İletişim becerilerin sayesinde kendini ifade etmekte zorlanmayacaksın. Sanatsal yönlerin de açığa çıkabilir, yaratıcılıkla dolu bir gün seni bekliyor. Ancak dikkat etmen gereken en önemli nokta, başkalarının görüşlerine kapılmadan kendi isteklerini önceliklendirmek. Zaman zaman içsel bir huzursuzluk hissedebilir, bu duyguyu göz ardı etmemelisin. İçsel dünyana dönmek, seni güçlendirecek. Sosyal çevrende liderlik vasfını sergileme fırsatını yakalayabilirsin. Ancak dikkatli ol, tartışmalara neden olabilecek bazı konulara girmemek, sürtüşmelerden kaçınmana yardım edecek. Hayatındaki değişim rüzgarlarına açık ol, yeni başlangıçların eşiğindesin. Günü, yenilikçi fikirlerle ve esnek bir zihinle geçirerek, kendini daha mutlu ve tatmin olmuş hissedebilirsin.",
+      "aşk": null,
+      "para": "Sosyal çevrende liderlik vasfını sergileme fırsatını yakalayabilirsin.",
+      "sağlık": "Ancak dikkat etmen gereken en önemli nokta, başkalarının görüşlerine kapılmadan kendi isteklerini önceliklendirmek. Günü, yenilikçi fikirlerle ve esnek bir zihinle geçirerek, kendini daha mutlu ve tatmin olmuş hissedebilirsin."
+    },
+    "Balık": {
+      "genel": "Duygusal derinliklerin ve sezgilerin ön planda olduğu bir gün. İçsel hislerin, geçmişle olan bağlantıların, bugün varlığını daha belirgin bir şekilde hissettirebilir. İçsel dünyanda gezinirken, bazı eski meselelerin yeniden gündeme gelmesi mümkün. Bu durum, geçmişle yüzleşmeni ve belki de bir tür kapanış sağlamanı gerektirebilir. İlişkilerdeki duygusal açıdan açıklık önem kazanıyor; sevdiklerinle samimi paylaşımlar yapmayı ihmal etmemen yararına.Sanat ve yaratıcılıkla ilgilenmek için harika bir zaman. Bir projeye başlamaktan çekinme; hayal gücünle ortaya koyacağın şeyler, başkalarını da etkileme potansiyeli taşıyor. Kendine güven ve yaratıcılığını ifade etme konusunda cesaret bulmalısın. Bütün bu süreçler, duygusal yüklerinden arınmanı sağlayabilir ve ruhsal olarak daha hafif hissetmene yardımcı olabilir. Kendine karşı nazik ol, ihtiyaç duyduğun anlarda yalnız kalmayı bil ve kendi iç huzurunu araştır.",
+      "aşk": null,
+      "para": "Bir projeye başlamaktan çekinme; hayal gücünle ortaya koyacağın şeyler, başkalarını da etkileme potansiyeli taşıyor.",
+      "sağlık": "Bütün bu süreçler, duygusal yüklerinden arınmanı sağlayabilir ve ruhsal olarak daha hafif hissetmene yardımcı olabilir."
+    }
+  },
+  "twitburc": {
+    "Koç": {
+      "genel": "İş hayatında yepyeni fırsatlar kapını çalabilir. Kariyerine ivme kazandıracak projeler ve iş birlikleri gündemde. Bu iş fırsatı bir şehir ya da ülke değişikliğini de beraberinde getirecek. Artık kendine biraz daha vakit ayırman gerektiğini fark ediyorsun. Akşam saatlerinde kalabalıklara karışmak yerine kendinle baş başa olmayı tercih edeceksin.",
+      "aşk": "Kariyerine ivme kazandıracak projeler ve iş birlikleri gündemde.",
+      "para": "İş hayatında yepyeni fırsatlar kapını çalabilir. Kariyerine ivme kazandıracak projeler ve iş birlikleri gündemde. Bu iş fırsatı bir şehir ya da ülke değişikliğini de beraberinde getirecek.",
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Zihninin derinliklerine çekildiğini hissediyorsun. Kendi iç sesinle kurduğun diyaloglar her zamankinden daha anlamlı gelmeye başlıyor. Kelimelerin yetersiz kaldığı anlarda ise duygularını hissetmeyi tercih edeceksin. Gün içinde ani plan değişiklikleri yaşaman mümkün. Ancak bu değişikliklerin seni yeni ve güzel yollara çıkardığını göreceksin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Özellikle ikili ilişkilerinde ve sosyal medya etkileşimlerinde yanlış anlaşılmalara açıksın. Bu yüzden kelimelerini seçerken her zamankinden daha dikkatli olacaksın. Evli bir İkizler burcuysan, sorumlulukların ve gündelik hayatın koşturmacası seni bir hayli yoruyor. Bu noktada sakin kalmaya çalışarak aile içi dengeleri korumaya odaklanacaksın.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Geleceğe dair kurduğun hayaller bugün somut bir plana dönüşmeye başlayabilir. Bu planları hayata geçirmek için sosyal çevrenden ve dostlarından beklemediğin kadar büyük destekler göreceksin. Arkadaş grupları içindeki aktif rolün, özel hayatındaki duygusal ihtiyaçlarını bir süreliğine ikinci plana atmana neden olabilir. Ancak günün ilerleyen saatlerinde aslında duygusal bir ilişkiye başlamak istediğini de fark edeceksin.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Toplum önündeki duruşun ve kariyer hedeflerinle bugün yine gözler senin üzerinde olacak! İş yerinde üstlendiğin sorumlulukları titizlikle yerine getirdiğin için çalışma arkadaşlarının takdirini kazanacaksın. İş ve özel hayat dengesini kuramadığının sen de farkındasın. Evli bir Aslan burcuysan eşine küçük sürprizler yapabilir veya keyifli bir akşam yemeği organize edebilirsin. Bu size çok iyi gelecek!",
+      "aşk": null,
+      "para": "Toplum önündeki duruşun ve kariyer hedeflerinle bugün yine gözler senin üzerinde olacak!",
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Hayata bakış açını tazeleyecek yeni felsefeler veya kültürel konular bugün ilgini her zamankinden fazla çekebilir. Öğrendiğin bu yeni bilgiler, iş yerindeki çalışma yöntemlerini daha verimli hale getirmek için sana ilham verecek. Beslenme ve uyku düzeninde birtakım değişiklikler yapmayı düşünüyorsun. Günlük rutinlerinde daha kontrollü ama katı olmayan bir düzen kurmak istediğini fark edeceksin.",
+      "aşk": null,
+      "para": "Öğrendiğin bu yeni bilgiler, iş yerindeki çalışma yöntemlerini daha verimli hale getirmek için sana ilham verecek.",
+      "sağlık": "Beslenme ve uyku düzeninde birtakım değişiklikler yapmayı düşünüyorsun."
+    },
+    "Terazi": {
+      "genel": "Vergi veya sigorta gibi finansal konular bugün zihnini biraz meşgul edebilir. Bu detaylı hesap kitap işlerini yaparken partnerinle olan maddi paylaşımlarını da gözden geçirme ihtiyacı duyacaksın. Aranızdaki güven tazelemek ve dürüst bir iletişim kurmak, olası yanlış anlaşılmaların önüne geçecek. Akşam saatlerinde zihnini tamamen boşaltmak için sanatsal bir aktiviteyle ilgilenmek sana huzur verecek.",
+      "aşk": "Bu detaylı hesap kitap işlerini yaparken partnerinle olan maddi paylaşımlarını da gözden geçirme ihtiyacı duyacaksın.",
+      "para": "Vergi veya sigorta gibi finansal konular bugün zihnini biraz meşgul edebilir. Bu detaylı hesap kitap işlerini yaparken partnerinle olan maddi paylaşımlarını da gözden geçirme ihtiyacı duyacaksın.",
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Bugün uzun süredir planladığın bir yatırım veya ortaklık teklifi için somut bir adım atma şansı yakalayacaksın. Finansal riskleri analiz ederken gösterdiğin keskin zekâ, çevrendeki yatırımcıların veya iş ortaklarının sana olan güvenini artıracak. Beklediğin bir ödemenin veya primin hesaba geçmesiyle beraber, uzun süredir ertelediğin bir teknolojik ürün alışverişini gerçekleştirebilirsin. Akşam saatlerinde elde ettiğin bu başarıyı kutlamak için dışarıda vakit geçirmek sana iyi gelecek.",
+      "aşk": null,
+      "para": "Bugün uzun süredir planladığın bir yatırım veya ortaklık teklifi için somut bir adım atma şansı yakalayacaksın. Finansal riskleri analiz ederken gösterdiğin keskin zekâ, çevrendeki yatırımcıların veya iş ortaklarının sana olan güvenini artıracak. Beklediğin bir ödemenin veya primin hesaba geçmesiyle beraber, uzun süredir ertelediğin bir teknolojik ürün alışverişini gerçekleştirebilirsin.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Günlük rutinlerin ve iş yükün artıyor. Listeler yaparak ilerlemek en büyük kurtarıcın olacak. İşten sonra vücudunu ödüllendirmek için kısa bir yoga seansı veya hafif bir yürüyüş planlayabilirsin. Kendi sağlığına ve düzenine gösterdiğin bu özen, akşam saatlerini çok daha dinç ve keyifli geçirmeni sağlayacak. Disiplinin getirdiği özgürlüğü iliklerine kadar hissettiğin, sonuç odaklı bir günü geride bırakacaksın.",
+      "aşk": null,
+      "para": "Günlük rutinlerin ve iş yükün artıyor.",
+      "sağlık": "İşten sonra vücudunu ödüllendirmek için kısa bir yoga seansı veya hafif bir yürüyüş planlayabilirsin. Kendi sağlığına ve düzenine gösterdiğin bu özen, akşam saatlerini çok daha dinç ve keyifli geçirmeni sağlayacak."
+    },
+    "Oğlak": {
+      "genel": "Belirsizliklerle vedalaşıp hayatın direksiyonuna geçmeye hazır mısın? Kararsızlığa daha fazla tahammülün kalmadı. Artık çok daha kendinden emin olduğun, güçlü hissettiğin ve görünürlüğünün arttığı günler başlıyor. Özel sektörde çalışan bir Oğlak burcuysan, uzun zamandır zihnini meşgul eden konuyu yöneticinle konuşacaksın. Canını sıkan konularda sessiz kalmayı bırakıyorsun.",
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Evinle ve ailenle ilgili konular bugün önceliğin hâline gelirken, yaşam alanında konforunu artıracak değişiklikler yapabilirsin. Aile büyükleriyle yapacağın derin sohbetler, köklerine dair yeni ve şaşırtıcı bilgiler edinmeni sağlayacak. Ev içindeki bu huzurlu atmosfer, profesyonel hedeflerine daha sakin bir kafayla odaklanmana da yardımcı olacak. Kariyer ve ev hayatın arasındaki dengeyi kurarken, bireysel özgürlüğünden de taviz vermemeye çalışacaksın.",
+      "aşk": null,
+      "para": "Evinle ve ailenle ilgili konular bugün önceliğin hâline gelirken, yaşam alanında konforunu artıracak değişiklikler yapabilirsin. Kariyer ve ev hayatın arasındaki dengeyi kurarken, bireysel özgürlüğünden de taviz vermemeye çalışacaksın.",
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Bugün beklenmedik bir yerden gelecek olan bir seyahat veya eğitim teklifi, tüm günlük rutinini bir anda değiştirebilir. Bu ani gelişme, zihninde yeni kapılar açarken geleceğe dair vizyonunu da genişletecek. Yakın zamanda araba veya ev satın almayı düşünen bir Balık burcuysan, bu konuda harekete geçmenin ve somut adımlar atmanın tam zamanı! Hayallerin gerçeğe dönüşmek üzere.",
+      "aşk": null,
+      "para": "Yakın zamanda araba veya ev satın almayı düşünen bir Balık burcuysan, bu konuda harekete geçmenin ve somut adımlar atmanın tam zamanı!",
+      "sağlık": null
+    }
+  },
+  "vogue": {
+    "Koç": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Oğlak": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": null,
+      "aşk": null,
+      "para": null,
+      "sağlık": null
+    }
+  },
+  "gunlukburc": {
+    "Koç": {
+      "genel": "Sevgili Koçlar, toplumsal ideallerinizin ve gruplar içindeki ortak hedeflerin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın rasyonel ve vizyoner etkisiyle, bireysel arzularınızı bir kenara bırakıp kolektif faydaya yönelik adımlar atma eğiliminde olabilirsiniz. Bu durum, çevrenizdeki insanlarla ortak bir amaç etrafında kenetlenmenize ve geleceğe dönük planlarınızı yepyeni bir vizyonla şekillendirmenize de kapı aralayacaktır. Bugün, parçası olduğunuz topluluklarda fikir alışverişleri hız kazanacak. Kalabalık ortamların getirdiği dinamizm, bakış açınızı genişleterek farklı perspektifler kazanmanıza zemin hazırlayacak. Bu etkiler altında, bugün etrafınızdaki insanların görüşlerine kulak vermek, kendi yol haritanızı çizerken size yol gösterici bir rehber işlevi görecektir.",
+      "aşk": "Sevgili Koçlar, toplumsal ideallerinizin ve gruplar içindeki ortak hedeflerin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Yengeç burcundaki Güneş'in korumacı ve içe dönük etkisi, iş ve kariyer alanında arka planda yürüttüğünüz projelere ağırlık vereceğinizi gösteriyor. Bugün göz önünde olmaktan ziyade, çalışma alanınızın güvenli ortamında stratejilerinizi sağlamlaştırmaya yöneleceksiniz. Ayrıca bu süreçte temelini attığınız işlerde eksikleri gidermek, ilerleyen süreçte karşınıza çıkabilecek engelleri ortadan kaldırmaya yardımcı olabilir. Yengeç burcundaki Merkür'ün sezgisel ve geçmişe dönük etkisi, maddi konularda daha önce yaptığınız finansal anlaşmaları veya yatırımları yeniden gözden geçirme ihtiyacınızı vurguluyor. Bu dönemde bütçenizi planlarken sadece rakamlarla değil içinizden gelen hislerle de hareket edecek, ailenizi ilgilendiren ortak harcamalarda akılcı sınırlandırmalar getireceksiniz.",
+      "sağlık": "Kalabalık ortamların getirdiği dinamizm, bakış açınızı genişleterek farklı perspektifler kazanmanıza zemin hazırlayacak."
+    },
+    "Boğa": {
+      "genel": "Sevgili Boğalar, toplumsal imajınızın ve otorite figürleriyle olan ilişkilerinizin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın objektif ve mesafeli etkisiyle, profesyonel hedeflerinize duygusal bir pencereden değil, tamamen mantıksal bir çerçeveden yaklaşma eğiliminde olabilirsiniz. Bu durum, üstlendiğiniz sorumluluklara farklı bir vizyon katmanıza ve yöneticilerinizle aranızdaki dinamikleri daha profesyonel bir zeminde yeniden yapılandırmanıza olanak tanıyabilir. Bugün, kalıplaşmış yöntemlerin dışına çıkarak statünüzü güçlendirecek alternatif yollar arayışına girebilirsiniz. Gün içerisinde hedeflerinize ulaşmak adına sergileyeceğiniz ciddi duruş, çevrenizdekilerin saygısını kazanmanıza zemin hazırlayabilir. Ayrıca bu süreçte yakın çevrenizden alacağınız geri bildirimleri kişisel algılamadan, gelişiminize katkı sunacak birer veri olarak değerlendirme şansınız olabilir.",
+      "aşk": "Sevgili Boğalar, toplumsal imajınızın ve otorite figürleriyle olan ilişkilerinizin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "İkizler burcundaki Mars'ın zihinsel rekabeti körükleyen çok yönlü etkisi, iş ve kariyer alanında aynı anda birkaç projeyi yönetecek mental kapasiteye ulaşacağınızı gösteriyor. Bugün rakiplerinize karşı hızlı düşünme yeteneğinizi konuşturarak avantaj elde edecek, müzakerelerde ikna edici dilinizle masadan kazançlı kalkan taraf olacaksınız. Yengeç burcundaki Merkür'ün korumacı ve hesaplı etkisi, maddi konularda elinizdeki kaynakları tutma ve birikimlerinizi güvence altına alma eğiliminizi vurguluyor. Bugün yakın çevreniz veya kardeşlerinizle ortaklaşa yürüteceğiniz ticari bir anlaşmada detayları dikkatlice irdeleyecek, içgüdülerinize güvenerek finansal risklerden ustaca kaçınacaksınız.",
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Sevgili İkizler, hayata karşı olan bakış açınızın ve inanç sistemlerinizin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın sınır tanımayan ve yenilikçi etkisiyle, dogmatik düşünce kalıplarını reddederek kendi hayat felsefenizi baştan inşa etme eğiliminde olabilirsiniz. Bu durum, vizyonunuzu genişletmenize ve olayları çok daha evrensel bir boyuttan değerlendirmenize olanak tanıyabilir. Bugün, dar kalıpların içine sıkışmaktan hoşlanmayacak, ufkunuzu genişletecek her türlü farklı görüşe kucak açacaksınız. Savunduğunuz idealleri etrafınızdakilere benimsetirken oldukça tutkulu ancak bir o kadar da objektif bir tavır sergileyeceksiniz. Ayrıca bu dönemde farklı kültürler veya uzak coğrafyalar üzerine yapacağınız araştırmalar, zihinsel sınırlarınızı aşmanıza yardımcı olabilir.",
+      "aşk": "Sevgili İkizler, hayata karşı olan bakış açınızın ve inanç sistemlerinizin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Yengeç burcundaki Güneş'in aidiyet odaklı ve sezgisel etkisi, iş ve kariyer alanında kendinizi manevi olarak değerli hissedeceğiniz projelere yöneleceğinizi gösteriyor. Bugün üzerinde çalıştığınız işlere duygusal bir bağ kuracak, patronlarınızın veya müşterilerinizin hassasiyetlerini doğru analiz ederek beklentileri kusursuz bir şekilde karşılayacaksınız. Yengeç burcundaki Merkür'ün geçmişe dönük ve biriktirici etkisi, maddi konularda daha önce yaptığınız finansal harcamaların bilançosunu çıkararak sıkı bir bütçe kontrolü yapmanızı vurguluyor. Bu dönemde gelirinizi koruma içgüdünüz ağır basacak, nostaljik değeri olan objelere para harcamak ile tasarruf yapmak arasında kalacağınız bir denge arayışına gireceksiniz.",
+      "sağlık": "Sevgili İkizler, hayata karşı olan bakış açınızın ve inanç sistemlerinizin ön plana çıktığı bir gün sizi bekliyor. Ayrıca bu dönemde farklı kültürler veya uzak coğrafyalar üzerine yapacağınız araştırmalar, zihinsel sınırlarınızı aşmanıza yardımcı olabilir."
+    },
+    "Yengeç": {
+      "genel": "Bugün, yüzeysel bilgilerle yetinmek yerine her meselenin derinine inme ihtiyacı hissedeceksiniz. Çözümsüz gibi görünen meseleleri stratejik bir akılla ele alarak kontrolü kendi elinizde tutmayı başaracaksınız. Ayrıca bu süreçte çevrenizdeki insanların gizli motivasyonlarını sezme yeteneğiniz oldukça keskinleşebilir.",
+      "aşk": "Aslan burcundaki Venüs'ün sadakat arayan ve sahiplenici etkisi, aşk hayatınızda değer görme arzunuzun zirveye çıkacağına işaret ediyor. İlişkisi olan Yengeçler, partnerinizden gelecek somut adımlar ve gösterişli jestler bekleyecek, ilişkinizin ne kadar sağlam temellere dayandığını test etmek isteyeceksiniz. Bekarsanız, burcunuzdaki Güneş'in koruyucu ve içten doğasıyla, size kendinizi özel hissettiren, niyetleri açık ve net olan birine kalbinizin kapılarını aralayabilirsiniz.",
+      "para": "İkizler burcundaki Mars'ın arka planda çalışan zihinsel etkisi, iş ve kariyer alanında rakiplerinizin hamlelerini sessizce gözlemleyerek kendi stratejilerinizi gözlerden uzak bir şekilde belirleyeceğinizi gösteriyor. Bugün çalışma alanınızdaki açık tartışmalardan uzak durarak enerjinizi sadece eksik projelerinizi pürüzsüz bir biçimde tamamlamaya yönlendireceksiniz. Burcunuzdaki Merkür'ün sezgileri ön plana çıkaran etkisi, maddi konularda finansal kararlar alırken sadece rakamlara değil, içinizden gelen sese de kulak vermeniz gerektiğini vurguluyor. Bugünlerde, bütçenizi ilgilendiren önemli bir sözleşme veya anlaşma aşamasında, karşı tarafın samimiyetini ölçerek yatırımlarınıza yön vereceksiniz.",
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "Sevgili Aslanlar, ikili ilişkilerinizin ve ortaklık gerektiren meselelerin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın objektif ve rasyonel etkisiyle, karşınızdaki kişilerin beklentilerini mantık süzgecinden geçirerek ilişkilerinizdeki dengeleri yeniden ayarlama eğiliminde olabilirsiniz. Bu durum, anlaşmazlık yaşadığınız konularda taraf tutmadan orta yolu bulmanıza ve kontratlara dayalı işlerde diplomatik bir ustalık sergilemenize olanak tanıyacaktır. Bugün, sadece kendi haklılığınıza odaklanmak yerine karşınızdakinin argümanlarına da değer vereceksiniz. Ortaklaşa hareket etmenin getirdiği sinerji sayesinde tek başınıza aşamayacağınız engelleri kolaylıkla bertaraf edeceksiniz. Ayrıca gün içerisinde karşınıza çıkan kişilerin size adeta bir ayna tuttuğunu fark ederek kendi davranış modellerinizi geliştirme fırsatı yakalayacaksınız.",
+      "aşk": "Sevgili Aslanlar, ikili ilişkilerinizin ve ortaklık gerektiren meselelerin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Ayrıca gün içerisinde karşınıza çıkan kişilerin size adeta bir ayna tuttuğunu fark ederek kendi davranış modellerinizi geliştirme fırsatı yakalayacaksınız.",
+      "sağlık": "Ortaklaşa hareket etmenin getirdiği sinerji sayesinde tek başınıza aşamayacağınız engelleri kolaylıkla bertaraf edeceksiniz."
+    },
+    "Başak": {
+      "genel": "Sevgili Başaklar, çalışma ortamınızdaki dinamiklerin ve üstlendiğiniz mesleki sorumlulukların ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın yenilikçi ve takım çalışmasını destekleyen etkisiyle, ofis içi ilişkilerinizde geleneksel yöntemleri bırakıp çok daha modern ve kolektif çözümler üretme eğiliminde olabilirsiniz. Bu durum, iş arkadaşlarınızla aranızdaki fikir ayrılıklarını gidermenize ve ortak hedefler doğrultusunda verimli bir sinerji yaratmanıza kapı aralayacaktır. Bugün, çevrenizdeki insanlara yardımcı olma motivasyonunuz oldukça yüksek seyredecek. Gün içindeki rutin görevleri akılcı yöntemlerle hızlıca eriterek, çalışma saatlerinizi çok daha keyifli bir atmosfere dönüştüreceksiniz. Ayrıca bugün üzerinize aldığınız görevleri yerine getirirken detaylarda kaybolmak yerine, işin kolektif faydasına odaklanacaksınız.",
+      "aşk": "Sevgili Başaklar, çalışma ortamınızdaki dinamiklerin ve üstlendiğiniz mesleki sorumlulukların ön plana çıktığı bir gün sizi bekliyor. Bu durum, iş arkadaşlarınızla aranızdaki fikir ayrılıklarını gidermenize ve ortak hedefler doğrultusunda verimli bir sinerji yaratmanıza kapı aralayacaktır.",
+      "para": "Bu durum, iş arkadaşlarınızla aranızdaki fikir ayrılıklarını gidermenize ve ortak hedefler doğrultusunda verimli bir sinerji yaratmanıza kapı aralayacaktır. Gün içindeki rutin görevleri akılcı yöntemlerle hızlıca eriterek, çalışma saatlerinizi çok daha keyifli bir atmosfere dönüştüreceksiniz. Ayrıca bugün üzerinize aldığınız görevleri yerine getirirken detaylarda kaybolmak yerine, işin kolektif faydasına odaklanacaksınız.",
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Sevgili Teraziler, bireysel yeteneklerinizin, hobilerinizin ve hayattan aldığınız keyfin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın sıra dışı ve özgürleştirici etkisiyle, toplumsal kurallara takılmadan tamamen kendi zevklerinizi merkeze alan eğlenceli aktivitelere yönelme eğiliminde olabilirsiniz. Bu durum, içinizdeki çocuksu neşeyi açığa çıkarmanıza ve kişisel projelerinizde orijinal fikirler üreterek çevrenizi etkilemenize ortam hazırlayacaktır. Bugün, sıradanlığa meydan okuyarak dikkati üzerinize çekecek cesur adımlar atacaksınız. Sosyal ortamlarda fark yaratan tarzınız ve entelektüel söylemleriniz sayesinde aranan isim haline geleceksiniz. Ayrıca bu süreçte ilgi duyduğunuz konularda araştırmalar yaparak boş zamanlarınızı zihinsel bir şölene çevirme potansiyeliniz oldukça yüksek görünüyor.",
+      "aşk": "Sevgili Teraziler, bireysel yeteneklerinizin, hobilerinizin ve hayattan aldığınız keyfin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Bu durum, içinizdeki çocuksu neşeyi açığa çıkarmanıza ve kişisel projelerinizde orijinal fikirler üreterek çevrenizi etkilemenize ortam hazırlayacaktır.",
+      "sağlık": "Ayrıca bu süreçte ilgi duyduğunuz konularda araştırmalar yaparak boş zamanlarınızı zihinsel bir şölene çevirme potansiyeliniz oldukça yüksek görünüyor."
+    },
+    "Akrep": {
+      "genel": "Sevgili Akrepler, yaşam alanınızın, ailevi bağlarınızın ve içsel köklerinizin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın yenilikçi ve gelenekleri yıkan etkisiyle, hane içinde alışılagelmiş kuralları esneterek kendinize çok daha özgür bir yaşam alanı kurgulama eğiliminde olabilirsiniz. Bu durum, aile bireyleriyle olan diyaloglarınıza rasyonel bir boyut kazandırmanıza ve geçmişten gelen kısıtlayıcı duygusal bağları akılcı bir şekilde koparmanıza zemin hazırlayacaktır. Bugün, evinizin düzeninde veya dekorasyonunda radikal değişiklikler yapmak için güçlü bir motivasyon hissedeceksiniz. Geçmişe saplanıp kalmak yerine, köklerinizden aldığınız gücü geleceğe dönük felsefi bir vizyonla harmanlayacaksınız. Ayrıca bu süreçte hane içindeki sorunlara tarafsız bir gözlemci edasıyla yaklaşmanız, krizleri büyümeden çözmenizi sağlayacak.",
+      "aşk": "Sevgili Akrepler, yaşam alanınızın, ailevi bağlarınızın ve içsel köklerinizin ön plana çıktığı bir gün sizi bekliyor. Bu durum, aile bireyleriyle olan diyaloglarınıza rasyonel bir boyut kazandırmanıza ve geçmişten gelen kısıtlayıcı duygusal bağları akılcı bir şekilde koparmanıza zemin hazırlayacaktır.",
+      "para": "İkizler burcundaki Mars'ın araştırmacı ve zihni zorlayan etkisi, iş ve kariyer alanında rakiplerinizin stratejilerini analiz ederek kendinize kusursuz bir yol haritası belirleyeceğinizi gösteriyor. Bugün kritik anlarda hızlı kararlar alarak riskleri minimize edecek, başkalarının göremediği zihinsel detayları fark ederek profesyonel arenada bir adım öne geçeceksiniz. Yengeç burcundaki Merkür'ün biriktirici ve korumacı etkisi, maddi konularda uzak hedeflerinize ulaşmak adına elinizdeki sermayeyi güvence altına alacak adımlar atacağınızı vurguluyor. Ayrıca ticari anlaşmalar veya hukuki bir meseleden kaynaklanan finansal beklentilerinizde haber akışının hızlanacağı, sezgilerinizin size doğru yatırımı fısıldayacağı bir süreçten geçiyorsunuz.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Sevgili Yaylar, yakın çevrenizle olan iletişiminizin, komşuluk ilişkilerinizin ve zihinsel projelerinizin ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın sıra dışı ve vizyoner etkisiyle, sıradan sohbetlerden uzaklaşıp etrafınızdaki insanlarla felsefi, bilimsel veya toplumsal meseleler üzerine derin diyaloglar kurma eğiliminde olabilirsiniz. Bu durum, zihinsel sınırlarınızı esnetmenize ve yakınınızdaki insanlara kalıpları yıkan orijinal fikirlerinizle ilham vermenize olanak tanıyacaktır. Bugün, iletişim trafiğinizin ve mesajlaşmalarınızın hız kesmeden devam edeceği oldukça hareketli saatler yaşayacaksınız. Gün içerisinde aklınıza aniden gelen parlak fikirleri not almak, ilerleyen günlerde somut projelere dönüşmelerini sağlayabilir. Ayrıca bu dönemde kardeşleriniz veya sık görüştüğünüz kişilerle ortaklaşa yürüteceğiniz zihinsel bir uğraş, size yepyeni bir perspektif kazandırabilir.",
+      "aşk": "Sevgili Yaylar, yakın çevrenizle olan iletişiminizin, komşuluk ilişkilerinizin ve zihinsel projelerinizin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Sevgili Yaylar, yakın çevrenizle olan iletişiminizin, komşuluk ilişkilerinizin ve zihinsel projelerinizin ön plana çıktığı bir gün sizi bekliyor. Gün içerisinde aklınıza aniden gelen parlak fikirleri not almak, ilerleyen günlerde somut projelere dönüşmelerini sağlayabilir.",
+      "sağlık": "Sevgili Yaylar, yakın çevrenizle olan iletişiminizin, komşuluk ilişkilerinizin ve zihinsel projelerinizin ön plana çıktığı bir gün sizi bekliyor. Bu durum, zihinsel sınırlarınızı esnetmenize ve yakınınızdaki insanlara kalıpları yıkan orijinal fikirlerinizle ilham vermenize olanak tanıyacaktır. Bugün, iletişim trafiğinizin ve mesajlaşmalarınızın hız kesmeden devam edeceği oldukça hareketli saatler yaşayacaksınız. Ayrıca bu dönemde kardeşleriniz veya sık görüştüğünüz kişilerle ortaklaşa yürüteceğiniz zihinsel bir uğraş, size yepyeni bir perspektif kazandırabilir."
+    },
+    "Oğlak": {
+      "genel": "Sevgili Oğlaklar, kişisel değer yargılarınızın, yeteneklerinizin ve sahip olduğunuz öz kaynakların ön plana çıktığı bir gün sizi bekliyor. Bugün, Kova burcundaki Ay'ın rasyonel ve toplumsal faydayı gözeten etkisiyle, elinizdeki yetenekleri sadece kendi çıkarınız için değil, çevrenizdeki insanların da faydalanabileceği şekilde organize etme eğiliminde olabilirsiniz. Bu durum, kendinize biçtiğiniz değeri yeniden tanımlamanıza ve potansiyelinizi çok daha yenilikçi alanlarda sergilemenize kapı aralayabilir. Bugün, sahip olduklarınıza olan bağlılığınızı sorgulayarak manevi kazanımları önceliklendirebilirsiniz. Gün içerisinde kişisel sınırlarınızı net bir şekilde çizerken, etrafınızdakilerle aranızdaki alma-verme dengesini oldukça adil bir platforma taşıyabilirsiniz. Kendi yeteneklerinize olan inancınız ise bu süreçte başkalarından onay beklemeden kendi kurallarınızı koymanızı sağlayabilir.",
+      "aşk": "Sevgili Oğlaklar, kişisel değer yargılarınızın, yeteneklerinizin ve sahip olduğunuz öz kaynakların ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Gün içerisinde kişisel sınırlarınızı net bir şekilde çizerken, etrafınızdakilerle aranızdaki alma-verme dengesini oldukça adil bir platforma taşıyabilirsiniz.",
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Sevgili Kovalar, dış dünyaya sunduğunuz imajın, kişisel ihtiyaçlarınızın ve fiziksel enerjinizin ön plana çıktığı bir gün sizi bekliyor. Bugün, burcunuzdaki Ay'ın analitik ve mesafeli etkisiyle, etrafınızda gelişen olaylara duygusal tepkiler vermek yerine tamamen mantıksal bir duvar örerek kendinizi koruma eğiliminde olabilirsiniz. Bu durum, başkalarının ne düşündüğünden ziyade kendi içsel pusulanıza güvenmenize ve kişisel sınırlarınızı son derece kesin bir dille çizmenize olanak tanıyacaktır. Bugün, imajınızda sizi tam anlamıyla yansıtan bazı ufak değişiklikler yapmak isteyebilirsiniz. Gün içerisinde kendi doğrularınızı savunurken sergilediğiniz sarsılmaz irade, girdiğiniz her ortamda saygı uyandırmanızı sağlayabilir. Ayrıca bu süreçte çevrenizdeki insanların size olan yaklaşımlarını gözlemleyerek kimlerle aranıza mesafe koymanız gerektiğine hızla karar verebilirsiniz.",
+      "aşk": "Sevgili Kovalar, dış dünyaya sunduğunuz imajın, kişisel ihtiyaçlarınızın ve fiziksel enerjinizin ön plana çıktığı bir gün sizi bekliyor.",
+      "para": "Yengeç burcundaki Güneş'in koruyucu ve hizmet odaklı etkisi, iş ve kariyer alanında çalışma arkadaşlarınızın yardımına koşarak ofis içinde adeta destekleyici bir rol üstleneceğinizi gösteriyor. Bugün detaylı ve yorucu görevleri büyük bir özveriyle tamamlayacak, iş ortamınızdaki eksiklikleri tespit ederek herkesin çalışma kalitesini artıracak ergonomik çözümler üreteceksiniz. Yengeç burcundaki Merkür'ün sezgisel ve detayları hafızasına kazıyan etkisi, maddi konularda gündelik harcamalarınızı sıkı bir denetimden geçirerek küçük tasarruflarla büyük birikimler yaratma stratejinizi vurguluyor. Bu dönemde, elde ettiğiniz geliri korumak adına gereksiz gider kalemlerini kesecek, hesaplamalarla ilgili geçmişe dönük pürüzleri neticelendireceksiniz.",
+      "sağlık": "Sevgili Kovalar, dış dünyaya sunduğunuz imajın, kişisel ihtiyaçlarınızın ve fiziksel enerjinizin ön plana çıktığı bir gün sizi bekliyor."
+    },
+    "Balık": {
+      "genel": "Bugün, kalabalık ortamlar yerine yalnız kalarak enerjinizi toplamayı tercih edeceksiniz. Gün içerisinde gözlemci tarafınızı açık tutarak zihninizin size verdiği sinyalleri dikkate alacak, hayatınızda neyi geride bırakmanız gerektiğine net bir şekilde karar vereceksiniz. Ayrıca bu dönemde, dışarıya yansıtmadığınız fikirlerinizi kendi içinizde olgunlaştırırken, olayların perde arkasını analiz etme yeteneğiniz zirveye çıkabilir.",
+      "aşk": "Aslan burcundaki Venüs'ün gururlu ve hizmet bekleyen etkisi, aşk hayatınızda sevginin büyük sözlerle değil, günlük hayatınızı kolaylaştıran somut eylemlerle kanıtlanmasını isteyeceğinize işaret ediyor. İlişkisi olan Balıklar, partnerinizin sizin için üstlendiği küçük sorumlulukları takdir edecek, aranızdaki bağı ortak yaşam alanınızdaki görev paylaşımıyla daha da sağlamlaştıracaksınız. Bekarsanız, Yengeç burcundaki Güneş'in sahiplenici ve aidiyet sunan yapısı sayesinde, tanıdık bir çevrede niyetleri açık ve güven veren biriyle sürpriz bir şekilde yakınlaşabilirsiniz.",
+      "para": "Yengeç burcundaki Merkür'ün sezgileri güçlendiren ve geçmiş verileri kullanan etkisi, iş ve kariyer alanında riskli projelerde mantığınız kadar altıncı hissinizi de devreye sokarak doğru hamleler yapacağınızı gösteriyor. Bugün iş hayatınızla ilgili konularda eski tecrübelerinizden beslenecek, yapacağınız sunumlarda karşı tarafın duygusal tepkilerini önceden kestirerek ikna sürecini kısaltacaksınız. İkizler burcundaki Mars'ın zihinsel olarak meşgul eden ve rekabetçi etkisi, maddi konularda ailenizi veya gayrimenkullerinizi ilgilendiren finansal meselelerde hakkınızı almak için sözlü bir mücadeleye gireceğinizi vurguluyor. Bu dönemde, özellikle mülk paylaşımı gibi konularda hızlı düşünen yapınızla süreci kendi lehinize çevirecek, masrafları kısmak adına ev içi harcamalarınızda pratik çözümler üreteceksiniz.",
+      "sağlık": "Bugün, kalabalık ortamlar yerine yalnız kalarak enerjinizi toplamayı tercih edeceksiniz."
+    }
+  },
+  "myburc": {
+    "Koç": {
+      "genel": "Duygularınızda gözle görülen bir coşku mevcut. Herkes tarafından ilgiyle takip ediliyorsunuz. Sosyal yaşamınızı ön plana çıkarmaktan hoşlanıyor ve girişimciliğinizin desteklenmesini bekliyorsunuz. İlgi çekmeyi başaracaksınız.",
+      "aşk": "Aslan burcundaki venüs'ün gösterişli ve sıcak etkisi, aşk hayatınızda tutkunun ve oyunbaz tavırların yoğunlaşacağına işaret ediyor. İlişkisi olan koçlar, partnerinizle birlikte keyifli aktivitelere yönelerek aranızdaki ateşi yeniden harlayacak heyecan verici adımlar atacaksınız. Bekarsanız, ikizler burcundaki mars'ın hareketli ve konuşkan enerjisi sayesinde, kısa bir seyahatte veya yakın çevreniz vasıtasıyla zihinsel olarak sizi kışkırtan esprili biriyle çekişmeli bir etkileşime girebilirsiniz.",
+      "para": "Yengeç burcundaki güneş'in korumacı ve içe dönük etkisi, iş ve kariyer alanında arka planda yürüttüğünüz projelere ağırlık vereceğinizi gösteriyor. Bugün göz önünde olmaktan ziyade, çalışma alanınızın güvenli ortamında stratejilerinizi sağlamlaştırmaya yöneleceksiniz. Ayrıca bu süreçte temelini attığınız işlerde eksikleri gidermek, ilerleyen süreçte karşınıza çıkabilecek engelleri ortadan kaldırmaya yardımcı olabilir. Yengeç burcundaki merkür'ün sezgisel ve geçmişe dönük etkisi, maddi konularda daha önce yaptığınız finansal anlaşmaları veya yatırımları yeniden gözden geçirme ihtiyacınızı vurguluyor. Bu dönemde bütçenizi planlarken sadece rakamlarla değil içinizden gelen hislerle de hareket edecek, ailenizi ilgilendiren ortak harcamalarda akılcı sınırlandırmalar getireceksiniz.",
+      "sağlık": null
+    },
+    "Boğa": {
+      "genel": "Başlangıç yapmayı planladığınız konularda titiz davranarak sistemli yapınızın getirdiği sorumluluk duygusunu içinizde taşıyorsunuz. Seçimlerinizi yaparken, başkalarının fikrini almaktan hoşlanmasanız da bugün sabırlısınız.",
+      "aşk": "Aslan burcundaki venüs'ün cömert ve aidiyet arayan etkisi, aşk hayatınızda ev çemberinde yaşanacak sıcak paylaşımlara ve güçlü bir şefkat ihtiyacına işaret ediyor. İlişkisi olan boğalar, partnerinizi kendi yaşam alanınızda ağırlamaktan keyif alacak, beraberliğinizi güzelleştirecek ortak kararlar alarak bağlarınızı derinleştireceksiniz. Bekarsanız, yengeç burcundaki güneş'in kapsayıcı ve anaç yansıması sebebiyle, size geçmişi anımsatan veya eski bir tanıdığınız olan, manevi yönü kuvvetli biriyle duygusal bir yakınlaşma içerisine girebilirsiniz.",
+      "para": "İkizler burcundaki mars'ın zihinsel rekabeti körükleyen çok yönlü etkisi, iş ve kariyer alanında aynı anda birkaç projeyi yönetecek mental kapasiteye ulaşacağınızı gösteriyor. Bugün rakiplerinize karşı hızlı düşünme yeteneğinizi konuşturarak avantaj elde edecek, müzakerelerde ikna edici dilinizle masadan kazançlı kalkan taraf olacaksınız. Yengeç burcundaki merkür'ün korumacı ve hesaplı etkisi, maddi konularda elinizdeki kaynakları tutma ve birikimlerinizi güvence altına alma eğiliminizi vurguluyor. Bugün yakın çevreniz veya kardeşlerinizle ortaklaşa yürüteceğiniz ticari bir anlaşmada detayları dikkatlice irdeleyecek, içgüdülerinize güvenerek finansal risklerden ustaca kaçınacaksınız.",
+      "sağlık": null
+    },
+    "İkizler": {
+      "genel": "Çevrenizdeki koşulların sınırlı olmasından yakınmayın. Gücünüzü ortaya koyacak konuşmalar yaparak, bulunduğunuz ortamlarda iyi bir motivasyon estireceksiniz. Çevresel koşullarınızı kendi çapınızda değiştirmek isteyebilirsiniz.",
+      "aşk": "Aslan burcundaki venüs'ün gururlu ve parlayan etkisi, aşk hayatınızda sözcüklerin gücünü kullanarak karşınızdaki kişiyi kolayca etkiniz altına alacağınıza işaret ediyor. İlişkisi olan ikizler, partnerinize duyduğunuz hayranlığı abartılı ve romantik sözlerle dile getirerek onun kalbini bir kez daha fethedeceksiniz. Bekarsanız, burcunuzdaki mars'ın cesaret veren ve eyleme geçiren enerjisi sayesinde, hoşlandığınız kişiye karşı ilk adımı atmaktan çekinmeyerek doğrudan hislerinizi ortaya koyabilirsiniz.",
+      "para": "Yengeç burcundaki güneş'in aidiyet odaklı ve sezgisel etkisi, iş ve kariyer alanında kendinizi manevi olarak değerli hissedeceğiniz projelere yöneleceğinizi gösteriyor. Bugün üzerinde çalıştığınız işlere duygusal bir bağ kuracak, patronlarınızın veya müşterilerinizin hassasiyetlerini doğru analiz ederek beklentileri kusursuz bir şekilde karşılayacaksınız. Yengeç burcundaki merkür'ün geçmişe dönük ve biriktirici etkisi, maddi konularda daha önce yaptığınız finansal harcamaların bilançosunu çıkararak sıkı bir bütçe kontrolü yapmanızı vurguluyor. Bu dönemde gelirinizi koruma içgüdünüz ağır basacak, nostaljik değeri olan objelere para harcamak ile tasarruf yapmak arasında kalacağınız bir denge arayışına gireceksiniz.",
+      "sağlık": null
+    },
+    "Yengeç": {
+      "genel": "Maddesel konularda kafanız oldukça işlek ve hızlı çalışıyor. Güç nerdeyse, siz oradasınız. Bugün finans konularına ilgi duymanıza rağmen, kendi sınırlarınızın ölçülerini iyi biliyor ve atılımlarınızı daha sonraya bırakıyorsunuz.",
+      "aşk": "Aslan burcundaki venüs'ün sadakat arayan ve sahiplenici etkisi, aşk hayatınızda değer görme arzunuzun zirveye çıkacağına işaret ediyor. İlişkisi olan yengeçler, partnerinizden gelecek somut adımlar ve gösterişli jestler bekleyecek, ilişkinizin ne kadar sağlam temellere dayandığını test etmek isteyeceksiniz. Bekarsanız, burcunuzdaki güneş'in koruyucu ve içten doğasıyla, size kendinizi özel hissettiren, niyetleri açık ve net olan birine kalbinizin kapılarını aralayabilirsiniz.",
+      "para": "Bugün finans konularına ilgi duymanıza rağmen, kendi sınırlarınızın ölçülerini iyi biliyor ve atılımlarınızı daha sonraya bırakıyorsunuz.",
+      "sağlık": null
+    },
+    "Aslan": {
+      "genel": "İlişkilerinizde sadakat ve dürüstlük kavramı çok önemli. Ortak çalışmalar içinde bulunacağınız kişilerden çok şey bekliyor ve onları sıkı bir denetimden geçiriyorsunuz. Duygusal bağlarınızda güçlü bir kişilik arıyorsunuz.",
+      "aşk": "Duygusal bağlarınızda güçlü bir kişilik arıyorsunuz.",
+      "para": "Yengeç burcundaki güneş'in geri plana çekilmeyi destekleyen etkisi, iş ve kariyer alanında yoğun tempodan biraz uzaklaşıp vizyonunuzu içsel bir gözle değerlendirme ihtiyacınızı gösteriyor. Bugün sahne ışıklarının altında olmak yerine arka planda hazırlık yapmayı tercih edecek, yarım kalmış raporlarınızı tamamlayarak önünüzdeki sürece daha temiz bir zihinle adım atacaksınız. Yengeç burcundaki merkür'ün gizlilik arayan etkisi, maddi konularda finansal adımlarınızı kimseyle paylaşmadan kendi içinizde hesaplaşarak atacağınızı vurguluyor. Bu dönemde, gizli bir kazanç kapısı veya arka planda yürütülen ticari bir görüşme sayesinde bütçenize katkı sağlayacak akılcı formüller üreteceksiniz.",
+      "sağlık": null
+    },
+    "Başak": {
+      "genel": "Bugün gücünüzü ortaya koymaktan hoşlanmayacak ve duygularınızı saklama gereği duyacaksınız. Özellikle iş çevrenizde bazı yanlışlıklar söz konusu olabilir. Görüşlerinizi paylaşmak niyetinde değilsiniz. Sonuçları bekliyorsunuz.",
+      "aşk": "Aslan burcundaki venüs'ün içe dönük ve gizemli etkisi, aşk hayatınızda duygularınızı dışa vurmaktan ziyade kendi içinizde büyük fırtınalar yaşayacağınıza işaret ediyor. İlişkisi olan başaklar, ilişkinizi başkalarının gözünden uzak, tamamen size ait izole bir alanda yaşamayı tercih edecek; partnerinizle aranızdaki manevi bağları güçlendirecek derin paylaşımlara yöneleceksiniz. Bekarsanız, yengeç burcundaki güneş'in korumacı ve sezgisel yapısı sayesinde, arkadaş grubunuzun dışından, tamamen tesadüfen karşılaştığınız şefkatli birinin sessiz ilgisi kalbinizi ısıtabilir.",
+      "para": "Özellikle iş çevrenizde bazı yanlışlıklar söz konusu olabilir.",
+      "sağlık": null
+    },
+    "Terazi": {
+      "genel": "Bugün arkadaşlıklarınızda güçlü bir paylaşım gözleniyor ve birlikte olduğunuz kişilerin farklı yetenekleri olmasına özen gösteriyorsunuz. Toplumda isim yapmış kişilere karşı sempatinizin yüksek olduğu bir gün içindesiniz.",
+      "aşk": "Bugün arkadaşlıklarınızda güçlü bir paylaşım gözleniyor ve birlikte olduğunuz kişilerin farklı yetenekleri olmasına özen gösteriyorsunuz.",
+      "para": "Yengeç burcundaki güneş'in koruyucu ve aidiyet hissi veren etkisi, iş ve kariyer alanında patronlarınızın gözüne girerek çalışma ortamında saygın bir figür haline geleceğinizi gösteriyor. Bugün üstlendiğiniz görevleri sahiplenerek mesleki itibarınızı sağlamlaştıracak, tecrübeleriniz sayesinde kriz anlarında sığınılacak güvenilir bir profil çizeceksiniz. Yengeç burcundaki merkür'ün geçmişi referans alan sezgisel etkisi, maddi konularda yöneticilerinizle yapacağınız maaş veya prim görüşmelerinde geçmiş başarılarınızı masaya yatırarak kazançlı çıkacağınızı vurguluyor. Bugün kariyer bağlantılarınızı finansal bir avantaja çevirecek stratejiler geliştirecek, resmi kurumlardaki maddi pürüzleri ikna edici dilinizle aşacaksınız.",
+      "sağlık": null
+    },
+    "Akrep": {
+      "genel": "Bugün her zamankinden fazla efor sarf etmek zorunda kalacaksınız. Disiplinli ve kurallı yaşamaktan sıkılmıyorsunuz ve bulunduğunuz ortamların seçkin özellikler taşımasına dikkat ediyorsunuz. Farklı olma isteği zarar verebilir.",
+      "aşk": "Aslan burcundaki venüs'ün saygınlık arayan ve gösterişli etkisi, aşk hayatınızda partnerinizin başarılarıyla gururlanma veya ilişkinizi toplum önünde onaylatma ihtiyacınıza işaret ediyor. İlişkisi olan akrepler, beraberliğinizi bir adım öteye taşıyacak resmi kararlar alabilir, eşinizle birlikte sosyal statünüzü yükseltecek ortamlarda boy gösterebilirsiniz. Bekarsanız, yengeç burcundaki güneş'in şefkatli ve sahiplenici yansıması sayesinde, akademik bir ortamda veya uzak mesafeli bir etkinlikte size manevi olarak kol kanat gerecek güvenilir biriyle yakınlaşabilirsiniz.",
+      "para": "Farklı olma isteği zarar verebilir.",
+      "sağlık": null
+    },
+    "Yay": {
+      "genel": "Enerjinizin gücünü fark ediyor ve çalışma temponuzu iki katına çıkarmak istiyorsunuz. Bugün, kişisel çıkarlarınızı her şeyin üstünde tutabilir ve çevrenize mesafeli davranabilirsiniz. Gizli duygularınızı gemlemek zorundasınız.",
+      "aşk": "Aslan burcundaki venüs'ün gururlu ve coşkulu etkisi, aşk hayatınızda farklı vizyonlara sahip kişilerle entelektüel bağlar kurma ihtiyacınıza işaret ediyor. İlişkisi olan yaylar, partnerinizle birlikte ortak inançlarınızı ve hayat felsefenizi tartışarak ilişkinizin boyutunu daha üst bir seviyeye taşıyacak konuşmalar yapacaksınız. Bekarsanız, ikizler burcundaki mars'ın rekabetçi ve flörtöz enerjisiyle, size zihinsel olarak meydan okuyan, hazırcevap ve esprili biriyle çekişmeli bir iletişim sürecine girerek aranızdaki kıvılcımı ateşleyebilirsiniz.",
+      "para": "Yengeç burcundaki güneş'in sezgisel ve krizleri yöneten etkisi, iş ve kariyer alanında başkalarıyla yürüttüğünüz ortaklaşa projelerde kontrolü tamamen hislerinize güvenerek ele alacağınızı gösteriyor. Bugün mesleki zorluklar karşısında dayanıklılığınızı kanıtlayacak, çalışma arkadaşlarınızın göremediği pürüzleri içgüdüleriniz sayesinde önceden tespit ederek süreci başarıyla yöneteceksiniz. Yengeç burcundaki merkür'ün geçmiş kayıtları inceleyen analitik etkisi, maddi konularda vergi, prim veya ortaklıklardan doğan kazançlarla ilgili evrak işlerini hızlıca toparlayacağınızı vurguluyor. Bu dönemde, başkalarından beklediğiniz finansal destekleri talep ederken ikna edici dilinizi kullanacak, ortak bütçeleri ilgilendiren konularda lehinize sonuçlanacak kararlar alacaksınız.",
+      "sağlık": "Enerjinizin gücünü fark ediyor ve çalışma temponuzu iki katına çıkarmak istiyorsunuz."
+    },
+    "Oğlak": {
+      "genel": "Azimli yapınızla, bugün birçok işi başarılı bir tempoyla yürüteceksiniz. Gün içinde özel zevkler söz konusu olabilir ve sosyal ilişkilerinize para harcamak zorunda kalabilirsiniz. Masraflarınızda kısıntı yapmalısınız.",
+      "aşk": "Aslan burcundaki venüs'ün tutkulu ve sahiplenici etkisi, aşk hayatınızda yüzeysel paylaşımlardan ziyade ruhsal olarak derinleşebileceğiniz yoğun bir etkileşim arayışına işaret ediyor. İlişkisi olan oğlaklar, partnerinizle aranızdaki güven bağını test edecek cesur konuşmalar yapabilir, ilişkinizin gölgede kalmış dinamiklerini açığa çıkararak aranızdaki ateşi yeniden harlayabilirsiniz. Bekarsanız, ikizler burcundaki mars'ın hızlı ve zihni uyaran enerjisi sayesinde, günlük koşturmacanız içinde tamamen tesadüfen karşılaştığınız hazırcevap ve entelektüel biriyle beklenmedik, zekice bir flörtleşmenin içine çekilebilirsiniz.",
+      "para": "Azimli yapınızla, bugün birçok işi başarılı bir tempoyla yürüteceksiniz. Gün içinde özel zevkler söz konusu olabilir ve sosyal ilişkilerinize para harcamak zorunda kalabilirsiniz.",
+      "sağlık": null
+    },
+    "Kova": {
+      "genel": "Bugün, duygularınızda öncülük yaparak isteklerinizi kolay bir şekilde ortaya koyuyorsunuz. Olumsuzluk size göre değil. Yaşadığınız her olayı lehinize çevirme konusunda ustaca davranıyorsunuz. Mutlu olacağınız bir gün içindesiniz.",
+      "aşk": "Aslan burcundaki venüs'ün cömert ve onaylanma ihtiyacı duyan etkisi, aşk hayatınızda partnerinizden gelecek övgülere ve romantik jestlere her zamankinden daha fazla ihtiyaç duyacağınıza işaret ediyor. İlişkisi olan kovalar, ilişkinizde merkezde olma arzunuzu tatlı bir dille ifade ederek partnerinizin tüm ilgisini üzerinize çekecek, aranızdaki çekimi artıracak planlar organize edeceksiniz. Bekarsanız, ikizler burcundaki mars'ın flörtöz ve konuşkan enerjisiyle, ilgi duyduğunuz bir konu üzerine sohbet ederken zekasıyla sizi anında etkileyen biriyle kıvılcımı yüksek bir diyaloğa başlayabilirsiniz.",
+      "para": "Yengeç burcundaki güneş'in koruyucu ve hizmet odaklı etkisi, iş ve kariyer alanında çalışma arkadaşlarınızın yardımına koşarak ofis içinde adeta destekleyici bir rol üstleneceğinizi gösteriyor. Bugün detaylı ve yorucu görevleri büyük bir özveriyle tamamlayacak, iş ortamınızdaki eksiklikleri tespit ederek herkesin çalışma kalitesini artıracak ergonomik çözümler üreteceksiniz. Yengeç burcundaki merkür'ün sezgisel ve detayları hafızasına kazıyan etkisi, maddi konularda gündelik harcamalarınızı sıkı bir denetimden geçirerek küçük tasarruflarla büyük birikimler yaratma stratejinizi vurguluyor. Bu dönemde, elde ettiğiniz geliri korumak adına gereksiz gider kalemlerini kesecek, hesaplamalarla ilgili geçmişe dönük pürüzleri neticelendireceksiniz.",
+      "sağlık": null
+    },
+    "Balık": {
+      "genel": "Kendinizi ispat edecek bir çalışmanın altına imza atacaksınız. Gücünüze güç katacak kişilerle çalışmaktan yanasınız. Olumsuz bir kişi olarak anılmak tarzınız değil ve değerlerinizi koruyarak adımlarınızı dikkatli atıyorsunuz.",
+      "aşk": "Aslan burcundaki venüs'ün gururlu ve hizmet bekleyen etkisi, aşk hayatınızda sevginin büyük sözlerle değil, günlük hayatınızı kolaylaştıran somut eylemlerle kanıtlanmasını isteyeceğinize işaret ediyor. İlişkisi olan balıklar, partnerinizin sizin için üstlendiği küçük sorumlulukları takdir edecek, aranızdaki bağı ortak yaşam alanınızdaki görev paylaşımıyla daha da sağlamlaştıracaksınız. Bekarsanız, yengeç burcundaki güneş'in sahiplenici ve aidiyet sunan yapısı sayesinde, tanıdık bir çevrede niyetleri açık ve güven veren biriyle sürpriz bir şekilde yakınlaşabilirsiniz.",
+      "para": "Yengeç burcundaki merkür'ün sezgileri güçlendiren ve geçmiş verileri kullanan etkisi, iş ve kariyer alanında riskli projelerde mantığınız kadar altıncı hissinizi de devreye sokarak doğru hamleler yapacağınızı gösteriyor. Bugün iş hayatınızla ilgili konularda eski tecrübelerinizden beslenecek, yapacağınız sunumlarda karşı tarafın duygusal tepkilerini önceden kestirerek ikna sürecini kısaltacaksınız. İkizler burcundaki mars'ın zihinsel olarak meşgul eden ve rekabetçi etkisi, maddi konularda ailenizi veya gayrimenkullerinizi ilgilendiren finansal meselelerde hakkınızı almak için sözlü bir mücadeleye gireceğinizi vurguluyor. Bu dönemde, özellikle mülk paylaşımı gibi konularda hızlı düşünen yapınızla süreci kendi lehinize çevirecek, masrafları kısmak adına ev içi harcamalarınızda pratik çözümler üreteceksiniz.",
+      "sağlık": null
+    }
+  }
+}
